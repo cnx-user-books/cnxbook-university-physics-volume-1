@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58333</md:content-id>
   <md:title>Work and Power for Rotational Motion</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of this section, you will be able to:
 <list>
 <item>Use the work-energy theorem to analyze rotation to find the work done on a system when it is rotated about a fixed axis for a finite angular displacement</item>
 <item>Solve for the angular velocity of a rotating rigid body using the work-energy theorem</item>
@@ -15,7 +15,7 @@
 </metadata>
 
 <content>
-<para id="fs-id1167134457416">Thus far in the chapter, we have extensively addressed kinematics and dynamics for rotating rigid bodies around a fixed axis. In this final section, we define work and power within the context of rotation about a fixed axis, which has applications to both physics and engineering. The discussion of work and power makes our treatment of rotational motion almost complete, with the exception of rolling motion and angular momentum, which are discussed in <link document="m58334">Angular Momentum</link>. We begin this section with a treatment of the work-energy theorem for rotation.</para>
+<para id="fs-id1167134457416">Thus far in the chapter, we have extensively addressed kinematics and dynamics for rotating rigid bodies around a fixed axis. In this final section, we define work and power within the context of rotation about a fixed axis, which has applications to both physics and engineering. The discussion of work and power makes our treatment of rotational motion almost complete, with the exception of rolling motion and angular momentum, which are discussed in <link class="target-chapter" document="m58334">Angular Momentum</link>. We begin this section with a treatment of the work-energy theorem for rotation.</para>
 <section id="fs-id1167134967866">
 <title>Work for Rotational Motion</title>
 <para id="fs-id1167134510421">Now that we have determined how to calculate kinetic energy for rotating rigid bodies, we can proceed with a discussion of the work done on a rigid body rotating about a fixed axis. <link target-id="CNX_UPhysics_10_08_RigBody"/> shows a rigid body that has rotated through an angle <m:math><m:mrow><m:mi>d</m:mi><m:mi>θ</m:mi></m:mrow></m:math> from <emphasis effect="italics">A</emphasis> to <emphasis effect="italics">B</emphasis> while under the influence of a force <m:math><m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>F</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle></m:mrow></m:math>. The external force <m:math><m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>F</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle></m:mrow></m:math> is applied to point <emphasis effect="italics">P</emphasis>, whose position is <m:math><m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>r</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle></m:mrow></m:math>, and the rigid body is constrained to rotate about a fixed axis that is perpendicular to the page and passes through <emphasis effect="italics">O</emphasis>. The rotational axis is fixed, so the vector <m:math><m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>r</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle></m:mrow></m:math> moves in a circle of radius <emphasis effect="italics">r</emphasis>, and the vector <m:math><m:mrow><m:mi>d</m:mi><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>s</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle></m:mrow></m:math> is perpendicular to <m:math><m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>r</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle><m:mo>.</m:mo></m:mrow></m:math></para>
@@ -50,7 +50,7 @@
 </note>
 <para id="fs-id1167134664382">We give a strategy for using this equation when analyzing rotational motion.</para>
 <note id="fs-id1167134864035" class="problem-solving">
-<title>Work-Energy Theorem for Rotational Motion</title>
+<title>Problem-Solving Strategy: Work-Energy Theorem for Rotational Motion</title>
 <list id="fs-id1167134861883" list-type="enumerated" number-style="arabic">
 <item>Identify the forces on the body and draw a free-body diagram. Calculate the torque for each force.</item>
 <item>Calculate the work done during the body’s rotation by every torque.</item>
@@ -98,7 +98,7 @@ Since the torque due to <m:math><m:mstyle mathvariant="bold" mathsize="normal"><
 </section>
 <section id="fs-id1167134681310">
 <title>Power for Rotational Motion</title>
-<para id="fs-id1167134650959">Power always comes up in the discussion of applications in engineering and physics. Power for rotational motion is equally as important as power in linear motion and can be derived in a similar way as in linear motion when the force is a constant. The linear power when the force is a constant is <m:math><m:mrow><m:mi>P</m:mi><m:mo>=</m:mo><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>F</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle><m:mo>·</m:mo><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>v</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle></m:mrow></m:math>. If the net torque is constant over the angular displacement, <link target-id="fs-id1167134508536" document="m58332"/> simplifies and the net torque can be taken out of the integral. In the following discussion, we assume the net torque is constant. We can apply the definition of power derived in <link document="m58310">Power</link> to rotational motion. From <link document="m58307">Work and Kinetic Energy</link>, the instantaneous power (or just power) is defined as the rate of doing work,</para>
+<para id="fs-id1167134650959">Power always comes up in the discussion of applications in engineering and physics. Power for rotational motion is equally as important as power in linear motion and can be derived in a similar way as in linear motion when the force is a constant. The linear power when the force is a constant is <m:math><m:mrow><m:mi>P</m:mi><m:mo>=</m:mo><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>F</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle><m:mo>·</m:mo><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>v</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle></m:mrow></m:math>. If the net torque is constant over the angular displacement, <link target-id="fs-id1167134508536" document="m58332"/> simplifies and the net torque can be taken out of the integral. In the following discussion, we assume the net torque is constant. We can apply the definition of power derived in <link class="target-chapter" document="m58310">Power</link> to rotational motion. From <link class="target-chapter" document="m58307">Work and Kinetic Energy</link>, the instantaneous power (or just power) is defined as the rate of doing work,</para>
 <equation id="fs-id1167134436699" class="unnumbered"><label/><m:math><m:mrow><m:mi>P</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>d</m:mi><m:mi>W</m:mi></m:mrow><m:mrow><m:mi>d</m:mi><m:mi>t</m:mi></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></equation>
 <para id="fs-id1167134676192">If we have a constant net torque, <link target-id="fs-id1167134508536" document="m58332"/> becomes <m:math><m:mrow><m:mi>W</m:mi><m:mo>=</m:mo><m:mi>τ</m:mi><m:mi>θ</m:mi></m:mrow></m:math> and the power is</para>
 <equation id="fs-id1167134591817" class="unnumbered"><label/><m:math><m:mrow><m:mi>P</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>d</m:mi><m:mi>W</m:mi></m:mrow><m:mrow><m:mi>d</m:mi><m:mi>t</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mi>d</m:mi><m:mrow><m:mi>d</m:mi><m:mi>t</m:mi></m:mrow></m:mfrac><m:mo stretchy="false">(</m:mo><m:mi>τ</m:mi><m:mi>θ</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mi>τ</m:mi><m:mfrac><m:mrow><m:mi>d</m:mi><m:mi>θ</m:mi></m:mrow><m:mrow><m:mi>d</m:mi><m:mi>t</m:mi></m:mrow></m:mfrac></m:mrow></m:math></equation>
@@ -120,7 +120,7 @@ It is important to note the radian is a dimensionless unit because its definitio
 <note id="fs-id1167134817501" class="check-understanding">
 <exercise id="fs-id1167134534177">
 <problem id="fs-id1167134562471">
-<para id="fs-id1167134562473"> A constant torque of <m:math><m:mrow><m:mn>500</m:mn><m:mspace width="0.2em"/><m:mtext>kN</m:mtext><m:mo>·</m:mo><m:mtext>m</m:mtext></m:mrow></m:math> is applied to a wind turbine to keep it rotating at 6 rad/s. What is the power required to keep the turbine rotating?</para>
+<para id="fs-id1167134562473"><emphasis effect="bold">Check Your Understanding</emphasis> A constant torque of <m:math><m:mrow><m:mn>500</m:mn><m:mspace width="0.2em"/><m:mtext>kN</m:mtext><m:mo>·</m:mo><m:mtext>m</m:mtext></m:mrow></m:math> is applied to a wind turbine to keep it rotating at 6 rad/s. What is the power required to keep the turbine rotating?</para>
 </problem>
 <solution id="fs-id1167134917274">
 <para id="fs-id1167134961649">3 MW</para>
@@ -328,7 +328,7 @@ It is important to note the radian is a dimensionless unit because its definitio
 </row>
 <row valign="top">
 <entry valign="top" align="left">Total torque</entry>
-<entry valign="top" align="left"><m:math><m:mrow><m:msub><m:mrow><m:mover accent="true"><m:mi>τ</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mrow><m:mrow><m:mtext>net</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mstyle displaystyle="true"><m:munder><m:mo>∑</m:mo><m:mi>i</m:mi></m:munder><m:mrow><m:mrow><m:mo>|</m:mo><m:mrow><m:msub><m:mrow><m:mover accent="true"><m:mi>τ</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mrow><m:mi>i</m:mi></m:msub></m:mrow><m:mo>|</m:mo></m:mrow></m:mrow></m:mstyle></m:mrow></m:math></entry>
+<entry valign="top" align="left"><m:math><m:mrow><m:msub><m:mi>τ</m:mi><m:mrow><m:mtext>net</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mstyle displaystyle="true"><m:munder><m:mo>∑</m:mo><m:mi>i</m:mi></m:munder><m:mrow><m:mrow><m:mo>|</m:mo><m:mrow><m:msub><m:mi>τ</m:mi><m:mi>i</m:mi></m:msub></m:mrow><m:mo>|</m:mo></m:mrow></m:mrow></m:mstyle></m:mrow></m:math></entry>
 </row>
 <row valign="top">
 <entry valign="top" align="left">Newton’s second law for rotation</entry>
@@ -351,8 +351,6 @@ It is important to note the radian is a dimensionless unit because its definitio
 <entry valign="top" align="left"><m:math><m:mrow><m:mi>P</m:mi><m:mo>=</m:mo><m:mi>τ</m:mi><m:mi>ω</m:mi></m:mrow></m:math></entry>
 </row>
 </tbody>
-
-
 
 </tgroup>
 </table></section>
@@ -418,12 +416,13 @@ b. <m:math><m:mrow><m:mi>P</m:mi><m:mo>=</m:mo><m:mn>104,700</m:mn><m:mspace wid
 </exercise>
 <exercise id="fs-id1167134884578">
 <problem id="fs-id1167134884580">
-<para id="fs-id1167134884582">An athlete in a gym applies a constant force of 50 N to the pedals of a bicycle at a rate of the pedals moving 60 rev/min. The length of the pedal arms is 30 cm. What is the power delivered to the bicycle by the athlete?</para>
+<para id="fs-id1167134884582">An athlete in a gym applies a constant force of 50 N to the pedals of a bicycle to keep the rotation rate of the wheel at 10 rev/s. The length of the pedal arms is 30 cm. What is the power delivered to the bicycle by the athlete?</para>
 </problem>
 </exercise>
 <exercise id="fs-id1167134966636">
 <problem id="fs-id1167134966638">
-<para id="fs-id1167134966640">A 2-kg block on a frictionless inclined plane at <m:math><m:mrow><m:mn>40</m:mn><m:mtext>°</m:mtext></m:mrow></m:math> has a cord attached to a pulley of mass 1 kg and radius 20 cm (see the following figure). (a) What is the acceleration of the block down the plane? (b) What is the work done by the cord on the pulley?</para><media id="fs-id1167134966653" alt="Figure shows a 2 kg block on an inclined plane at an angle of 40 degrees with a tether attached to a pulley of mass 1 kg and radius 20 cm.">
+<para id="fs-id1167134966640">A 2-kg block on a frictionless inclined plane at <m:math><m:mrow><m:mn>40</m:mn><m:mtext>°</m:mtext></m:mrow></m:math> has a cord attached to a pulley of mass 1 kg and radius 20 cm (see the following figure). (a) What is the acceleration of the block down the plane? (b) What is the work done by the gravitational force to move the block 50 cm?</para>
+<media id="fs-id1167134966653" alt="Figure shows a 2 kg block on an inclined plane at an angle of 40 degrees with a tether attached to a pulley of mass 1 kg and radius 20 cm.">
 <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_10_08_BlocWin_img.jpg"/>
 </media>
 </problem>
@@ -586,11 +585,15 @@ b. <m:math><m:mrow><m:mi>I</m:mi><m:mo>=</m:mo><m:mn>2.34</m:mn><m:mspace width=
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1167134970785">
 <term>rotational work</term>
 <meaning id="fs-id1167134970791">work done on a rigid body due to the sum of the torques integrated over the angle through with the body rotates</meaning>
+</definition>
+<definition id="fs-id1167134970796">
+<term>work-energy theorem for rotation</term>
+<meaning id="fs-id1167134970801">the total rotational work done on a rigid body is equal to the change in rotational kinetic energy of the body</meaning>
 </definition>
 </glossary>
 </document>

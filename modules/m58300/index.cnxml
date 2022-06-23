@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58300</md:content-id>
   <md:title>Common Forces</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of the section, you will be able to:
 <list>
 <item>Define normal and tension forces</item>
 <item>Distinguish between real and fictitious forces</item>
@@ -85,10 +85,11 @@ Since friction always opposes motion between surfaces, the acceleration is small
 <equation id="fs-id1165038217577"><label/><m:math><m:mrow><m:mi>N</m:mi><m:mo>=</m:mo><m:mi>m</m:mi><m:mi>g</m:mi><m:mspace width="0.2em"/><m:mtext>cos</m:mtext><m:mspace width="0.2em"/><m:mi>θ</m:mi><m:mo>.</m:mo></m:mrow></m:math></equation>
 </note>
 <para id="fs-id1165037934793">Instead of memorizing these equations, it is helpful to be able to determine them from reason. To do this, we draw the right angle formed by the three weight vectors. The angle <m:math><m:mi>θ</m:mi></m:math> of the incline is the same as the angle formed between <emphasis effect="italics">w</emphasis> and <m:math><m:mrow><m:msub><m:mi>w</m:mi><m:mi>y</m:mi></m:msub></m:mrow></m:math>. Knowing this property, we can use trigonometry to determine the magnitude of the weight components:</para>
-<equation id="fs-id1165038157910" class="unnumbered"><label/><m:math><m:mtable><m:mtr/><m:mtr/><m:mtr><m:mtd columnalign="left"><m:mtext>cos</m:mtext><m:mspace width="0.2em"/><m:mi>θ</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:msub><m:mi>w</m:mi><m:mi>y</m:mi></m:msub></m:mrow><m:mi>w</m:mi></m:mfrac><m:mo>,</m:mo><m:mspace width="0.5em"/><m:msub><m:mi>w</m:mi><m:mi>y</m:mi></m:msub><m:mo>=</m:mo><m:mi>w</m:mi><m:mspace width="0.2em"/><m:mtext>cos</m:mtext><m:mspace width="0.2em"/><m:mi>θ</m:mi><m:mo>=</m:mo><m:mi>m</m:mi><m:mi>g</m:mi><m:mspace width="0.2em"/><m:mtext>cos</m:mtext><m:mspace width="0.2em"/><m:mi>θ</m:mi></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>sin</m:mtext><m:mspace width="0.2em"/><m:mi>θ</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:msub><m:mi>w</m:mi><m:mi>x</m:mi></m:msub></m:mrow><m:mi>w</m:mi></m:mfrac><m:mo>,</m:mo><m:mspace width="0.5em"/><m:msub><m:mi>w</m:mi><m:mi>x</m:mi></m:msub><m:mo>=</m:mo><m:mi>w</m:mi><m:mspace width="0.2em"/><m:mtext>sin</m:mtext><m:mspace width="0.2em"/><m:mi>θ</m:mi><m:mo>=</m:mo><m:mi>m</m:mi><m:mi>g</m:mi><m:mspace width="0.2em"/><m:mtext>sin</m:mtext><m:mspace width="0.2em"/><m:mi>θ</m:mi><m:mo>.</m:mo></m:mtd></m:mtr></m:mtable></m:math></equation><note id="fs-id1165037986092" class="check-understanding">
+<equation id="fs-id1165038157910" class="unnumbered"><label/><m:math><m:mtable><m:mtr/><m:mtr/><m:mtr><m:mtd columnalign="left"><m:mtext>cos</m:mtext><m:mspace width="0.2em"/><m:mi>θ</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:msub><m:mi>w</m:mi><m:mi>y</m:mi></m:msub></m:mrow><m:mi>w</m:mi></m:mfrac><m:mo>,</m:mo><m:mspace width="0.5em"/><m:msub><m:mi>w</m:mi><m:mi>y</m:mi></m:msub><m:mo>=</m:mo><m:mi>w</m:mi><m:mspace width="0.2em"/><m:mtext>cos</m:mtext><m:mspace width="0.2em"/><m:mi>θ</m:mi><m:mo>=</m:mo><m:mi>m</m:mi><m:mi>g</m:mi><m:mspace width="0.2em"/><m:mtext>sin</m:mtext><m:mspace width="0.2em"/><m:mi>θ</m:mi></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mtext>sin</m:mtext><m:mspace width="0.2em"/><m:mi>θ</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:msub><m:mi>w</m:mi><m:mi>x</m:mi></m:msub></m:mrow><m:mi>w</m:mi></m:mfrac><m:mo>,</m:mo><m:mspace width="0.5em"/><m:msub><m:mi>w</m:mi><m:mi>x</m:mi></m:msub><m:mo>=</m:mo><m:mi>w</m:mi><m:mspace width="0.2em"/><m:mtext>sin</m:mtext><m:mspace width="0.2em"/><m:mi>θ</m:mi><m:mo>=</m:mo><m:mi>m</m:mi><m:mi>g</m:mi><m:mspace width="0.2em"/><m:mtext>sin</m:mtext><m:mspace width="0.2em"/><m:mi>θ</m:mi><m:mo>.</m:mo></m:mtd></m:mtr></m:mtable></m:math></equation>
+<note id="fs-id1165037986092" class="check-understanding">
 <exercise id="fs-id1165037982849">
 <problem id="fs-id1165038053494">
-<para id="fs-id1165037968340"> A force of 1150 N acts parallel to a ramp to push a 250-kg gun safe into a moving van. The ramp is frictionless and inclined at <m:math><m:mrow><m:mn>17</m:mn><m:mtext>°</m:mtext><m:mo>.</m:mo></m:mrow></m:math> (a) What is the acceleration of the safe up the ramp? (b) If we consider friction in this problem, with a friction force of 120 N, what is the acceleration of the safe?</para>
+<para id="fs-id1165037968340"><emphasis effect="bold">Check Your Understanding</emphasis> A force of 1150 N acts parallel to a ramp to push a 250-kg gun safe into a moving van. The ramp is frictionless and inclined at <m:math><m:mrow><m:mn>17</m:mn><m:mtext>°</m:mtext><m:mo>.</m:mo></m:mrow></m:math> (a) What is the acceleration of the safe up the ramp? (b) If we consider friction in this problem, with a friction force of 120 N, what is the acceleration of the safe?</para>
 </problem>
 <solution id="fs-id1165038172763">
 <para id="fs-id1165038300317">a. <m:math><m:mrow><m:mn>1.7</m:mn><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>m/s</m:mtext></m:mrow><m:mn>2</m:mn></m:msup><m:mo>;</m:mo></m:mrow></m:math> b. <m:math><m:mrow><m:mn>1.3</m:mn><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>m/s</m:mtext></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
@@ -181,14 +182,14 @@ The vertical tension in the wire acts as a force that supports the weight of the
 <note id="fs-id1165038270335" class="check-understanding">
 <exercise id="fs-id1165036842383">
 <problem id="fs-id1165036842385">
-<para id="fs-id1165036842387"> One end of a 3.0-m rope is tied to a tree; the other end is tied to a car stuck in the mud. The motorist pulls sideways on the midpoint of the rope, displacing it a distance of 0.25 m. If he exerts a force of 200.0 N under these conditions, determine the force exerted on the car.</para>
+<para id="fs-id1165036842387"><emphasis effect="bold">Check Your Understanding</emphasis> One end of a 3.0-m rope is tied to a tree; the other end is tied to a car stuck in the mud. The motorist pulls sideways on the midpoint of the rope, displacing it a distance of 0.25 m. If he exerts a force of 200.0 N under these conditions, determine the force exerted on the car.</para>
 </problem>
 <solution id="fs-id1165036787956">
 <para id="fs-id1165036787958"><m:math><m:mrow><m:mn>6.0</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math> N</para>
 </solution>
 </exercise>
 </note>
-<para id="fs-id1165038037639">In <link document="m58302">Applications of Newton’s Laws</link>, we extend the discussion on tension in a cable to include cases in which the angles shown are not equal.</para>
+<para id="fs-id1165038037639">In <link class="target-chapter" document="m58302">Applications of Newton’s Laws</link>, we extend the discussion on tension in a cable to include cases in which the angles shown are not equal.</para>
 </section>
 <section id="fs-id1165036887187">
 <title>Friction</title>
@@ -218,10 +219,10 @@ The vertical tension in the wire acts as a force that supports the weight of the
 <caption>Hurricane Fran is shown heading toward the southeastern coast of the United States in September 1996. Notice the characteristic “eye” shape of the hurricane. This is a result of the Coriolis effect, which is the deflection of objects (in this case, air) when considered in a rotating frame of reference, like the spin of Earth. This hurricane shows a counter-clockwise rotation because it is a low pressure storm. (credit "runner": modification of work by "Greenwich Photography"/Flickr)</caption></figure><para id="fs-id1165038308559">The crucial factor in determining whether a frame of reference is inertial is whether it accelerates or rotates relative to a known inertial frame. Unless stated otherwise, all phenomena discussed in this text are in inertial frames.</para>
 <para id="fs-id1165038377256">The forces discussed in this section are real forces, but they are not the only real forces. Lift and thrust, for example, are more specialized real forces. In the long list of forces, are some more basic than others? Are some different manifestations of the same underlying force? The answer to both questions is yes, as you will see in the treatment of modern physics later in the text.</para>
 <note id="fs-id1165038377263" class="media-2">
-<para id="fs-id1165038191668">Explore forces and motion in this <link url="https://openstax.org/l/21ramp">interactive simulation</link> as you push household objects up and down a ramp. Lower and raise the ramp to see how the angle of inclination affects the parallel forces. Graphs show forces, energy, and work.</para>
+<para id="fs-id1165038191668">Explore forces and motion in this <link url="https://openstaxcollege.org/l/21ramp">interactive simulation</link> as you push household objects up and down a ramp. Lower and raise the ramp to see how the angle of inclination affects the parallel forces. Graphs show forces, energy, and work.</para>
 </note>
 <note id="fs-id1165038191678" class="media-2">
-<para id="fs-id1165036895841">Stretch and compress springs in this <link url="https://openstax.org/l/21hookeslaw">activity</link> to explore the relationships among force, spring constant, and displacement. Investigate what happens when two springs are connected in series and in parallel.</para>
+<para id="fs-id1165036895841">Stretch and compress springs in this <link url="https://openstaxcollege.org/l/21hookeslaw">activity</link> to explore the relationships among force, spring constant, and displacement. Investigate what happens when two springs are connected in series and in parallel.</para>
 </note>
 </section>
 <section id="fs-id1165036895852" class="key-concepts">
@@ -230,7 +231,7 @@ The vertical tension in the wire acts as a force that supports the weight of the
 <item>When an object rests on a surface, the surface applies a force to the object that supports the weight of the object. This supporting force acts perpendicular to and away from the surface. It is called a normal force.</item>
 <item>When an object rests on a nonaccelerating horizontal surface, the magnitude of the normal force is equal to the weight of the object.</item>
 <item>When an object rests on an inclined plane that makes an angle <m:math><m:mi>θ</m:mi></m:math> with the horizontal surface, the weight of the object can be resolved into components that act perpendicular and parallel to the surface of the plane.</item>
-<item>The pulling force that acts along a stretched flexible connector, such as a rope or cable, is called tension. When a rope supports the weight of an object at rest, the tension in the rope is equal to the weight of the object. If the object is accelerating, tension is greater than weight, and if it is accelerating opposite to the motion, tension is less than weight.</item>
+<item>The pulling force that acts along a stretched flexible connector, such as a rope or cable, is called tension. When a rope supports the weight of an object at rest, the tension in the rope is equal to the weight of the object. If the object is accelerating, tension is greater than weight, and if it is decelerating, tension is less than weight.</item>
 <item>The force of friction is a force experienced by a moving object (or an object that has a tendency to move) parallel to the interface opposing the motion (or its tendency).</item>
 <item>The force developed in a spring obeys Hooke’s law, according to which its magnitude is proportional to the displacement and has a sense in the opposite direction of the displacement.</item>
 <item>Real forces have a physical origin, whereas fictitious forces occur because the observer is in an accelerating or noninertial frame of reference.</item>
@@ -247,7 +248,7 @@ The vertical tension in the wire acts as a force that supports the weight of the
 <problem id="fs-id1165036842482">
 <para id="fs-id1165036842484">A particle is moving to the right. (a) Can the force on it be acting to the left? If yes, what would happen? (b) Can that force be acting downward? If yes, why?</para></problem>
 <solution id="fs-id1165036892601">
-<para id="fs-id1165036892603">a. Yes, the force can be acting to the left; the particle would experience acceleration opposite to the motion and lose speed. B. Yes, the force can be acting downward because its weight acts downward even as it moves to the right.</para>
+<para id="fs-id1165036892603">a. Yes, the force can be acting to the left; the particle would experience deceleration and lose speed. B. Yes, the force can be acting downward because its weight acts downward even as it moves to the right.</para>
 </solution>
 </exercise>
 </section>
@@ -271,12 +272,21 @@ b. <m:math><m:mrow><m:mi>T</m:mi><m:mo>=</m:mo><m:mi>m</m:mi><m:mi>g</m:mi><m:mo
 </exercise>
 <exercise id="fs-id1165038204761">
 <problem id="fs-id1165038204763">
-<para id="fs-id1165038204765">Two teams of nine members each engage in a tug-of-war, pulling in opposite directions on a horizontal rope. Each of the first team’s members has an average mass of 68 kg and exerts an average force of 1350 N horizontally on the ground as they pull on the rope. Each of the second team’s members has an average mass of 73 kg and exerts an average force of 1365 N horizontally on the ground as they pull on the rope in the opposite direction. (a) What is the magnitude of the acceleration of the two teams, and which team wins? (b) What is the tension in the section of rope between the teams?</para></problem>
+<para id="fs-id1165038204765">Two teams of nine members each engage in tug-of-war. Each of the first team’s members has an average mass of 68 kg and exerts an average force of 1350 N horizontally. Each of the second team’s members has an average mass of 73 kg and exerts an average force of 1365 N horizontally. (a) What is magnitude of the acceleration of the two teams, and which team wins? (b) What is the tension in the section of rope between the teams?</para>
+</problem>
 <solution id="fs-id1165036843522">
-<para id="fs-id1165036843524">a. <m:math><m:mrow><m:mn>0.106</m:mn><m:mspace width="0.2em"/><m:msup><m:mtext>m/s</m:mtext><m:mn>2</m:mn></m:msup></m:mrow></m:math>in the direction of the second team. The second team wins the tug-of-war.<newline/>
-
-b. <m:math><m:mrow><m:mn>1.22</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>4</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>m/s</m:mtext><m:mn>2</m:mn></m:msup></m:mrow></m:math>
-</para></solution>
+<para id="fs-id1165036843524">a.<newline/>
+<media id="fs-id1165036843528" alt="Figure shows two teams of nine members each pulling on a rope form either side. Each member of the team on the left has mass m1 and applies force F1. Each member of the team on the right has mass m2 and applies force F2.">
+<image mime-type="image/jpeg" src="../../media/CNX_UPhysics_05_06_TugofWar_img.jpg"/>
+</media><newline/>
+<m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:msub><m:mi>F</m:mi><m:mrow><m:mtext>net</m:mtext></m:mrow></m:msub></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mi>M</m:mi><m:mi>a</m:mi><m:mspace width="0.2em"/><m:mtext>;</m:mtext><m:mspace width="0.2em"/><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:mn>1350</m:mn><m:mspace width="0.2em"/><m:mtext>N;</m:mtext><m:mspace width="0.2em"/><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub><m:mo>=</m:mo><m:mtext>1365 N</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mn>9</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mi>F</m:mi><m:mn>2</m:mn></m:msub><m:mo>−</m:mo><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub></m:mrow><m:mo>)</m:mo></m:mrow></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>9</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:msub><m:mi>m</m:mi><m:mn>1</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi>m</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mo>)</m:mo></m:mrow><m:mi>a</m:mi><m:mo>;</m:mo><m:mspace width="0.2em"/><m:msub><m:mi>m</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:mn>68</m:mn><m:mspace width="0.2em"/><m:mtext>kg;</m:mtext><m:mspace width="0.2em"/><m:msub><m:mi>m</m:mi><m:mn>2</m:mn></m:msub><m:mo>=</m:mo><m:mtext>73 kg</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:mi>a</m:mi></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:mn>0.11</m:mn><m:mspace width="0.2em"/><m:msup><m:mtext>m/s</m:mtext><m:mn>2</m:mn></m:msup><m:mo>;</m:mo></m:mtd></m:mtr></m:mtable></m:math><newline/>
+Thus, the heavy team wins.<newline/>
+b.<newline/>
+<media id="fs-id1165037978182" alt="Figure shows a team of people each with mass m1 pulling on a rope towards the left with force F1. An arrow parallel to the rope, pointing right is labeled T. Net F prime is equal to M prime a.">
+<image mime-type="image/jpeg" src="../../media/CNX_UPhysics_05_06_TugofWar2_img.jpg"/>
+</media><newline/>
+<m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:mi>T</m:mi><m:mo>−</m:mo><m:mn>9</m:mn><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo><m:mn>9</m:mn><m:msub><m:mi>m</m:mi><m:mn>1</m:mn></m:msub><m:mi>a</m:mi><m:mo stretchy="false">⇒</m:mo><m:mi>T</m:mi><m:mo>=</m:mo><m:mn>9</m:mn><m:msub><m:mi>m</m:mi><m:mn>1</m:mn></m:msub><m:mi>a</m:mi><m:mo>+</m:mo><m:mn>9</m:mn><m:msub><m:mi>F</m:mi><m:mn>1</m:mn></m:msub></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd columnalign="left"><m:mo>=</m:mo><m:mn>1.2</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mn>4</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>N</m:mtext></m:mtd></m:mtr></m:mtable></m:math></para>
+</solution>
 </exercise>
 <exercise id="fs-id1165036882059">
 <problem id="fs-id1165036882061">
@@ -360,7 +370,7 @@ b. <m:math><m:mrow><m:mn>1.22</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:m
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1165038364576">
 <term>Hooke’s law</term>

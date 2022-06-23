@@ -8,7 +8,7 @@
   <md:uuid>1a87e4af-d3b2-4c23-981c-d33ca2fed9b2</md:uuid>
 </metadata>
 
-<content class="preface">
+<content>
 <para id="fs-id1165039088977">Welcome to <emphasis effect="italics">University Physics</emphasis>, an OpenStax resource. This textbook was written to increase student access to high-quality learning materials, maintaining highest standards of academic rigor at little to no cost.</para>
 <section id="fs-id1165039424848">
 <title>About OpenStax</title>
@@ -32,7 +32,8 @@
 <title>Coverage and scope</title><para id="fs-id1165039091394">Our <emphasis effect="italics">University Physics</emphasis> textbook adheres to the scope and sequence of most two- and three-semester physics courses nationwide. We have worked to make physics interesting and accessible to students while maintaining the mathematical rigor inherent in the subject. With this objective in mind, the content of this textbook has been developed and arranged to provide a logical progression from fundamental to more advanced concepts, building upon what students have already learned and emphasizing connections between topics and between theory and applications. The goal of each section is to enable students not just to recognize concepts, but to work with them in ways that will be useful in later courses and future careers. The organization and pedagogical features were developed and vetted with feedback from science educators dedicated to the project.</para>
 <para id="fs-id1165039066027"><emphasis effect="bold">VOLUME I</emphasis></para>
 <para id="fs-id1165039298275"><emphasis effect="bold">Unit 1: Mechanics</emphasis></para>
-<list id="fs-id1165039279903" list-type="bulleted" bullet-style="none"><item>Chapter 1: Units and Measurement</item>
+<list id="fs-id1165039279903" list-type="bulleted" bullet-style="bullet">
+<item>Chapter 1: Units and Measurement</item>
 <item>Chapter 2: Vectors</item>
 <item>Chapter 3: Motion Along a Straight Line</item>
 <item>Chapter 4: Motion in Two and Three Dimensions</item>
@@ -46,18 +47,24 @@
 <item>Chapter 12: Static Equilibrium and Elasticity</item>
 <item>Chapter 13: Gravitation</item>
 <item>Chapter 14: Fluid Mechanics</item>
-</list><para id="fs-id1165039103452"><emphasis effect="bold">Unit 2: Waves and Acoustics</emphasis></para>
-<list id="fs-id1165039052631" list-type="bulleted" bullet-style="none"><item>Chapter 15: Oscillations</item>
+</list>
+<para id="fs-id1165039103452"><emphasis effect="bold">Unit 2: Waves and Acoustics</emphasis></para>
+<list id="fs-id1165039052631" list-type="bulleted" bullet-style="bullet">
+<item>Chapter 15: Oscillations</item>
 <item>Chapter 16: Waves</item>
 <item>Chapter 17: Sound</item>
-</list><para id="fs-id1165039093719"><emphasis effect="bold">VOLUME II</emphasis></para>
+</list>
+<para id="fs-id1165039093719"><emphasis effect="bold">VOLUME II</emphasis></para>
 <para id="fs-id1165039081896"><emphasis effect="bold">Unit 1: Thermodynamics</emphasis></para>
-<list id="fs-id1165039004173" list-type="bulleted" bullet-style="none"><item>Chapter 1: Temperature and Heat</item>
+<list id="fs-id1165039004173" list-type="bulleted" bullet-style="bullet">
+<item>Chapter 1: Temperature and Heat</item>
 <item>Chapter 2: The Kinetic Theory of Gases</item>
 <item>Chapter 3: The First Law of Thermodynamics</item>
 <item>Chapter 4: The Second Law of Thermodynamics</item>
-</list><para id="fs-id1165039266678"><emphasis effect="bold">Unit 2: Electricity and Magnetism</emphasis></para>
-<list id="fs-id1165039288224" list-type="bulleted" bullet-style="none"><item>Chapter 5: Electric Charges and Fields</item>
+</list>
+<para id="fs-id1165039266678"><emphasis effect="bold">Unit 2: Electricity and Magnetism</emphasis></para>
+<list id="fs-id1165039288224" list-type="bulleted" bullet-style="bullet">
+<item>Chapter 5: Electric Charges and Fields</item>
 <item>Chapter 6: Gauss’s Law</item>
 <item>Chapter 7: Electric Potential</item>
 <item>Chapter 8: Capacitance</item>
@@ -69,31 +76,38 @@
 <item>Chapter 14: Inductance</item>
 <item>Chapter 15: Alternating-Current Circuits</item>
 <item>Chapter 16: Electromagnetic Waves</item>
-</list><para id="fs-id1165039304642"><emphasis effect="bold">VOLUME III</emphasis></para>
+</list>
+<para id="fs-id1165039304642"><emphasis effect="bold">VOLUME III</emphasis></para>
 <para id="fs-id1165039011491"><emphasis effect="bold">Unit 1: Optics</emphasis></para>
-<list id="fs-id1165039286682" list-type="bulleted" bullet-style="none"><item>Chapter 1: The Nature of Light</item>
+<list id="fs-id1165039286682" list-type="bulleted" bullet-style="bullet">
+<item>Chapter 1: The Nature of Light</item>
 <item>Chapter 2: Geometric Optics and Image Formation</item>
 <item>Chapter 3: Interference</item>
 <item>Chapter 4: Diffraction</item>
-</list><para id="fs-id1165039367760"><emphasis effect="bold">Unit 2: Modern Physics</emphasis></para>
-<list id="fs-id1165038974310" list-type="bulleted" bullet-style="none"><item>Chapter 5: Relativity</item>
+</list>
+<para id="fs-id1165039367760"><emphasis effect="bold">Unit 2: Modern Physics</emphasis></para>
+<list id="fs-id1165038974310" list-type="bulleted" bullet-style="bullet">
+<item>Chapter 5: Relativity</item>
 <item>Chapter 6: Photons and Matter Waves</item>
 <item>Chapter 7: Quantum Mechanics</item>
 <item>Chapter 8: Atomic Structure</item>
 <item>Chapter 9: Condensed Matter Physics</item>
 <item>Chapter 10: Nuclear Physics</item>
 <item>Chapter 11: Particle Physics and Cosmology</item>
-</list></section>
+</list>
+</section>
 <section id="fs-id1165038961942">
 <title>Pedagogical foundation</title><para id="fs-id1165039196055">Throughout <emphasis effect="italics">University Physics</emphasis> you will find derivations of concepts that present classical ideas and techniques, as well as modern applications and methods. Most chapters start with observations or experiments that place the material in a context of physical experience. Presentations and explanations rely on years of classroom experience on the part of long-time physics professors, striving for a balance of clarity and rigor that has proven successful with their students. Throughout the text, links enable students to review earlier material and then return to the present discussion, reinforcing connections between topics. Key historical figures and experiments are discussed in the main text (rather than in boxes or sidebars), maintaining a focus on the development of physical intuition. Key ideas, definitions, and equations are highlighted in the text and listed in summary form at the end of each chapter. Examples and chapter-opening images often include contemporary applications from daily life or modern science and engineering that students can relate to, from smart phones to the internet to GPS devices.</para>
 </section>
 <section id="fs-id1165039091879">
-<title>Assessments that reinforce key concepts</title><para id="fs-id1165039247386">In-chapter <emphasis effect="bold">Examples</emphasis> generally follow a three-part format of Strategy, Solution, and Significance to emphasize how to approach a problem, how to work with the equations, and how to check and generalize the result. Examples are often followed by  questions and answers to help reinforce for students the important ideas of the examples. <emphasis effect="bold">Problem-Solving Strategies</emphasis> in each chapter break down methods of approaching various types of problems into steps students can follow for guidance. The book also includes exercises at the end of each chapter so students can practice what they’ve learned.</para>
-<list id="fs-id1165039044333" list-type="bulleted" bullet-style="none"><item><emphasis effect="bold">Conceptual questions</emphasis> do not require calculation but test student learning of the key concepts.</item>
+<title>Assessments that reinforce key concepts</title><para id="fs-id1165039247386">In-chapter <emphasis effect="bold">Examples</emphasis> generally follow a three-part format of Strategy, Solution, and Significance to emphasize how to approach a problem, how to work with the equations, and how to check and generalize the result. Examples are often followed by <emphasis effect="bold">Check Your Understanding</emphasis> questions and answers to help reinforce for students the important ideas of the examples. <emphasis effect="bold">Problem-Solving Strategies</emphasis> in each chapter break down methods of approaching various types of problems into steps students can follow for guidance. The book also includes exercises at the end of each chapter so students can practice what they’ve learned.</para>
+<list id="fs-id1165039044333" list-type="bulleted" bullet-style="bullet">
+<item><emphasis effect="bold">Conceptual questions</emphasis> do not require calculation but test student learning of the key concepts.</item>
 <item><emphasis effect="bold">Problems</emphasis> categorized by section test student problem-solving skills and the ability to apply ideas to practical situations.</item>
 <item><emphasis effect="bold">Additional Problems</emphasis> apply knowledge across the chapter, forcing students to identify what concepts and equations are appropriate for solving given problems. Randomly located throughout the problems are <emphasis effect="bold">Unreasonable Results</emphasis> exercises that ask students to evaluate the answer to a problem and explain why it is not reasonable and what assumptions made might not be correct.</item>
 <item><emphasis effect="bold">Challenge Problems</emphasis> extend text ideas to interesting but difficult situations.</item>
-</list><para id="fs-id1165038994270">Answers for selected exercises are available in an <emphasis effect="bold">Answer Key</emphasis> at the end of the book.</para>
+</list>
+<para id="fs-id1165038994270">Answers for selected exercises are available in an <emphasis effect="bold">Answer Key</emphasis> at the end of the book.</para>
 </section>
 </section>
 <section id="fs-id1165039272776">
@@ -113,7 +127,7 @@ Dr. William Moebs earned a BS and PhD (1959 and 1965) from the University of Mic
 
 
 
-<section id="eip-45" class="contrib-auth"><title>Contributing authors</title><para id="eip-682">Stephen D. Druger, Northwestern University
+<section id="eip-45" class="contrib-auth"><title>Contributing authors</title><para id="eip-682">Stephen D. Druger
 <newline/>Alice Kolakowska, University of Memphis
 <newline/>David Anderson, Albion College
 <newline/>Daniel Bowman, Ferrum College
@@ -183,5 +197,5 @@ Dr. William Moebs earned a BS and PhD (1959 and 1965) from the University of Mic
 <newline/>Alexander Wurm, Western New England University
 <newline/>Lei Zhang, Winston Salem State University
 <newline/>Ulrich Zurcher, Cleveland State University</para></section>
-</section>  </content>
+</section></content>
 </document>
