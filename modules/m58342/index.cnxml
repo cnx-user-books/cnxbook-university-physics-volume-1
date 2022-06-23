@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58342</md:content-id>
   <md:title>Stress, Strain, and Elastic Modulus</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of this section, you will be able to:
 <list>
 <item>Explain the concepts of stress and strain in describing elastic deformations of materials</item>
 <item>Describe the types of elastic deformation of objects and materials</item>
@@ -17,7 +17,7 @@
 <para id="fs-id1163709817608">Stress is a quantity that describes the magnitude of forces that cause deformation. Stress is generally defined as <emphasis effect="italics">force per unit area</emphasis>. When forces pull on an object and cause its elongation, like the stretching of an elastic band, we call such stress a <term>tensile stress</term>. When forces cause a compression of an object, we call it a <term>compressive stress</term>. When an object is being squeezed from all sides, like a submarine in the depths of an ocean, we call this kind of stress a <term>bulk stress</term> (or <term>volume stress</term>). In other situations, the acting forces may be neither tensile nor compressive, and still produce a noticeable deformation. For example, suppose you hold a book tightly between the palms of your hands, then with one hand you press-and-pull on the front cover away from you, while with the other hand you press-and-pull on the back cover toward you. In such a case, when deforming forces act tangentially to the object’s surface, we call them ‘shear’ forces and the stress they cause is called <term>shear stress</term>.</para>
 <para id="fs-id1163709705004">The SI unit of stress is the pascal (Pa). When one newton of force presses on a unit surface area of one meter squared, the resulting stress is one pascal:</para>
 <equation id="fs-id1163713428309" class="unnumbered"><label/><m:math><m:mrow><m:mtext>one pascal</m:mtext><m:mo>=</m:mo><m:mn>1.0</m:mn><m:mspace width="0.2em"/><m:mtext>Pa</m:mtext><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>1.0</m:mn><m:mspace width="0.2em"/><m:mtext>N</m:mtext></m:mrow><m:mrow><m:mn>1.0</m:mn><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>m</m:mtext></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></equation>
-<para id="fs-id1163713097813">In the Imperial system of units, the unit of stress is ‘psi,’ which stands for ‘pound per square inch’ <m:math><m:mrow><m:mo>(</m:mo><m:msup><m:mrow><m:mtext>lb/in</m:mtext></m:mrow><m:mn>2</m:mn></m:msup><m:mo>)</m:mo><m:mo>.</m:mo></m:mrow></m:math> Another unit that is often used for bulk stress is the atm (atmosphere). Conversion factors are</para>
+<para id="fs-id1163713097813">In the British system of units, the unit of stress is ‘psi,’ which stands for ‘pound per square inch’ <m:math><m:mrow><m:mo>(</m:mo><m:msup><m:mrow><m:mtext>lb/in</m:mtext></m:mrow><m:mn>2</m:mn></m:msup><m:mo>)</m:mo><m:mo>.</m:mo></m:mrow></m:math> Another unit that is often used for bulk stress is the atm (atmosphere). Conversion factors are</para>
 <equation id="fs-id1163713421708" class="unnumbered"><label/><m:math><m:mtable><m:mtr><m:mtd><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>psi</m:mtext><m:mo>=</m:mo><m:mn>6895</m:mn><m:mspace width="0.2em"/><m:mtext>Pa</m:mtext><m:mspace width="0.5em"/><m:mtext>and</m:mtext><m:mspace width="0.5em"/><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>Pa</m:mtext><m:mo>=</m:mo><m:mn>1.450</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mrow><m:mn>−4</m:mn></m:mrow></m:msup><m:mtext>psi</m:mtext></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>1</m:mn><m:mspace width="0.2em"/><m:mtext>atm</m:mtext><m:mo>=</m:mo><m:mn>1.013</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mn>5</m:mn></m:msup><m:mtext>Pa</m:mtext><m:mo>=</m:mo><m:mn>14.7</m:mn><m:mspace width="0.2em"/><m:mtext>psi.</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation>
 <para id="fs-id1163709749578">An object or medium under stress becomes deformed. The quantity that describes this deformation is called <term>strain</term>. Strain is given as a fractional change in either length (under tensile stress) or volume (under bulk stress) or geometry (under shear stress). Therefore, strain is a dimensionless number. Strain under a tensile stress is called <term>tensile strain</term>, strain under bulk stress is called <term>bulk strain</term> (or <term>volume strain</term>), and that caused by shear stress is called <term>shear</term> <term>strain</term>.</para>
 <para id="fs-id1163713006766">The greater the stress, the greater the strain; however, the relation between strain and stress does not need to be linear. Only when stress is sufficiently low is the deformation it causes in direct proportion to the stress value. The proportionality constant in this relation is called the <term>elastic</term> <term>modulus</term>. In the linear limit of low stress values, the general relation between stress and strain is</para>
@@ -242,7 +242,7 @@ Notice that the normal force acting on the cross-sectional area of the pillar is
 <note id="fs-id1163713195146" class="check-understanding">
 <exercise id="fs-id1163713106683">
 <problem id="fs-id1163713254799">
-<para id="fs-id1163713036496"> Find the compressive stress and strain at the base of Nelson’s column.</para>
+<para id="fs-id1163713036496"><emphasis effect="bold">Check Your Understanding</emphasis> Find the compressive stress and strain at the base of Nelson’s column.</para>
 </problem>
 <solution id="fs-id1163709836524">
 <para id="fs-id1163709815365"><m:math><m:mrow><m:mn>206.8</m:mn><m:mspace width="0.2em"/><m:mtext>kPa</m:mtext><m:mo>;</m:mo><m:mspace width="0.2em"/><m:mn>4.6</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−5</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
@@ -267,7 +267,7 @@ Similarly as in the example with the column, the tensile stress in this example 
 <note id="fs-id1163709658304" class="check-understanding">
 <exercise id="fs-id1163709751929">
 <problem id="fs-id1163709751931">
-<para id="fs-id1163713429579"> A 2.0-m-long wire stretches 1.0 mm when subjected to a load. What is the tensile strain in the wire?</para>
+<para id="fs-id1163713429579"><emphasis effect="bold">Check Your Understanding</emphasis> A 2.0-m-long wire stretches 1.0 mm when subjected to a load. What is the tensile strain in the wire?</para>
 </problem>
 <solution id="fs-id1163713286423">
 <para id="fs-id1163713286425"><m:math><m:mrow><m:mn>5.0</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−4</m:mn></m:mrow></m:msup></m:mrow></m:math></para>
@@ -303,7 +303,7 @@ Similarly as in the example with the column, the tensile stress in this example 
 </figure>
 <para id="fs-id1163713283449">The bulk strain results from the bulk stress, which is a force <m:math><m:mrow><m:msub><m:mi>F</m:mi><m:mo>⊥</m:mo></m:msub></m:mrow></m:math> normal to a surface that presses on the unit surface area <emphasis effect="italics">A</emphasis> of a submerged object. This kind of physical quantity, or pressure <emphasis effect="italics">p</emphasis>, is defined as</para>
 <equation id="fs-id1163709828123"><m:math><m:mrow><m:mtext>pressure</m:mtext><m:mo>=</m:mo><m:mi>p</m:mi><m:mo>≡</m:mo><m:mfrac><m:mrow><m:msub><m:mi>F</m:mi><m:mo>⊥</m:mo></m:msub></m:mrow><m:mi>A</m:mi></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></equation>
-<para id="fs-id1163713365776">We will study pressure in fluids in greater detail in <link document="m58624">Fluid Mechanics</link>. An important characteristic of pressure is that it is a scalar quantity and does not have any particular direction; that is, pressure acts equally in all possible directions. When you submerge your hand in water, you sense the same amount of pressure acting on the top surface of your hand as on the bottom surface, or on the side surface, or on the surface of the skin between your fingers. What you are perceiving in this case is an increase in pressure <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>p</m:mi></m:mrow></m:math> over what you are used to feeling when your hand is not submerged in water. What you feel when your hand is not submerged in the water is the <term>normal pressure</term> <m:math><m:mrow><m:msub><m:mi>p</m:mi><m:mn>0</m:mn></m:msub></m:mrow></m:math> of one atmosphere, which serves as a reference point. The bulk stress is this increase in pressure, or <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>p</m:mi><m:mo>,</m:mo></m:mrow></m:math> over the normal level, <m:math><m:mrow><m:msub><m:mi>p</m:mi><m:mn>0</m:mn></m:msub><m:mo>.</m:mo></m:mrow></m:math></para>
+<para id="fs-id1163713365776">We will study pressure in fluids in greater detail in <link class="target-chapter" document="m58624">Fluid Mechanics</link>. An important characteristic of pressure is that it is a scalar quantity and does not have any particular direction; that is, pressure acts equally in all possible directions. When you submerge your hand in water, you sense the same amount of pressure acting on the top surface of your hand as on the bottom surface, or on the side surface, or on the surface of the skin between your fingers. What you are perceiving in this case is an increase in pressure <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>p</m:mi></m:mrow></m:math> over what you are used to feeling when your hand is not submerged in water. What you feel when your hand is not submerged in the water is the <term>normal pressure</term> <m:math><m:mrow><m:msub><m:mi>p</m:mi><m:mn>0</m:mn></m:msub></m:mrow></m:math> of one atmosphere, which serves as a reference point. The bulk stress is this increase in pressure, or <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>p</m:mi><m:mo>,</m:mo></m:mrow></m:math> over the normal level, <m:math><m:mrow><m:msub><m:mi>p</m:mi><m:mn>0</m:mn></m:msub><m:mo>.</m:mo></m:mrow></m:math></para>
 <para id="fs-id1163713171222">When the bulk stress increases, the bulk strain increases in response, in accordance with <link target-id="fs-id1163713135600"/>. The proportionality constant in this relation is called the bulk modulus, <emphasis effect="italics">B</emphasis>, or</para>
 <note id="fs-id1163713354845" class="equation-callout">
 <equation id="fs-id1163713354848"><m:math><m:mrow><m:mi>B</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mtext>bulk stress</m:mtext></m:mrow><m:mrow><m:mtext>bulk strain</m:mtext></m:mrow></m:mfrac><m:mo>=</m:mo><m:mo>−</m:mo><m:mfrac><m:mrow><m:mtext>Δ</m:mtext><m:mi>p</m:mi></m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:mi>V</m:mi><m:mspace width="0.1em"/><m:mtext>/</m:mtext><m:mspace width="0.1em"/><m:msub><m:mi>V</m:mi><m:mn>0</m:mn></m:msub></m:mrow></m:mfrac><m:mo>=</m:mo><m:mtext>−</m:mtext><m:mtext>Δ</m:mtext><m:mi>p</m:mi><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:msub><m:mi>V</m:mi><m:mn>0</m:mn></m:msub></m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:mi>V</m:mi></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></equation>
@@ -335,7 +335,7 @@ Notice that since the compressibility of water is 2.32 times larger than that of
 <note id="fs-id1163713514830" class="check-understanding">
 <exercise id="fs-id1163713090726">
 <problem id="fs-id1163713090729">
-<para id="fs-id1163713090731"> If the normal force acting on each face of a cubical <m:math><m:mrow><m:mn>1</m:mn><m:msup><m:mrow><m:mtext>.0-m</m:mtext></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:math> piece of steel is changed by <m:math><m:mrow><m:mn>1.0</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>7</m:mn></m:msup><m:mtext>N</m:mtext><m:mo>,</m:mo></m:mrow></m:math> find the resulting change in the volume of the piece of steel.</para>
+<para id="fs-id1163713090731"><emphasis effect="bold">Check Your Understanding</emphasis> If the normal force acting on each face of a cubical <m:math><m:mrow><m:mn>1</m:mn><m:msup><m:mrow><m:mtext>.0-m</m:mtext></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:math> piece of steel is changed by <m:math><m:mrow><m:mn>1.0</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>7</m:mn></m:msup><m:mtext>N</m:mtext><m:mo>,</m:mo></m:mrow></m:math> find the resulting change in the volume of the piece of steel.</para>
 </problem>
 <solution id="fs-id1163713080974">
 <para id="fs-id1163713080977">63 mL</para>
@@ -380,7 +380,7 @@ If the person in this example gave the shelf a healthy push, it might happen tha
 <note id="fs-id1163709661853" class="check-understanding">
 <exercise id="fs-id1163713161722">
 <problem id="fs-id1163713161724">
-<para id="fs-id1163713161726"> Explain why the concepts of Young’s modulus and shear modulus do not apply to fluids.</para>
+<para id="fs-id1163713161726"><emphasis effect="bold">Check Your Understanding</emphasis> Explain why the concepts of Young’s modulus and shear modulus do not apply to fluids.</para>
 </problem>
 <solution id="fs-id1163713558669">
 <para id="fs-id1163713558671">Fluids have different mechanical properties than those of solids; fluids flow.</para>
@@ -478,7 +478,7 @@ If the person in this example gave the shelf a healthy push, it might happen tha
 <para id="fs-id1163713277956">By how much does a 65.0-kg mountain climber stretch her 0.800-cm diameter nylon rope when she hangs 35.0 m below a rock outcropping? (For nylon, <m:math><m:mrow><m:mi>Y</m:mi><m:mo>=</m:mo><m:mn>1.35</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>9</m:mn></m:msup><m:mtext>Pa</m:mtext><m:mtext>.)</m:mtext></m:mrow></m:math></para>
 </problem>
 <solution id="fs-id1163709830348">
-<para id="fs-id1163709830350">32.9 cm</para>
+<para id="fs-id1163709830350">9.0 cm</para>
 </solution>
 </exercise>
 <exercise id="fs-id1163709817998">
@@ -599,7 +599,7 @@ If the person in this example gave the shelf a healthy push, it might happen tha
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1163713087228">
 <term>bulk modulus</term>

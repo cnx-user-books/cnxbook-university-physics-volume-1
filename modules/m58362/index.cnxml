@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58362</md:content-id>
   <md:title>Energy in Simple Harmonic Motion</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of this section, you will be able to:
 <list>
 <item>Describe the energy conservation of the system of a mass and a spring</item>
 <item>Explain the concepts of stable and unstable equilibrium points</item>
@@ -52,7 +52,7 @@
 </media>
 <caption>A graph of the kinetic energy (red), potential energy (blue), and total energy (green) of a simple harmonic oscillator. The force is equal to <m:math><m:mrow><m:mi>F</m:mi><m:mo>=</m:mo><m:mo>−</m:mo><m:mfrac><m:mrow><m:mi>d</m:mi><m:mi>U</m:mi></m:mrow><m:mrow><m:mi>d</m:mi><m:mi>x</m:mi></m:mrow></m:mfrac></m:mrow></m:math>. The equilibrium position is shown as a black dot and is the point where the force is equal to zero. The force is positive when <m:math><m:mrow><m:mi>x</m:mi><m:mo>&lt;</m:mo><m:mn>0</m:mn></m:mrow></m:math>, negative when <m:math><m:mrow><m:mi>x</m:mi><m:mo>&gt;</m:mo><m:mn>0</m:mn></m:mrow></m:math>, and equal to zero when <m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math>.</caption>
 </figure>
-<para id="fs-id1167132495725">The potential energy curve in <link target-id="CNX_UPhysics_15_02_SHMEnrgPos"/> resembles a bowl. When a marble is placed in a bowl, it settles to the equilibrium position at the lowest point of the bowl <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math>. This happens because a <term>restoring force</term> points toward the equilibrium point. This equilibrium point is sometimes referred to as a <emphasis effect="italics">fixed point</emphasis>. When the marble is disturbed to a different position <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mo>+</m:mo><m:mi>A</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math>, the marble oscillates around the equilibrium position. Looking back at the graph of potential energy, the force can be found by looking at the slope of the potential energy graph <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>F</m:mi><m:mo>=</m:mo><m:mo>−</m:mo><m:mfrac><m:mrow><m:mi>d</m:mi><m:mi>U</m:mi></m:mrow><m:mrow><m:mi>d</m:mi><m:mi>x</m:mi></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math>. Since the force on either side of the fixed point points back toward the equilibrium point, the equilibrium point is called a <term>stable equilibrium point</term>. The points <m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mi>A</m:mi></m:mrow></m:math> and <m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mtext>−</m:mtext><m:mi>A</m:mi></m:mrow></m:math> are called the <term class="no-emphasis">turning points</term>. (See <link document="m58311">Potential Energy and Conservation of Energy</link>.)</para>
+<para id="fs-id1167132495725">The potential energy curve in <link target-id="CNX_UPhysics_15_02_SHMEnrgPos"/> resembles a bowl. When a marble is placed in a bowl, it settles to the equilibrium position at the lowest point of the bowl <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math>. This happens because a <term>restoring force</term> points toward the equilibrium point. This equilibrium point is sometimes referred to as a <emphasis effect="italics">fixed point</emphasis>. When the marble is disturbed to a different position <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mo>+</m:mo><m:mi>A</m:mi></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math>, the marble oscillates around the equilibrium position. Looking back at the graph of potential energy, the force can be found by looking at the slope of the potential energy graph <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>F</m:mi><m:mo>=</m:mo><m:mo>−</m:mo><m:mfrac><m:mrow><m:mi>d</m:mi><m:mi>U</m:mi></m:mrow><m:mrow><m:mi>d</m:mi><m:mi>x</m:mi></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:math>. Since the force on either side of the fixed point points back toward the equilibrium point, the equilibrium point is called a <term>stable equilibrium point</term>. The points <m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mi>A</m:mi></m:mrow></m:math> and <m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mtext>−</m:mtext><m:mi>A</m:mi></m:mrow></m:math> are called the <term class="no-emphasis">turning points</term>. (See <link class="target-chapter" document="m58311">Potential Energy and Conservation of Energy</link>.)</para>
 <para id="fs-id1167132239306"><term class="no-emphasis">Stability</term> is an important concept. If an equilibrium point is stable, a slight disturbance of an object that is initially at the stable equilibrium point will cause the object to oscillate around that point. The stable equilibrium point occurs because the force on either side is directed toward it. For an unstable equilibrium point, if the object is disturbed slightly, it does not return to the equilibrium point.</para>
 <para id="fs-id1167132722356">Consider the marble in the bowl example. If the bowl is right-side up, the marble, if disturbed slightly, will oscillate around the stable equilibrium point. If the bowl is turned upside down, the marble can be balanced on the top, at the equilibrium point where the net force is zero. However, if the marble is disturbed slightly, it will not return to the equilibrium point, but will instead roll off the bowl. The reason is that the force on either side of the equilibrium point is directed away from that point. This point is an unstable equilibrium point.</para>
 <para id="fs-id1167133655285"><link target-id="CNX_UPhysics_15_02_BowlFixPT"/> shows three conditions. The first is a stable equilibrium point (a), the second is an unstable equilibrium point (b), and the last is also an unstable equilibrium point (c), because the force on only one side points toward the equilibrium point.</para>
@@ -98,7 +98,7 @@
 <note id="fs-id1167128986704" class="check-understanding">
 <exercise id="fs-id1167132508964">
 <problem id="fs-id1167133533351">
-<para id="fs-id1167132439874"> Why would it hurt more if you snapped your hand with a ruler than with a loose spring, even if the displacement of each system is equal?</para>
+<para id="fs-id1167132439874"><emphasis effect="bold">Check Your Understanding</emphasis> Why would it hurt more if you snapped your hand with a ruler than with a loose spring, even if the displacement of each system is equal?</para>
 </problem>
 <solution id="fs-id1167133769676">
 <para id="fs-id1167132688907">The ruler is a stiffer system, which carries greater force for the same amount of displacement. The ruler snaps your hand with greater force, which hurts more.</para>
@@ -108,7 +108,7 @@
 <note id="fs-id1167132595332" class="check-understanding">
 <exercise id="fs-id1167132713462">
 <problem id="fs-id1167133611581">
-<para id="fs-id1167129102812"> Identify one way you could decrease the maximum velocity of a simple harmonic oscillator.</para>
+<para id="fs-id1167129102812"><emphasis effect="bold">Check Your Understanding</emphasis> Identify one way you could decrease the maximum velocity of a simple harmonic oscillator.</para>
 </problem>
 <solution id="fs-id1167132415438">
 <para id="fs-id1167132504949">You could increase the mass of the object that is oscillating. Other options would be to reduce the amplitude, or use a less stiff spring.</para>
@@ -121,9 +121,9 @@
 <list id="fs-id1167132559530" list-type="bulleted" bullet-style="bullet">
 <item>The simplest type of oscillations are related to systems that can be described by Hooke’s law, <emphasis effect="italics">F</emphasis> = −<emphasis effect="italics">kx</emphasis>, where <emphasis effect="italics">F</emphasis> is the restoring force, <emphasis effect="italics">x</emphasis> is the displacement from equilibrium or deformation, and <emphasis effect="italics">k</emphasis> is the force constant of the system.</item>
 <item>Elastic potential energy <emphasis effect="italics">U</emphasis> stored in the deformation of a system that can be described by Hooke’s law is given by<m:math><m:mrow><m:mi>U</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>k</m:mi><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>.</m:mo></m:mrow></m:math></item>
-<item>Energy in the simple harmonic oscillator is shared between elastic potential energy and kinetic energy, with the total being constant:
+<item>Energy in the simple harmonic oscillator is shared between elastic potential energy and kinetic energy, with the total being constant:<newline/>
 <equation id="fs-id1167132687431" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mi>E</m:mi><m:mrow><m:mtext>Total</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>m</m:mi><m:msup><m:mi>v</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>k</m:mi><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>k</m:mi><m:msup><m:mi>A</m:mi><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mtext>constant.</m:mtext></m:mrow></m:math></equation></item>
-<item>The magnitude of the velocity as a function of position for the simple harmonic oscillator can be found by using 
+<item>The magnitude of the velocity as a function of position for the simple harmonic oscillator can be found by using<newline/>
 <equation id="fs-id1167132586927" class="unnumbered"><label/><m:math><m:mrow><m:mrow><m:mo>|</m:mo><m:mi>v</m:mi><m:mo>|</m:mo></m:mrow><m:mo>=</m:mo><m:msqrt><m:mrow><m:mfrac><m:mi>k</m:mi><m:mi>m</m:mi></m:mfrac><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mi>A</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup></m:mrow><m:mo>)</m:mo></m:mrow></m:mrow></m:msqrt><m:mo>.</m:mo></m:mrow></m:math></equation></item>
 </list>
 </section>
@@ -192,7 +192,7 @@
 <para id="fs-id1167132718033">a. 1.99 Hz; b. 44.3 cm; c. 65.0 cm</para></solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1167132242610">
 <term>elastic potential energy</term>

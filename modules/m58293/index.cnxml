@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58293</md:content-id>
   <md:title>Relative Motion in One and Two Dimensions</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of this section, you will be able to:
 <list>
 <item>Explain the concept of reference frames.</item>
 <item>Write the position and velocity vector equations for relative motion.</item>
@@ -95,7 +95,7 @@ Drawing a vector diagram showing the velocity vectors can help in understanding 
 <note id="fs-id1165039028659" class="check-understanding">
 <exercise id="fs-id1165039273506">
 <problem id="fs-id1165039312103">
-<para id="fs-id1165039096811"> A boat heads north in still water at 4.5 m/s directly across a river that is running east at 3.0 m/s. What is the velocity of the boat with respect to Earth?</para>
+<para id="fs-id1165039096811"><emphasis effect="bold">Check Your Understanding</emphasis> A boat heads north in still water at 4.5 m/s directly across a river that is running east at 3.0 m/s. What is the velocity of the boat with respect to Earth?</para>
 </problem>
 <solution id="fs-id1165039317926">
 <para id="fs-id1165039273086">Labeling subscripts for the vector equation, we have B = boat, R = river, and E = Earth. The vector equation becomes <m:math><m:mrow><m:msub><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>v</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle><m:mrow><m:mtext>BE</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:msub><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>v</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle><m:mrow><m:mtext>BR</m:mtext></m:mrow></m:msub><m:mo>+</m:mo><m:msub><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>v</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle><m:mrow><m:mtext>RE</m:mtext></m:mrow></m:msub><m:mo>.</m:mo></m:mrow></m:math> We have right triangle geometry shown in Figure 04_05_BoatRiv_img. Solving for <m:math><m:mrow><m:msub><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>v</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle><m:mrow><m:mtext>BE</m:mtext></m:mrow></m:msub></m:mrow></m:math>, we have<newline/>
@@ -537,7 +537,7 @@ The angle between <m:math><m:mrow><m:msub><m:mstyle mathvariant="bold" mathsize=
 b. <m:math><m:mrow><m:mrow><m:mo>|</m:mo><m:mrow><m:msub><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>r</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle><m:mrow><m:mi>T</m:mi><m:mi>C</m:mi></m:mrow></m:msub></m:mrow><m:mo>|</m:mo></m:mrow><m:mo>=</m:mo><m:mn>17</m:mn><m:mspace width="0.2em"/><m:mtext>km</m:mtext></m:mrow></m:math></para></solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1165039252507">
 <term>reference frame</term>

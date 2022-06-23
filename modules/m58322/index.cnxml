@@ -4,7 +4,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58322</md:content-id>
   <md:title>Collisions in Multiple Dimensions</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para><list>
+  <md:abstract>By the end of this section, you will be able to: 
+<list>
 <item>Express momentum as a two-dimensional vector</item>
 <item>Write equations for momentum conservation in component form</item>
 <item>Calculate momentum in two dimensions, as a vector quantity</item>
@@ -36,7 +37,7 @@
 <para id="fs-id1167132267537">(Here, <emphasis effect="italics">m</emphasis> represents the total mass of the system.) Finally, combine these components using the Pythagorean theorem,</para>
 <equation id="fs-id1167132371962" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mi>v</m:mi><m:mtext>f</m:mtext></m:msub><m:mo>=</m:mo><m:mrow><m:mo>|</m:mo><m:mrow><m:msub><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>v</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mstyle><m:mstyle mathvariant="bold" mathsize="normal"><m:mi>f</m:mi></m:mstyle></m:msub></m:mrow><m:mo>|</m:mo></m:mrow><m:mo>=</m:mo><m:msqrt><m:mrow><m:msubsup><m:mi>v</m:mi><m:mrow><m:mtext>f</m:mtext><m:mo>,</m:mo><m:mi>x</m:mi></m:mrow><m:mn>2</m:mn></m:msubsup><m:mo>+</m:mo><m:msubsup><m:mi>v</m:mi><m:mrow><m:mtext>f</m:mtext><m:mo>,</m:mo><m:mi>y</m:mi></m:mrow><m:mn>2</m:mn></m:msubsup></m:mrow></m:msqrt><m:mo>.</m:mo></m:mrow></m:math></equation>
 <note id="fs-id1167132332826" class="problem-solving">
-<title>Conservation of Momentum in Two Dimensions</title>
+<title>Problem-Solving Strategy: Conservation of Momentum in Two Dimensions</title>
 <para id="fs-id1167133485713">The method for solving a two-dimensional (or even three-dimensional) conservation of momentum problem is generally the same as the method for solving a one-dimensional problem, except that you have to conserve momentum in both (or all three) dimensions simultaneously:</para>
 <list id="fs-id1167133346621" list-type="enumerated" number-style="arabic">
 <item>Identify a closed system.</item>
@@ -88,7 +89,7 @@ As a practical matter, accident investigators usually work in the “opposite di
 <note id="fs-id1167132362163" class="check-understanding">
 <exercise id="fs-id1167133324899">
 <problem id="fs-id1167132289477">
-<para id="fs-id1167132376642"> Suppose the initial velocities were <emphasis effect="italics">not</emphasis> at right angles to each other. How would this change both the physical result and the mathematical analysis of the collision?</para>
+<para id="fs-id1167132376642"><emphasis effect="bold">Check Your Understanding</emphasis> Suppose the initial velocities were <emphasis effect="italics">not</emphasis> at right angles to each other. How would this change both the physical result and the mathematical analysis of the collision?</para>
 </problem>
 <solution id="fs-id1167133455456">
 <para id="fs-id1167133353150">Were the initial velocities not at right angles, then one or both of the velocities would have to be expressed in component form. The mathematical analysis of the problem would be slightly more involved, but the physical result would not change.</para>
@@ -133,7 +134,7 @@ The enormous velocities here are typical; an exploding tank of any compressed ga
 <note id="fs-id1167133356778" class="check-understanding">
 <exercise id="fs-id1167132239513">
 <problem id="fs-id1167133781303">
-<para id="fs-id1167133794935"> Notice that the mass of the air in the tank was neglected in the analysis and solution. How would the solution method changed if the air was included? How large a difference do you think it would make in the final answer?</para>
+<para id="fs-id1167133794935"><emphasis effect="bold">Check Your Understanding</emphasis> Notice that the mass of the air in the tank was neglected in the analysis and solution. How would the solution method changed if the air was included? How large a difference do you think it would make in the final answer?</para>
 </problem>
 <solution id="fs-id1167133523735">
 <para id="fs-id1167133811322">The volume of a scuba tank is about 11 L. Assuming air is an ideal gas, the number of gas molecules in the tank is<newline/>
@@ -216,7 +217,8 @@ The average molecular mass of air is 29 g/mol, so the mass of air contained in t
 <problem id="fs-id1167132416256">
 <para id="fs-id1167132416259">Three 70-kg deer are standing on a flat 200-kg rock that is on an ice-covered pond. A gunshot goes off and the deer scatter, with deer A running at <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>15</m:mn><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>i</m:mi><m:mo>^</m:mo></m:mover></m:mstyle><m:mo>+</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>5.0</m:mn><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>j</m:mi><m:mo>^</m:mo></m:mover></m:mstyle></m:mrow></m:math>, deer B running at <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>−12</m:mn><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>i</m:mi><m:mo>^</m:mo></m:mover></m:mstyle><m:mo>+</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>8.0</m:mn><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>j</m:mi><m:mo>^</m:mo></m:mover></m:mstyle></m:mrow></m:math>, and deer C running at <m:math><m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1.2</m:mn><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>i</m:mi><m:mo>^</m:mo></m:mover></m:mstyle><m:mo>−</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>18.0</m:mn><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>j</m:mi><m:mo>^</m:mo></m:mover></m:mstyle></m:mrow></m:math>. What is the velocity of the rock on which they were standing?</para></problem>
 <solution id="fs-id1167132215564">
-<para id="fs-id1167132215566"><m:math><m:mrow><m:mtext>−</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1.47</m:mn><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>i</m:mi><m:mo>^</m:mo></m:mover></m:mstyle><m:mo>+</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1.75</m:mn><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>j</m:mi><m:mo>^</m:mo></m:mover></m:mstyle></m:mrow></m:math></para></solution>
+<para id="fs-id1167132215566"><m:math><m:mrow><m:mtext>−</m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0.21</m:mn><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>i</m:mi><m:mo>^</m:mo></m:mover></m:mstyle><m:mo>+</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0.25</m:mn><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mstyle mathvariant="bold" mathsize="normal"><m:mover accent="true"><m:mi>j</m:mi><m:mo>^</m:mo></m:mover></m:mstyle></m:mrow></m:math></para>
+</solution>
 </exercise>
 <exercise id="fs-id1167133855091">
 <problem id="fs-id1167133855093">
@@ -236,5 +238,5 @@ The average molecular mass of air is 29 g/mol, so the mass of air contained in t
 <para id="fs-id1167133318497">Two cars of the same mass approach an extremely icy four-way perpendicular intersection. Car A travels northward at 30 m/s and car B is travelling eastward. They collide and stick together, traveling at 28° north of east. What was the initial velocity of car B?</para></problem>
 </exercise>
 </section>
- </content>
+</content>
 </document>

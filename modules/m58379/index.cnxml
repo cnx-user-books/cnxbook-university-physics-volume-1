@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58379</md:content-id>
   <md:title>Sources of Musical Sound</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of this section, you will be able to: 
 <list>
 <item>Describe the resonant frequencies in instruments that can be modeled as a tube with symmetrical boundary conditions</item>
 <item>Describe the resonant frequencies in instruments that can be modeled as a tube with anti-symmetrical boundary conditions</item>
@@ -46,16 +46,16 @@ The length <emphasis effect="italics">L</emphasis> can be found from the relatio
 <para id="fs-id1165037062660"><title>Solution</title></para>
 <list id="fs-id1165038042715" list-type="enumerated" number-style="lower-alpha">
 <item>Identify knowns: The fundamental frequency is 128 Hz, and the air temperature is <m:math><m:mrow><m:mn>22.0</m:mn><m:mtext>°C</m:mtext></m:mrow></m:math>.<newline/>
-Use <m:math><m:mrow><m:msub><m:mi>f</m:mi><m:mi>n</m:mi></m:msub><m:mo>=</m:mo><m:mi>n</m:mi><m:mfrac><m:mi>v</m:mi><m:mrow><m:mn>4</m:mn><m:mi>L</m:mi></m:mrow></m:mfrac></m:mrow></m:math> to find the fundamental frequency (<m:math><m:mrow><m:mi>n</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math>),
-<equation id="fs-id1165037262497" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mi>f</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:mfrac><m:mi>v</m:mi><m:mrow><m:mn>4</m:mn><m:mi>L</m:mi></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></equation>
-Solve this equation for length,
-<equation id="fs-id1165037219892" class="unnumbered"><label/><m:math><m:mrow><m:mi>L</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>v</m:mi><m:mrow><m:mn>4</m:mn><m:msub><m:mi>f</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></equation>
-Find the speed of sound using <m:math><m:mrow><m:mi>v</m:mi><m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:mn>331</m:mn><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext><m:mo stretchy="false">)</m:mo><m:msqrt><m:mrow><m:mfrac><m:mi>T</m:mi><m:mrow><m:mn>273</m:mn><m:mspace width="0.2em"/><m:mtext>K</m:mtext></m:mrow></m:mfrac></m:mrow></m:msqrt></m:mrow></m:math>,
-<equation id="fs-id1165038218932" class="unnumbered"><label/><m:math><m:mrow><m:mi>v</m:mi><m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:mn>331</m:mn><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext><m:mo stretchy="false">)</m:mo><m:msqrt><m:mrow><m:mfrac><m:mrow><m:mtext>295 K</m:mtext></m:mrow><m:mrow><m:mn>273</m:mn><m:mspace width="0.2em"/><m:mtext>K</m:mtext></m:mrow></m:mfrac></m:mrow></m:msqrt><m:mo>=</m:mo><m:mn>344</m:mn><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math></equation>
-Enter the values of the speed of sound and frequency into the expression for <emphasis effect="italics">L</emphasis>.
+Use <m:math><m:mrow><m:msub><m:mi>f</m:mi><m:mi>n</m:mi></m:msub><m:mo>=</m:mo><m:mi>n</m:mi><m:mfrac><m:mi>v</m:mi><m:mrow><m:mn>4</m:mn><m:mi>L</m:mi></m:mrow></m:mfrac></m:mrow></m:math> to find the fundamental frequency (<m:math><m:mrow><m:mi>n</m:mi><m:mo>=</m:mo><m:mn>1</m:mn></m:mrow></m:math>),<newline/>
+<equation id="fs-id1165037262497" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mi>f</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:mfrac><m:mi>v</m:mi><m:mrow><m:mn>4</m:mn><m:mi>L</m:mi></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></equation><newline/>
+Solve this equation for length,<newline/>
+<equation id="fs-id1165037219892" class="unnumbered"><label/><m:math><m:mrow><m:mi>L</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>v</m:mi><m:mrow><m:mn>4</m:mn><m:msub><m:mi>f</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></equation><newline/>
+Find the speed of sound using <m:math><m:mrow><m:mi>v</m:mi><m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:mn>331</m:mn><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext><m:mo stretchy="false">)</m:mo><m:msqrt><m:mrow><m:mfrac><m:mi>T</m:mi><m:mrow><m:mn>273</m:mn><m:mspace width="0.2em"/><m:mtext>K</m:mtext></m:mrow></m:mfrac></m:mrow></m:msqrt></m:mrow></m:math>,<newline/>
+<equation id="fs-id1165038218932" class="unnumbered"><label/><m:math><m:mrow><m:mi>v</m:mi><m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:mn>331</m:mn><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext><m:mo stretchy="false">)</m:mo><m:msqrt><m:mrow><m:mfrac><m:mrow><m:mtext>295 K</m:mtext></m:mrow><m:mrow><m:mn>273</m:mn><m:mspace width="0.2em"/><m:mtext>K</m:mtext></m:mrow></m:mfrac></m:mrow></m:msqrt><m:mo>=</m:mo><m:mn>344</m:mn><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math></equation><newline/>
+Enter the values of the speed of sound and frequency into the expression for <emphasis effect="italics">L</emphasis>.<newline/>
 <equation id="fs-id1165037264333" class="unnumbered"><label/><m:math><m:mrow><m:mi>L</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>v</m:mi><m:mrow><m:mn>4</m:mn><m:msub><m:mi>f</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>344</m:mn><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext></m:mrow><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">(</m:mo><m:mn>128</m:mn><m:mspace width="0.2em"/><m:mtext>Hz</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>0.672</m:mn><m:mspace width="0.2em"/><m:mtext>m</m:mtext></m:mrow></m:math></equation></item>
 <item>Identify knowns: The first overtone has <m:math><m:mrow><m:mi>n</m:mi><m:mo>=</m:mo><m:mn>3</m:mn></m:mrow></m:math>, the second overtone has <m:math><m:mrow><m:mi>n</m:mi><m:mo>=</m:mo><m:mn>5</m:mn></m:mrow></m:math>, the third overtone has <m:math><m:mrow><m:mi>n</m:mi><m:mo>=</m:mo><m:mn>7</m:mn></m:mrow></m:math>, and the fourth overtone has <m:math><m:mrow><m:mi>n</m:mi><m:mo>=</m:mo><m:mn>9</m:mn></m:mrow></m:math>.<newline/>
-Enter the value for the fourth overtone into <m:math><m:mrow><m:msub><m:mi>f</m:mi><m:mi>n</m:mi></m:msub><m:mo>=</m:mo><m:mi>n</m:mi><m:mfrac><m:mi>v</m:mi><m:mrow><m:mn>4</m:mn><m:mi>L</m:mi></m:mrow></m:mfrac><m:mo>,</m:mo></m:mrow></m:math> 
+Enter the value for the fourth overtone into <m:math><m:mrow><m:msub><m:mi>f</m:mi><m:mi>n</m:mi></m:msub><m:mo>=</m:mo><m:mi>n</m:mi><m:mfrac><m:mi>v</m:mi><m:mrow><m:mn>4</m:mn><m:mi>L</m:mi></m:mrow></m:mfrac><m:mo>,</m:mo></m:mrow></m:math><newline/>
 <equation id="fs-id1165037064622" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mi>f</m:mi><m:mn>9</m:mn></m:msub><m:mo>=</m:mo><m:mn>9</m:mn><m:mfrac><m:mi>v</m:mi><m:mrow><m:mn>4</m:mn><m:mi>L</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>9</m:mn><m:msub><m:mi>f</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:mn>1.15</m:mn><m:mspace width="0.2em"/><m:mtext>kHz</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math></equation></item>
 </list>
 <para id="fs-id1165037227462"><title>Significance</title>
@@ -70,11 +70,13 @@ Many wind instruments are modified tubes that have finger holes, valves, and oth
 <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_17_05_StringIns.jpg"/>
 </media>
 
-<caption>String instruments such as (a) violins and (b) guitars use resonance in their sounding boxes to amplify and enrich the sound created by their vibrating strings. The bridge and supports couple the string vibrations to the sounding boxes and air within. (credit a: modification of work by Feliciano Guimarães; credit b: modification of work by Steve Snodgrass)</caption></figure><figure id="CNX_UPhysics_17_05_Marimba"><media id="fs-id1165038031857" alt="Photograph of two musicians playing on a marimba.">
+<caption>String instruments such as (a) violins and (b) guitars use resonance in their sounding boxes to amplify and enrich the sound created by their vibrating strings. The bridge and supports couple the string vibrations to the sounding boxes and air within. (credit a: modification of work by Feliciano Guimarães; credit b: modification of work by Steve Snodgrass)</caption></figure><figure id="CNX_UPhysics_17_05_Marimba">
+<media id="fs-id1165038031857" alt="Photograph of two musicians playing on a marimba.">
 <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_17_05_Marimba.jpg"/>
 </media>
-
-<caption>This marimba uses gourds as resonance chambers to amplify its sound. (credit: “APC Events”/Flickr)</caption></figure><para id="fs-id1165037213394">We have emphasized sound applications in our discussions of resonance and standing waves, but these ideas apply to any system that has wave characteristics. Vibrating strings, for example, are actually resonating and have fundamentals and overtones similar to those for air columns. More subtle are the resonances in atoms due to the wave character of their electrons. Their orbitals can be viewed as standing waves, which have a fundamental (ground state) and overtones (excited states). It is fascinating that wave characteristics apply to such a wide range of physical systems.</para>
+<caption>Resonance has been used in musical instruments since prehistoric times. This marimba uses gourds as resonance chambers to amplify its sound. (credit: “APC Events”/Flickr)</caption>
+</figure>
+<para id="fs-id1165037213394">We have emphasized sound applications in our discussions of resonance and standing waves, but these ideas apply to any system that has wave characteristics. Vibrating strings, for example, are actually resonating and have fundamentals and overtones similar to those for air columns. More subtle are the resonances in atoms due to the wave character of their electrons. Their orbitals can be viewed as standing waves, which have a fundamental (ground state) and overtones (excited states). It is fascinating that wave characteristics apply to such a wide range of physical systems.</para>
 </section>
 <section id="fs-id1165037052303" class="key-concepts">
 <title>Summary</title>
@@ -198,5 +200,5 @@ Many wind instruments are modified tubes that have finger holes, valves, and oth
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 </document>

@@ -1,14 +1,13 @@
 <col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-    <md:content-id>col12031</md:content-id>
-    <md:title>University Physics Volume 1</md:title>
+    <md:content-id>col30851</md:content-id>
+    <md:title>Century College PHYS 1081</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
-    <md:uuid>d50f6e32-0fda-46ef-a362-9bd36ca7c97d</md:uuid>
-<md:slug>university-physics-volume-1</md:slug>
+    <md:uuid>a456762d-e16e-4351-84c3-f2778e0e081b</md:uuid>
+<md:slug>century-college-phys-1081</md:slug>
 </metadata>
   <col:content>
-    <col:module document="m62204"/>
     <col:subcollection>
       <md:title>Mechanics</md:title>
       <col:content>
@@ -162,19 +161,6 @@
             <col:module document="m58352"/>
           </col:content>
         </col:subcollection>
-        <col:subcollection>
-          <md:title>Fluid Mechanics</md:title>
-          <col:content>
-            <col:module document="m58624"/>
-            <col:module document="m58353"/>
-            <col:module document="m58354"/>
-            <col:module document="m58355"/>
-            <col:module document="m58356"/>
-            <col:module document="m58357"/>
-            <col:module document="m58358"/>
-            <col:module document="m58359"/>
-          </col:content>
-        </col:subcollection>
       </col:content>
     </col:subcollection>
     <col:subcollection>
@@ -190,18 +176,6 @@
             <col:module document="m58364"/>
             <col:module document="m58365"/>
             <col:module document="m58366"/>
-          </col:content>
-        </col:subcollection>
-        <col:subcollection>
-          <md:title>Waves</md:title>
-          <col:content>
-            <col:module document="m58367"/>
-            <col:module document="m58368"/>
-            <col:module document="m58369"/>
-            <col:module document="m58370"/>
-            <col:module document="m58371"/>
-            <col:module document="m58372"/>
-            <col:module document="m58373"/>
           </col:content>
         </col:subcollection>
         <col:subcollection>

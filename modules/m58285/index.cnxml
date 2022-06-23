@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58285</md:content-id>
   <md:title>Motion with Constant Acceleration</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of this section, you will be able to:
 <list>
 <item>Identify which equations of motion are to be used to solve for unknowns.</item>
 <item>Use appropriate equations of motion to solve a two-body pursuit problem.</item>
@@ -56,7 +56,7 @@
 </note>
 <example id="fs-id1168329038783">
 <para id="fs-id1168326917104"><title>Calculating Final Velocity</title>
-An airplane lands with an initial velocity of 70.0 m/s and then accelerates opposite to the motion at 1.50 m/s<sup>2</sup> for 40.0 s. What is its final velocity?</para>
+An airplane lands with an initial velocity of 70.0 m/s and then decelerates at 1.50 m/s<sup>2</sup> for 40.0 s. What is its final velocity?</para>
 <para id="fs-id1168326839524"><title>Strategy</title>
 First, we identify the knowns: <m:math><m:mrow><m:msub><m:mi>v</m:mi><m:mn>0</m:mn></m:msub><m:mo>=</m:mo><m:mn>70</m:mn><m:mspace width="0.2em"/><m:mtext>m/s,</m:mtext><m:mspace width="0.2em"/><m:mi>a</m:mi><m:mo>=</m:mo><m:mn>−1.50</m:mn><m:msup><m:mrow><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext></m:mrow><m:mn>2</m:mn></m:msup><m:mo>,</m:mo><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>40</m:mn><m:mspace width="0.2em"/><m:mtext>s</m:mtext></m:mrow></m:math>.</para>
 <para id="fs-id1168329064404">Second, we identify the unknown; in this case, it is final velocity <m:math><m:mrow><m:msub><m:mi>v</m:mi><m:mtext>f</m:mtext></m:msub></m:mrow></m:math>.</para>
@@ -175,37 +175,37 @@ A velocity of 145 m/s is about 522 km/h, or about 324 mi/h, but even this breakn
 <para id="fs-id1168329325238">Thus, for a finite difference between the initial and final velocities acceleration becomes infinite in the limit the displacement approaches zero. Acceleration approaches zero in the limit the difference in initial and final velocities approaches zero for a finite displacement.</para>
 <example id="fs-id1168329325244">
 <para id="fs-id1168326966388"><title>How Far Does a Car Go?</title>
-On dry concrete, a car can accelerate opposite to the motion at a rate of 7.00 m/s<sup>2</sup>, whereas on wet concrete it can accelerate opposite to the motion at only 5.00 m/s<sup>2</sup>. Find the distances necessary to stop a car moving at 30.0 m/s (about 110 km/h) on (a) dry concrete and (b) wet concrete. (c) Repeat both calculations and find the displacement from the point where the driver sees a traffic light turn red, taking into account his reaction time of 0.500 s to get his foot on the brake.</para>
+On dry concrete, a car can decelerate at a rate of 7.00 m/s<sup>2</sup>, whereas on wet concrete it can decelerate at only 5.00 m/s<sup>2</sup>. Find the distances necessary to stop a car moving at 30.0 m/s (about 110 km/h) on (a) dry concrete and (b) wet concrete. (c) Repeat both calculations and find the displacement from the point where the driver sees a traffic light turn red, taking into account his reaction time of 0.500 s to get his foot on the brake.</para>
 <para id="fs-id1168326922682"><title>Strategy</title>
 First, we need to draw a sketch <link target-id="CNX_UPhysics_03_04_Ex4Sketch"/>. To determine which equations are best to use, we need to list all the known values and identify exactly what we need to solve for.</para>
 <figure id="CNX_UPhysics_03_04_Ex4Sketch">
 <media id="fs-id1168329470475" alt="Figure shows motor vehicle that moved with the speed of 30 meters per second. A stop light is located at the unknown distance delta x from the motor vehicle. Speed of motor vehicle is zero meters per second when it reaches stop light.">
 <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_03_04_Ex4Sketch.jpg"/>
 </media>
-<caption>Sample sketch to visualize acceleration opposite to the motion and stopping distance of a car.</caption>
+<caption>Sample sketch to visualize deceleration and stopping distance of a car.</caption>
 </figure>
 <para id="fs-id1168326966413"><title>Solution</title></para>
 <list id="fs-id1168326966417" list-type="enumerated" number-style="lower-alpha">
 <item>First, we need to identify the knowns and what we want to solve for. We know that <emphasis effect="italics">v</emphasis><sub>0</sub> = 30.0 m/s, <emphasis effect="italics">v</emphasis> = 0, and <emphasis effect="italics">a</emphasis> = −7.00 m/s<sup>2</sup> (<emphasis effect="italics">a</emphasis> is negative because it is in a direction opposite to velocity). We take <emphasis effect="italics">x</emphasis><sub>0</sub> to be zero. We are looking for displacement <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>x</m:mi></m:mrow></m:math>, or <emphasis effect="italics">x</emphasis> − <emphasis effect="italics">x</emphasis><sub>0</sub>.<newline/>
-Second, we identify the equation that will help us solve the problem. The best equation to use is
-<equation id="fs-id1168326762545" class="unnumbered"><label/><m:math><m:mrow><m:msup><m:mi>v</m:mi><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:msubsup><m:mi>v</m:mi><m:mn>0</m:mn><m:mn>2</m:mn></m:msubsup><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>a</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo>−</m:mo><m:msub><m:mi>x</m:mi><m:mn>0</m:mn></m:msub><m:mo stretchy="false">)</m:mo><m:mo>.</m:mo></m:mrow></m:math></equation>
+Second, we identify the equation that will help us solve the problem. The best equation to use is<newline/>
+<equation id="fs-id1168326762545" class="unnumbered"><label/><m:math><m:mrow><m:msup><m:mi>v</m:mi><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:msubsup><m:mi>v</m:mi><m:mn>0</m:mn><m:mn>2</m:mn></m:msubsup><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>a</m:mi><m:mo stretchy="false">(</m:mo><m:mi>x</m:mi><m:mo>−</m:mo><m:msub><m:mi>x</m:mi><m:mn>0</m:mn></m:msub><m:mo stretchy="false">)</m:mo><m:mo>.</m:mo></m:mrow></m:math></equation><newline/>
 This equation is best because it includes only one unknown, <emphasis effect="italics">x</emphasis>. We know the values of all the other variables in this equation. (Other equations would allow us to solve for <emphasis effect="italics">x</emphasis>, but they require us to know the stopping time, <emphasis effect="italics">t</emphasis>, which we do not know. We could use them, but it would entail additional calculations.)<newline/>
-Third, we rearrange the equation to solve for <emphasis effect="italics">x</emphasis>:
-<equation id="fs-id1168329198263" class="unnumbered"><label/><m:math><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:msub><m:mi>x</m:mi><m:mn>0</m:mn></m:msub><m:mo>=</m:mo><m:mfrac><m:mrow><m:msup><m:mi>v</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:msubsup><m:mi>v</m:mi><m:mn>0</m:mn><m:mn>2</m:mn></m:msubsup></m:mrow><m:mrow><m:mn>2</m:mn><m:mi>a</m:mi></m:mrow></m:mfrac></m:mrow></m:math></equation>
-and substitute the known values:
-<equation id="fs-id1168329178867" class="unnumbered"><label/><m:math><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>0</m:mn><m:mo>=</m:mo><m:mfrac><m:mrow><m:msup><m:mn>0</m:mn><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>30.0</m:mn><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">(</m:mo><m:mn>−7.00</m:mn><m:msup><m:mrow><m:mtext>m/s</m:mtext></m:mrow><m:mn>2</m:mn></m:msup><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></equation>
-Thus,
+Third, we rearrange the equation to solve for <emphasis effect="italics">x</emphasis>:<newline/>
+<equation id="fs-id1168329198263" class="unnumbered"><label/><m:math><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:msub><m:mi>x</m:mi><m:mn>0</m:mn></m:msub><m:mo>=</m:mo><m:mfrac><m:mrow><m:msup><m:mi>v</m:mi><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:msubsup><m:mi>v</m:mi><m:mn>0</m:mn><m:mn>2</m:mn></m:msubsup></m:mrow><m:mrow><m:mn>2</m:mn><m:mi>a</m:mi></m:mrow></m:mfrac></m:mrow></m:math></equation><newline/>
+and substitute the known values:<newline/>
+<equation id="fs-id1168329178867" class="unnumbered"><label/><m:math><m:mrow><m:mi>x</m:mi><m:mo>−</m:mo><m:mn>0</m:mn><m:mo>=</m:mo><m:mfrac><m:mrow><m:msup><m:mn>0</m:mn><m:mn>2</m:mn></m:msup><m:mo>−</m:mo><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>30.0</m:mn><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">(</m:mo><m:mn>−7.00</m:mn><m:msup><m:mrow><m:mtext>m/s</m:mtext></m:mrow><m:mn>2</m:mn></m:msup><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></equation><newline/>
+Thus,<newline/>
 <equation id="fs-id1168326912837" class="unnumbered"><label/><m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>64.3</m:mn><m:mspace width="0.2em"/><m:mtext>m on dry concrete</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math></equation></item>
-<item>This part can be solved in exactly the same manner as (a). The only difference is that the acceleration is −5.00 m/s<sup>2</sup>. The result is
+<item>This part can be solved in exactly the same manner as (a). The only difference is that the acceleration is −5.00 m/s<sup>2</sup>. The result is<newline/>
 <equation id="fs-id1168326875265" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mi>x</m:mi><m:mrow><m:mtext>wet</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mn>90.0</m:mn><m:mspace width="0.2em"/><m:mtext>m on wet concrete.</m:mtext></m:mrow></m:math></equation></item>
 <item>When the driver reacts, the stopping distance is the same as it is in (a) and (b) for dry and wet concrete. So, to answer this question, we need to calculate how far the car travels during the reaction time, and then add that to the stopping time. It is reasonable to assume the velocity remains constant during the driver’s reaction time.<newline/>
 To do this, we, again, identify the knowns and what we want to solve for. We know that <m:math><m:mover><m:mi>v</m:mi><m:mtext>–</m:mtext></m:mover><m:mo>=</m:mo><m:mn>30.0</m:mn><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext></m:math>, <m:math><m:mrow><m:msub><m:mi>t</m:mi><m:mrow><m:mtext>reaction</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mn>0.500</m:mn><m:mspace width="0.2em"/><m:mtext>s</m:mtext></m:mrow></m:math>, and <m:math><m:mrow><m:msub><m:mi>a</m:mi><m:mrow><m:mtext>reaction</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math>. We take <m:math><m:mrow><m:msub><m:mi>x</m:mi><m:mrow><m:mtext>0-reaction</m:mtext></m:mrow></m:msub></m:mrow></m:math> to be zero. We are looking for <m:math><m:mrow><m:msub><m:mi>x</m:mi><m:mrow><m:mtext>reaction</m:mtext></m:mrow></m:msub></m:mrow></m:math>.<newline/>
 Second, as before, we identify the best equation to use. In this case, <m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:msub><m:mi>x</m:mi><m:mn>0</m:mn></m:msub><m:mo>+</m:mo><m:mover><m:mi>v</m:mi><m:mtext>–</m:mtext></m:mover><m:mi>t</m:mi></m:mrow></m:math> works well because the only unknown value is <emphasis effect="italics">x</emphasis>, which is what we want to solve for.<newline/>
-Third, we substitute the knowns to solve the equation:
-<equation id="fs-id1168329204101" class="unnumbered"><label/><m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>0</m:mn><m:mo>+</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>3</m:mn><m:mn>0.0</m:mn><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0.500</m:mn><m:mspace width="0.2em"/><m:mtext>s</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>15</m:mn><m:mn>.0</m:mn><m:mspace width="0.2em"/><m:mtext>m</m:mtext><m:mo>.</m:mo></m:mrow></m:math></equation>
+Third, we substitute the knowns to solve the equation:<newline/>
+<equation id="fs-id1168329204101" class="unnumbered"><label/><m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mn>0</m:mn><m:mo>+</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>3</m:mn><m:mn>0.0</m:mn><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>0.500</m:mn><m:mspace width="0.2em"/><m:mtext>s</m:mtext></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>15</m:mn><m:mn>.0</m:mn><m:mspace width="0.2em"/><m:mtext>m</m:mtext><m:mo>.</m:mo></m:mrow></m:math></equation><newline/>
 This means the car travels 15.0 m while the driver reacts, making the total displacements in the two cases of dry and wet concrete 15.0 m greater than if he reacted instantly.<newline/>
-Last, we then add the displacement during the reaction time to the displacement when braking (<link target-id="CNX_UPhysics_03_04_CarHalt"/>),
-<equation id="fs-id1168329460802" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mi>x</m:mi><m:mrow><m:mtext>braking</m:mtext></m:mrow></m:msub><m:mo>+</m:mo><m:msub><m:mi>x</m:mi><m:mrow><m:mtext>reaction</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:msub><m:mi>x</m:mi><m:mrow><m:mtext>total</m:mtext></m:mrow></m:msub><m:mo>,</m:mo></m:mrow></m:math></equation>
+Last, we then add the displacement during the reaction time to the displacement when braking (<link target-id="CNX_UPhysics_03_04_CarHalt"/>),<newline/>
+<equation id="fs-id1168329460802" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mi>x</m:mi><m:mrow><m:mtext>braking</m:mtext></m:mrow></m:msub><m:mo>+</m:mo><m:msub><m:mi>x</m:mi><m:mrow><m:mtext>reaction</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:msub><m:mi>x</m:mi><m:mrow><m:mtext>total</m:mtext></m:mrow></m:msub><m:mo>,</m:mo></m:mrow></m:math></equation><newline/>
 and find (a) to be 64.3 m + 15.0 m = 79.3 m when dry and (b) to be 90.0 m + 15.0 m = 105 m when wet.</item>
 </list>
 <figure id="CNX_UPhysics_03_04_CarHalt">
@@ -245,7 +245,7 @@ Whenever an equation contains an unknown squared, there are two solutions. In so
 <note id="fs-id1168329484404" class="check-understanding">
 <exercise id="fs-id1168329484408">
 <problem id="fs-id1168329484410">
-<para id="fs-id1168329484412"> A rocket accelerates at a rate of 20 m/s<sup>2</sup> during launch. How long does it take the rocket to reach a velocity of 400 m/s?</para></problem>
+<para id="fs-id1168329484412"><emphasis effect="bold">Check Your Understanding</emphasis> A rocket accelerates at a rate of 20 m/s<sup>2</sup> during launch. How long does it take the rocket to reach a velocity of 400 m/s?</para></problem>
 <solution id="fs-id1168329484424">
 <para id="fs-id1168329484426">To answer this, choose an equation that allows us to solve for time <emphasis effect="italics">t</emphasis>, given only <emphasis effect="italics">a</emphasis> , <emphasis effect="italics">v</emphasis><sub>0</sub> , and <emphasis effect="italics">v</emphasis>:<newline/>
 <m:math><m:mrow><m:mi>v</m:mi><m:mo>=</m:mo><m:msub><m:mi>v</m:mi><m:mn>0</m:mn></m:msub><m:mo>+</m:mo><m:mi>a</m:mi><m:mi>t</m:mi><m:mo>.</m:mo></m:mrow></m:math><newline/>
@@ -283,18 +283,19 @@ A cheetah waits in hiding behind a bush. The cheetah spots a gazelle running pas
 We use the set of equations for constant acceleration to solve this problem. Since there are two objects in motion, we have separate equations of motion describing each animal. But what links the equations is a common parameter that has the same value for each animal. If we look at the problem closely, it is clear the common parameter to each animal is their position <emphasis effect="italics">x</emphasis> at a later time <emphasis effect="italics">t</emphasis>. Since they both start at <m:math><m:mrow><m:msub><m:mi>x</m:mi><m:mn>0</m:mn></m:msub><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math>, their displacements are the same at a later time <emphasis effect="italics">t</emphasis>, when the cheetah catches up with the gazelle. If we pick the equation of motion that solves for the displacement for each animal, we can then set the equations equal to each other and solve for the unknown, which is time.</para>
 <para id="fs-id1168329438041"><title>Solution</title></para>
 <list id="fs-id1168329438045" list-type="enumerated" number-style="lower-alpha">
-<item>Equation for the gazelle: The gazelle has a constant velocity, which is its average velocity, since it is not accelerating. Therefore, we use <link target-id="fs-id1168326903625"/> with <m:math><m:mrow><m:msub><m:mi>x</m:mi><m:mn>0</m:mn></m:msub><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math>:
-<equation id="fs-id1168329438074" class="unnumbered"><label/><m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:msub><m:mi>x</m:mi><m:mn>0</m:mn></m:msub><m:mo>+</m:mo><m:mover><m:mi>v</m:mi><m:mtext>–</m:mtext></m:mover><m:mi>t</m:mi><m:mo>=</m:mo><m:mover><m:mi>v</m:mi><m:mtext>–</m:mtext></m:mover><m:mi>t</m:mi><m:mo>.</m:mo></m:mrow></m:math></equation>
-Equation for the cheetah: The cheetah is accelerating from rest, so we use <link target-id="fs-id1168326833119"/> with <m:math><m:mrow><m:msub><m:mi>x</m:mi><m:mn>0</m:mn></m:msub><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:msub><m:mi>v</m:mi><m:mn>0</m:mn></m:msub><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math>: <equation id="fs-id1168329438149" class="unnumbered"><label/><m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:msub><m:mi>x</m:mi><m:mn>0</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi>v</m:mi><m:mn>0</m:mn></m:msub><m:mi>t</m:mi><m:mo>+</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>a</m:mi><m:msup><m:mi>t</m:mi><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>a</m:mi><m:msup><m:mi>t</m:mi><m:mn>2</m:mn></m:msup><m:mo>.</m:mo></m:mrow></m:math></equation>
-Now we have an equation of motion for each animal with a common parameter, which can be eliminated to find the solution. In this case, we solve for <emphasis effect="italics">t</emphasis>: <equation id="fs-id1168326872128" class="unnumbered"><label/><m:math><m:mtable><m:mtr/><m:mtr/><m:mtr><m:mtd columnalign="left"><m:mi>x</m:mi><m:mo>=</m:mo><m:mover><m:mi>v</m:mi><m:mtext>–</m:mtext></m:mover><m:mi>t</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>a</m:mi><m:msup><m:mi>t</m:mi><m:mn>2</m:mn></m:msup></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mi>t</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:mover><m:mi>v</m:mi><m:mtext>–</m:mtext></m:mover></m:mrow><m:mi>a</m:mi></m:mfrac><m:mo>.</m:mo></m:mtd></m:mtr></m:mtable></m:math></equation>
-The gazelle has a constant velocity of 10 m/s, which is its average velocity. The acceleration of the cheetah is 4 m/s<sup>2</sup>. Evaluating <emphasis effect="italics">t</emphasis>, the time for the cheetah to reach the gazelle, we have
-<equation id="fs-id1168329284811" class="unnumbered"><label/><m:math><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:mover><m:mi>v</m:mi><m:mtext>–</m:mtext></m:mover></m:mrow><m:mi>a</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">(</m:mo><m:mn>10 m/s</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mn>4</m:mn><m:msup><m:mtext>m/s</m:mtext><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>5</m:mn><m:mspace width="0.2em"/><m:mtext>s</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math></equation></item>
-
+<item>Equation for the gazelle: The gazelle has a constant velocity, which is its average velocity, since it is not accelerating. Therefore, we use <link target-id="fs-id1168326903625"/> with <m:math><m:mrow><m:msub><m:mi>x</m:mi><m:mn>0</m:mn></m:msub><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math>:<newline/>
+<equation id="fs-id1168329438074" class="unnumbered"><label/><m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:msub><m:mi>x</m:mi><m:mn>0</m:mn></m:msub><m:mo>+</m:mo><m:mover><m:mi>v</m:mi><m:mtext>–</m:mtext></m:mover><m:mi>t</m:mi><m:mo>=</m:mo><m:mover><m:mi>v</m:mi><m:mtext>–</m:mtext></m:mover><m:mi>t</m:mi><m:mo>.</m:mo></m:mrow></m:math></equation><newline/>
+Equation for the cheetah: The cheetah is accelerating from rest, so we use <link target-id="fs-id1168326833119"/> with <m:math><m:mrow><m:msub><m:mi>x</m:mi><m:mn>0</m:mn></m:msub><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math> and <m:math><m:mrow><m:msub><m:mi>v</m:mi><m:mn>0</m:mn></m:msub><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math>:<newline/>
+<equation id="fs-id1168329438149" class="unnumbered"><label/><m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:msub><m:mi>x</m:mi><m:mn>0</m:mn></m:msub><m:mo>+</m:mo><m:msub><m:mi>v</m:mi><m:mn>0</m:mn></m:msub><m:mi>t</m:mi><m:mo>+</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>a</m:mi><m:msup><m:mi>t</m:mi><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>a</m:mi><m:msup><m:mi>t</m:mi><m:mn>2</m:mn></m:msup><m:mo>.</m:mo></m:mrow></m:math></equation><newline/>
+Now we have an equation of motion for each animal with a common parameter, which can be eliminated to find the solution. In this case, we solve for <emphasis effect="italics">t</emphasis>:<newline/>
+<equation id="fs-id1168326872128" class="unnumbered"><label/><m:math><m:mtable><m:mtr/><m:mtr/><m:mtr><m:mtd columnalign="left"><m:mi>x</m:mi><m:mo>=</m:mo><m:mover><m:mi>v</m:mi><m:mtext>–</m:mtext></m:mover><m:mi>t</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>a</m:mi><m:msup><m:mi>t</m:mi><m:mn>2</m:mn></m:msup></m:mtd></m:mtr><m:mtr><m:mtd columnalign="left"><m:mi>t</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:mover><m:mi>v</m:mi><m:mtext>–</m:mtext></m:mover></m:mrow><m:mi>a</m:mi></m:mfrac><m:mo>.</m:mo></m:mtd></m:mtr></m:mtable></m:math></equation><newline/>
+The gazelle has a constant velocity of 10 m/s, which is its average velocity. The acceleration of the cheetah is 4 m/s<sup>2</sup>. Evaluating <emphasis effect="italics">t</emphasis>, the time for the cheetah to reach the gazelle, we have<newline/>
+<equation id="fs-id1168329284811" class="unnumbered"><label/><m:math><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:mover><m:mi>v</m:mi><m:mtext>–</m:mtext></m:mover></m:mrow><m:mi>a</m:mi></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">(</m:mo><m:mn>10</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>4</m:mn></m:mfrac><m:mo>=</m:mo><m:mn>5</m:mn><m:mspace width="0.2em"/><m:mtext>s</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math></equation></item>
 <item>To get the displacement, we use either the equation of motion for the cheetah or the gazelle, since they should both give the same answer.<newline/>
-Displacement of the cheetah:
-<equation id="fs-id1168329284875" class="unnumbered"><label/><m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>a</m:mi><m:msup><m:mi>t</m:mi><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>4</m:mn><m:msup><m:mtext>m/s</m:mtext><m:mn>2</m:mn></m:msup></m:mrow><m:mo stretchy="false">)</m:mo><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>5</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mn>50</m:mn><m:mspace width="0.2em"/><m:mtext>m</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math></equation>
-Displacement of the gazelle:
-<equation id="fs-id1168326827792" class="unnumbered"><label/><m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mover><m:mi>v</m:mi><m:mtext>–</m:mtext></m:mover><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>10 m/s</m:mn><m:mo stretchy="false">(</m:mo><m:mn>5</m:mn><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>50</m:mn><m:mspace width="0.2em"/><m:mtext>m</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math></equation>
+Displacement of the cheetah:<newline/>
+<equation id="fs-id1168329284875" class="unnumbered"><label/><m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>a</m:mi><m:msup><m:mi>t</m:mi><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo stretchy="false">(</m:mo><m:mn>4</m:mn><m:mo stretchy="false">)</m:mo><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>5</m:mn><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mn>50</m:mn><m:mspace width="0.2em"/><m:mtext>m</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math></equation><newline/>
+Displacement of the gazelle:<newline/>
+<equation id="fs-id1168326827792" class="unnumbered"><label/><m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:mover><m:mi>v</m:mi><m:mtext>–</m:mtext></m:mover><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>10</m:mn><m:mo stretchy="false">(</m:mo><m:mn>5</m:mn><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>50</m:mn><m:mspace width="0.2em"/><m:mtext>m</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math></equation><newline/>
 We see that both displacements are equal, as expected.</item>
 </list>
 <para id="fs-id1168326827843"><title>Significance</title>
@@ -303,7 +304,7 @@ It is important to analyze the motion of each object and to use the appropriate 
 <note id="fs-id1168326827852" class="check-understanding">
 <exercise id="fs-id1168326827856">
 <problem id="fs-id1168326827858">
-<para id="fs-id1168326827860"> A bicycle has a constant velocity of 10 m/s. A person starts from rest and begins to run to catch up to the bicycle in 30 s when the bicycle is at the same position as the person. What is the acceleration of the person?</para></problem>
+<para id="fs-id1168326827860"><emphasis effect="bold">Check Your Understanding</emphasis> A bicycle has a constant velocity of 10 m/s. A person starts from rest and begins to run to catch up to the bicycle in 30 s when the bicycle is at the same position as the person. What is the acceleration of the person?</para></problem>
 <solution id="fs-id1168326827870">
 <para id="fs-id1168326827872"><m:math><m:mrow><m:mi>a</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac><m:msup><m:mrow><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math>.</para>
 </solution>
@@ -413,7 +414,7 @@ c. <m:math><m:mrow><m:mi>t</m:mi><m:mo>=</m:mo><m:mn>13.8</m:mn><m:mspace width=
 </exercise>
 <exercise id="fs-id1168329315924">
 <problem id="fs-id1168329315926">
-<para id="fs-id1168329315928">(a) A light-rail commuter train accelerates at a rate of 1.35 m/s<sup>2</sup>. How long does it take to reach its top speed of 80.0 km/h, starting from rest? (b) The same train ordinarily accelerates opposite to the motion at a rate of 1.65 m/s<sup>2</sup>. How long does it take to come to a stop from its top speed? (c) In emergencies, the train can accelerate opposite to the motion more rapidly, coming to rest from 80.0 km/h in 8.30 s. What is its emergency acceleration in meters per second squared?</para>
+<para id="fs-id1168329315928">(a) A light-rail commuter train accelerates at a rate of 1.35 m/s<sup>2</sup>. How long does it take to reach its top speed of 80.0 km/h, starting from rest? (b) The same train ordinarily decelerates at a rate of 1.65 m/s<sup>2</sup>. How long does it take to come to a stop from its top speed? (c) In emergencies, the train can decelerate more rapidly, coming to rest from 80.0 km/h in 8.30 s. What is its emergency acceleration in meters per second squared?</para>
 </problem>
 </exercise>
 <exercise id="fs-id1168327145366">
@@ -430,7 +431,7 @@ c. <m:math><m:mrow><m:mi>x</m:mi><m:mo>=</m:mo><m:msub><m:mi>x</m:mi><m:mn>0</m:
 </exercise>
 <exercise id="fs-id1168329484447">
 <problem id="fs-id1168329484449">
-<para id="fs-id1168329484452"><emphasis effect="bold">Unreasonable results</emphasis> At the end of a race, a runner accelerates opposite to the motion from a velocity of 9.00 m/s at a rate of 2.00 m/s<sup>2</sup>. (a) How far does she travel in the next 5.00 s? (b) What is her final velocity? (c) Evaluate the result. Does it make sense?</para>
+<para id="fs-id1168329484452"><emphasis effect="bold">Unreasonable results</emphasis> At the end of a race, a runner decelerates from a velocity of 9.00 m/s at a rate of 2.00 m/s<sup>2</sup>. (a) How far does she travel in the next 5.00 s? (b) What is her final velocity? (c) Evaluate the result. Does it make sense?</para>
 </problem>
 </exercise>
 <exercise id="fs-id1168329462605">
@@ -502,7 +503,7 @@ c. <m:math><m:mtable><m:mtr/><m:mtr/><m:mtr><m:mtd columnalign="left"><m:mi>a</m
 </exercise>
 <exercise id="fs-id1168326891139">
 <problem id="fs-id1168326891141">
-<para id="fs-id1168326891144">An express train passes through a station. It enters with an initial velocity of 22.0 m/s and accelerates opposite to the motion at a rate of <m:math><m:mrow><m:mn>0.150</m:mn><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>m/s</m:mtext></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math> as it goes through. The station is 210.0 m long. (a) How fast is it going when the nose leaves the station? (b) How long is the nose of the train in the station? (c) If the train is 130 m long, what is the velocity of the end of the train as it leaves? (d) When does the end of the train leave the station?</para>
+<para id="fs-id1168326891144">An express train passes through a station. It enters with an initial velocity of 22.0 m/s and decelerates at a rate of <m:math><m:mrow><m:mn>0.150</m:mn><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>m/s</m:mtext></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math> as it goes through. The station is 210.0 m long. (a) How fast is it going when the nose leaves the station? (b) How long is the nose of the train in the station? (c) If the train is 130 m long, what is the velocity of the end of the train as it leaves? (d) When does the end of the train leave the station?</para>
 </problem>
 </exercise>
 <exercise id="fs-id1168329316408">
@@ -516,7 +517,7 @@ c. <m:math><m:mrow><m:mi>v</m:mi><m:mo>&gt;</m:mo><m:msub><m:mi>v</m:mi><m:mrow>
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1168329495189">
 <term>two-body pursuit problem</term>
