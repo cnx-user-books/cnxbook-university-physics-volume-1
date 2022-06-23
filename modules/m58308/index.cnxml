@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58308</md:content-id>
   <md:title>Kinetic Energy</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of this section, you will be able to:
 <list>
 <item>Calculate the kinetic energy of a particle given its mass and its velocity or momentum</item>
 <item>Evaluate the kinetic energy of a body, relative to different frames of reference</item>
@@ -14,7 +14,7 @@
 
 <content>
 <para id="fs-id1165038359588">It’s plausible to suppose that the greater the velocity of a body, the greater effect it could have on other bodies. This does not depend on the direction of the velocity, only its magnitude. At the end of the seventeenth century, a quantity was introduced into mechanics to explain collisions between two perfectly elastic bodies, in which one body makes a head-on collision with an identical body at rest. The first body stops, and the second body moves off with the initial velocity of the first body. (If you have ever played billiards or croquet, or seen a model of Newton’s Cradle, you have observed this type of collision.) The idea behind this quantity was related to the forces acting on a body and was referred to as “the energy of motion.” Later on, during the eighteenth century, the name <term>kinetic energy</term> was given to energy of motion.</para>
-<para id="fs-id1165037175379">With this history in mind, we can now state the classical definition of kinetic energy. Note that when we say “classical,” we mean non-relativistic, that is, at speeds much less that the speed of light. At speeds comparable to the speed of light, the special theory of relativity requires a different expression for the kinetic energy of a particle, as discussed in <link document="m58555">Relativity</link>.</para>
+<para id="fs-id1165037175379">With this history in mind, we can now state the classical definition of kinetic energy. Note that when we say “classical,” we mean non-relativistic, that is, at speeds much less that the speed of light. At speeds comparable to the speed of light, the special theory of relativity requires a different expression for the kinetic energy of a particle, as discussed in <link class="target-chapter" document="m58555">Relativity</link>.</para>
 <para id="fs-id1165036887179">Since objects (or systems) of interest vary in complexity, we first define the kinetic energy of a particle with mass <emphasis effect="italics">m</emphasis>.</para>
 <note id="fs-id1165038018540">
 <title>Kinetic Energy</title>
@@ -45,14 +45,14 @@ In this example, we used the way mass and speed are related to kinetic energy, a
 <note id="fs-id1165036766342" class="check-understanding">
 <exercise id="fs-id1165038202556">
 <problem id="fs-id1165038201444">
-<para id="fs-id1165036876736"> (a) A car and a truck are each moving with the same kinetic energy. Assume that the truck has more mass than the car. Which has the greater speed? (b) A car and a truck are each moving with the same speed. Which has the greater kinetic energy?</para>
+<para id="fs-id1165036876736"><emphasis effect="bold">Check Your Understanding</emphasis> (a) A car and a truck are each moving with the same kinetic energy. Assume that the truck has more mass than the car. Which has the greater speed? (b) A car and a truck are each moving with the same speed. Which has the greater kinetic energy?</para>
 </problem>
 <solution id="fs-id1165038021514">
 <para id="fs-id1165037982457">a. the car; b. the truck</para>
 </solution>
 </exercise>
 </note>
-<para id="fs-id1165037181390">Because velocity is a relative quantity, you can see that the value of kinetic energy must depend on your frame of reference. You can generally choose a frame of reference that is suited to the purpose of your analysis and that simplifies your calculations. One such frame of reference is the one in which the observations of the system are made (likely an external frame). Another choice is a frame that is attached to, or moves with, the system (likely an internal frame). The equations for relative motion, discussed in <link document="m58288">Motion in Two and Three Dimensions</link>, provide a link to calculating the kinetic energy of an object with respect to different frames of reference.</para>
+<para id="fs-id1165037181390">Because velocity is a relative quantity, you can see that the value of kinetic energy must depend on your frame of reference. You can generally choose a frame of reference that is suited to the purpose of your analysis and that simplifies your calculations. One such frame of reference is the one in which the observations of the system are made (likely an external frame). Another choice is a frame that is attached to, or moves with, the system (likely an internal frame). The equations for relative motion, discussed in <link class="target-chapter" document="m58288">Motion in Two and Three Dimensions</link>, provide a link to calculating the kinetic energy of an object with respect to different frames of reference.</para>
 <example id="fs-id1165037049856">
 <para id="fs-id1165038023489"><title>Kinetic Energy Relative to Different Frames</title>
 A 75.0-kg person walks down the central aisle of a subway car at a speed of 1.50 m/s relative to the car, whereas the train is moving at 15.0 m/s relative to the tracks. (a) What is the person’s kinetic energy relative to the car? (b) What is the person’s kinetic energy relative to the tracks? (c) What is the person’s kinetic energy relative to a frame moving with the person?</para>
@@ -67,9 +67,9 @@ Since speeds are given, we can use <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>
 <para id="fs-id1165038356753"><title>Solution</title></para>
 <list id="fs-id1165037881180" list-type="enumerated" number-style="lower-alpha">
 <item><m:math><m:mrow><m:mi>K</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo stretchy="false">(</m:mo><m:mn>75.0</m:mn><m:mspace width="0.2em"/><m:mtext>kg</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>1.50</m:mn><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>m/s</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mn>84.4</m:mn><m:mspace width="0.2em"/><m:mtext>J</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math></item>
-<item><m:math><m:mrow><m:msub><m:mi>v</m:mi><m:mrow><m:mtext>PT</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:mn>15.0</m:mn><m:mo>±</m:mo><m:mn>1.50</m:mn><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math> Therefore, the two possible values for kinetic energy relative to the car are
-<equation id="fs-id1165037981655" class="unnumbered"><label/><m:math><m:mrow><m:mi>K</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo stretchy="false">(</m:mo><m:mn>75.0</m:mn><m:mspace width="0.2em"/><m:mtext>kg</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>13.5</m:mn><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>m/s</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mn>6.83</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:math></equation>
-and
+<item><m:math><m:mrow><m:msub><m:mi>v</m:mi><m:mrow><m:mtext>PT</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:mn>15.0</m:mn><m:mo>±</m:mo><m:mn>1.50</m:mn><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math> Therefore, the two possible values for kinetic energy relative to the car are<newline/>
+<equation id="fs-id1165037981655" class="unnumbered"><label/><m:math><m:mrow><m:mi>K</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo stretchy="false">(</m:mo><m:mn>75.0</m:mn><m:mspace width="0.2em"/><m:mtext>kg</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>13.5</m:mn><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>m/s</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mn>6.83</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext></m:mrow></m:math></equation><newline/>
+and<newline/>
 <equation id="fs-id1165038046576" class="unnumbered"><label/><m:math><m:mrow><m:mi>K</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo stretchy="false">(</m:mo><m:mn>75.0</m:mn><m:mspace width="0.2em"/><m:mtext>kg</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>16.5</m:mn><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>m/s</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mn>10.2</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math></equation></item>
 <item>In a frame where <m:math><m:mrow><m:msub><m:mi>v</m:mi><m:mtext>P</m:mtext></m:msub><m:mo>=</m:mo><m:mn>0</m:mn><m:mo>,</m:mo><m:mi>K</m:mi><m:mo>=</m:mo><m:mn>0</m:mn></m:mrow></m:math> as well.</item>
 </list>
@@ -79,7 +79,7 @@ You can see that the kinetic energy of an object can have very different values,
 <note id="fs-id1165037850044" class="check-understanding">
 <exercise id="fs-id1165038018853">
 <problem id="fs-id1165038000733">
-<para id="fs-id1165038043881"> You are rowing a boat parallel to the banks of a river. Your kinetic energy relative to the banks is less than your kinetic energy relative to the water. Are you rowing with or against the current?</para>
+<para id="fs-id1165038043881"><emphasis effect="bold">Check Your Understanding</emphasis> You are rowing a boat parallel to the banks of a river. Your kinetic energy relative to the banks is less than your kinetic energy relative to the water. Are you rowing with or against the current?</para>
 </problem>
 <solution id="fs-id1165038007254">
 <para id="fs-id1165037903488">against</para>
@@ -94,11 +94,11 @@ You can see that the kinetic energy of an object can have very different values,
 In part (a), first find the horizontal speed of the basketball and then use the definition of kinetic energy in terms of mass and speed, <m:math><m:mrow><m:mi>K</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>m</m:mi><m:msup><m:mi>v</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math>. Then in part (b), convert unified units to kilograms and then use <m:math><m:mrow><m:mi>K</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>m</m:mi><m:msup><m:mi>v</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math> to get the average translational kinetic energy of one molecule, relative to the basketball. Then multiply by the number of molecules to get the total result. Finally, in part (c), we can substitute the amount of kinetic energy in part (b), and the mass of the basketball in part (a), into the definition <m:math><m:mrow><m:mi>K</m:mi><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mi>m</m:mi><m:msup><m:mi>v</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math>, and solve for <emphasis effect="italics">v</emphasis>.</para>
 <para id="fs-id1165036987217"><title>Solution</title></para>
 <list id="fs-id1165038340525" list-type="enumerated" number-style="lower-alpha">
-<item>The horizontal speed is (15 m)/(2 s), so the horizontal kinetic energy of the basketball is
+<item>The horizontal speed is (15 m)/(2 s), so the horizontal kinetic energy of the basketball is<newline/>
 <equation id="fs-id1165036784074" class="unnumbered"><label/><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo stretchy="false">(</m:mo><m:mn>0.624</m:mn><m:mspace width="0.2em"/><m:mtext>kg</m:mtext><m:mo stretchy="false">)</m:mo><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>7.5</m:mn><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mn>17.6</m:mn><m:mspace width="0.2em"/><m:mtext>J</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math></equation></item>
-<item>The average translational kinetic energy of a molecule is
-<equation id="fs-id1165038158852" class="unnumbered"><label/><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo stretchy="false">(</m:mo><m:mn>29</m:mn><m:mspace width="0.2em"/><m:mtext>u</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>1.66</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−27</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>kg/u</m:mtext><m:mo stretchy="false">)</m:mo><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>500</m:mn><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mn>6.02</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−21</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>J,</m:mtext></m:mrow></m:math></equation>
-and the total kinetic energy of all the molecules is
+<item>The average translational kinetic energy of a molecule is<newline/>
+<equation id="fs-id1165038158852" class="unnumbered"><label/><m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:mo stretchy="false">(</m:mo><m:mn>29</m:mn><m:mspace width="0.2em"/><m:mtext>u</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>1.66</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−27</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>kg/u</m:mtext><m:mo stretchy="false">)</m:mo><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>500</m:mn><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:mn>6.02</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−21</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>J,</m:mtext></m:mrow></m:math></equation><newline/>
+and the total kinetic energy of all the molecules is<newline/>
 <equation id="fs-id1165037154540" class="unnumbered"><label/><m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>3</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>23</m:mn></m:mrow></m:msup><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>6.02</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−21</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>J</m:mtext><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>1.80</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math></equation></item>
 <item><m:math><m:mrow><m:mi>v</m:mi><m:mo>=</m:mo><m:msqrt><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">(</m:mo><m:mn>1.8</m:mn><m:mspace width="0.2em"/><m:mtext>kJ</m:mtext><m:mo stretchy="false">)</m:mo><m:mtext>/</m:mtext><m:mo stretchy="false">(</m:mo><m:mn>0.624</m:mn><m:mspace width="0.2em"/><m:mtext>kg</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:msqrt><m:mo>=</m:mo><m:mn>76.0</m:mn><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math></item>
 </list>
@@ -151,7 +151,7 @@ In part (a), this kind of kinetic energy can be called the horizontal kinetic en
 </exercise>
 <exercise id="fs-id1165038039541">
 <problem id="fs-id1165037167939">
-<para id="fs-id1165037032607">Estimate the kinetic energy of a 90,000-ton aircraft carrier moving at a speed of at 30 knots. You will need to look up the definition of a nautical mile to use in converting the unit for speed, where 1 knot equals 1 nautical mile per hour. Furthermore for this problem, 1 ton is equivalent to 2,000 pounds.</para>
+<para id="fs-id1165037032607">Estimate the kinetic energy of a 90,000-ton aircraft carrier moving at a speed of at 30 knots. You will need to look up the definition of a nautical mile to use in converting the unit for speed, where 1 knot equals 1 nautical mile per hour.</para>
 </problem>
 </exercise>
 <exercise id="fs-id1165038044494">
@@ -176,7 +176,7 @@ In part (a), this kind of kinetic energy can be called the horizontal kinetic en
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1165036767566">
 <term>kinetic energy</term>

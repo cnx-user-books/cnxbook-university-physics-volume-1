@@ -1,0 +1,148 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col23581</md:content-id>
+    <md:title>Physics 221: Mechanics</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>b2a0bce3-f5fa-43db-8041-503888c16ed3</md:uuid>
+<md:slug>physics-221-mechanics</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m65215"/>
+    <col:subcollection>
+      <md:title>Units and Measurement</md:title>
+      <col:content>
+        <col:module document="m58268"/>
+        <col:module document="m58269"/>
+        <col:module document="m58270"/>
+        <col:module document="m58271"/>
+        <col:module document="m58272"/>
+        <col:module document="m58273"/>
+        <col:module document="m58274"/>
+        <col:module document="m58275"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Vectors</md:title>
+      <col:content>
+        <col:module document="m58276"/>
+        <col:module document="m58277"/>
+        <col:module document="m58278"/>
+        <col:module document="m58279"/>
+        <col:module document="m58280"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Motion Along a Straight Line</md:title>
+      <col:content>
+        <col:module document="m58281"/>
+        <col:module document="m58282"/>
+        <col:module document="m58283"/>
+        <col:module document="m58284"/>
+        <col:module document="m58285"/>
+        <col:module document="m58286"/>
+        <col:module document="m58287"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Motion in Two and Three Dimensions</md:title>
+      <col:content>
+        <col:module document="m58288"/>
+        <col:module document="m58289"/>
+        <col:module document="m58290"/>
+        <col:module document="m58291"/>
+        <col:module document="m58292"/>
+        <col:module document="m58293"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Newton's Laws of Motion</md:title>
+      <col:content>
+        <col:module document="m58294"/>
+        <col:module document="m58295"/>
+        <col:module document="m58296"/>
+        <col:module document="m58297"/>
+        <col:module document="m58298"/>
+        <col:module document="m58299"/>
+        <col:module document="m58300"/>
+        <col:module document="m58301"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Applications of Newton's Laws</md:title>
+      <col:content>
+        <col:module document="m58302"/>
+        <col:module document="m58303"/>
+        <col:module document="m58304"/>
+        <col:module document="m58305"/>
+        <col:module document="m58345"/>
+        <col:module document="m58346"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Work and Kinetic Energy</md:title>
+      <col:content>
+        <col:module document="m58307"/>
+        <col:module document="m58719"/>
+        <col:module document="m58308"/>
+        <col:module document="m58309"/>
+        <col:module document="m58310"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Potential Energy and Conservation of Energy</md:title>
+      <col:content>
+        <col:module document="m58311"/>
+        <col:module document="m58312"/>
+        <col:module document="m58313"/>
+        <col:module document="m58314"/>
+        <col:module document="m58315"/>
+        <col:module document="m58661"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Linear Momentum and Collisions</md:title>
+      <col:content>
+        <col:module document="m58317"/>
+        <col:module document="m58318"/>
+        <col:module document="m58319"/>
+        <col:module document="m58320"/>
+        <col:module document="m58321"/>
+        <col:module document="m58322"/>
+        <col:module document="m58323"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Fixed-Axis Rotation</md:title>
+      <col:content>
+        <col:module document="m58325"/>
+        <col:module document="m58326"/>
+        <col:module document="m58327"/>
+        <col:module document="m58328"/>
+        <col:module document="m58329"/>
+        <col:module document="m58330"/>
+        <col:module document="m58331"/>
+        <col:module document="m58332"/>
+        <col:module document="m58333"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Angular Momentum</md:title>
+      <col:content>
+        <col:module document="m58334"/>
+        <col:module document="m58335"/>
+        <col:module document="m58336"/>
+        <col:module document="m58337"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Appendix</md:title>
+      <col:content>
+        <col:module document="m58620"/>
+        <col:module document="m58777"/>
+        <col:module document="m58616"/>
+        <col:module document="m58619"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
