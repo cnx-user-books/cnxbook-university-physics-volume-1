@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58337</md:content-id>
   <md:title>Conservation of Angular Momentum</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of this section, you will be able to:
 <list>
 <item>Apply conservation of angular momentum to determine the angular velocity of a rotating system in which the moment of inertia is changing</item>
 <item>Explain how the rotational kinetic energy changes when a system undergoes changes in both moment of inertia and angular velocity</item>
@@ -74,7 +74,7 @@ Since the rotational inertia of the system increased, the angular velocity decre
 <note id="fs-id1165037843683" class="check-understanding">
 <exercise id="fs-id1165037997162">
 <problem id="fs-id1165037882235">
-<para id="fs-id1165036746898"> A merry-go-round at a playground is rotating at 4.0 rev/min. Three children jump on and increase the moment of inertia of the merry-go-round/children rotating system by <m:math><m:mrow><m:mn>25</m:mn><m:mi>%</m:mi></m:mrow></m:math>. What is the new rotation rate?</para>
+<para id="fs-id1165036746898"><emphasis effect="bold">Check Your Understanding</emphasis> A merry-go-round at a playground is rotating at 4.0 rev/min. Three children jump on and increase the moment of inertia of the merry-go-round/children rotating system by <m:math><m:mrow><m:mn>25</m:mn><m:mi>%</m:mi></m:mrow></m:math>. What is the new rotation rate?</para>
 </problem>
 <solution id="fs-id1165037935148">
 <para id="fs-id1165037023460">Using conservation of angular momentum, we have<newline/>
@@ -185,7 +185,7 @@ The system is composed of both a point particle and a rigid body. Care must be t
 <title>Problems</title>
 <exercise id="fs-id1165037987153">
 <problem id="fs-id1165036881970">
-<para id="fs-id1165037907086">A disk of mass 2.0 kg and radius 60 cm with a small mass of 0.05 kg attached at the edge is rotating at 2.0 rev/s. The small mass, while attached to the disk, slides gradually to the center of the disk. What is the disk’s final rotation rate?</para>
+<para id="fs-id1165037907086">A disk of mass 2.0 kg and radius 60 cm with a small mass of 0.05 kg attached at the edge is rotating at 2.0 rev/s. The small mass suddenly separates from the disk. What is the disk’s final rotation rate?</para>
 </problem>
 </exercise>
 <exercise id="fs-id1165036984798">
@@ -212,7 +212,7 @@ The system is composed of both a point particle and a rigid body. Care must be t
 </exercise>
 <exercise id="fs-id1165037894394">
 <problem id="fs-id1165037894396">
-<para id="fs-id1165036784445">An Earth satellite has its apogee at 2500 km above the surface of Earth and perigee at 500 km above the surface of Earth. At apogee its speed is 6260 m/s. What is its speed at perigee? Earth’s radius is 6370 km (see below).</para>
+<para id="fs-id1165036784445">An Earth satellite has its apogee at 2500 km above the surface of Earth and perigee at 500 km above the surface of Earth. At apogee its speed is 730 m/s. What is its speed at perigee? Earth’s radius is 6370 km (see below).</para>
 <media id="fs-id1165036792780" alt="An illustration of an elliptical counterclockwise orbit. The major axis is horizontal and mass M is at the left side focal point, left of center. Position A is at the rightmost edge of the ellipse, a distance r sub A to the right of mass M. The velocity at point A is vector v sub A and is up. Position P is at the leftmost edge of the ellipse, a distance r sub p to the left mass M. The velocity at point P is vector v sub P and is down.">
 <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_11_03_Prob13_img.jpg"/>
 </media>
@@ -366,7 +366,7 @@ She can do four flips in the air.</para>
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1165037004448">
 <term>law of conservation of angular momentum</term>
