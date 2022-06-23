@@ -4,7 +4,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58354</md:content-id>
   <md:title>Measuring Pressure</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para><list>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
 <item>Define gauge pressure and absolute pressure</item>
 <item>Explain various methods for measuring pressure</item>
 <item>Understand the working of open-tube barometers</item>
@@ -79,11 +80,13 @@ Since the two points are in Liquid 1 and are at the same height, the pressure at
 <para id="fs-id1170958900531">Hence,</para>
 <equation id="fs-id1170958814435" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mi>ρ</m:mi><m:mn>1</m:mn></m:msub><m:msub><m:mi>h</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:msub><m:mi>ρ</m:mi><m:mn>2</m:mn></m:msub><m:msub><m:mi>h</m:mi><m:mn>2</m:mn></m:msub><m:mo>.</m:mo></m:mrow></m:math></equation>
 <para id="fs-id1170958627161">This means that the difference in heights on the two sides of the U-tube is</para>
-<equation id="fs-id1170958617734" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mi>h</m:mi><m:mn>2</m:mn></m:msub><m:mo>−</m:mo><m:msub><m:mi>h</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1</m:mn><m:mo>−</m:mo><m:mfrac><m:mrow><m:msub><m:mi>ρ</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mrow><m:msub><m:mi>ρ</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:msub><m:mi>h</m:mi><m:mn>2</m:mn></m:msub><m:mo>.</m:mo></m:mrow></m:math></equation><para id="fs-id1170958989525">The result makes sense if we set <m:math><m:mrow><m:msub><m:mi>ρ</m:mi><m:mn>2</m:mn></m:msub><m:mo>=</m:mo><m:msub><m:mi>ρ</m:mi><m:mn>1</m:mn></m:msub><m:mo>,</m:mo></m:mrow></m:math> which gives <m:math><m:mrow><m:msub><m:mi>h</m:mi><m:mn>2</m:mn></m:msub><m:mo>=</m:mo><m:msub><m:mi>h</m:mi><m:mn>1</m:mn></m:msub><m:mo>.</m:mo></m:mrow></m:math> If the two sides have the same density, they have the same height.</para></example>
+<equation id="fs-id1170958617734" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mi>h</m:mi><m:mn>2</m:mn></m:msub><m:mo>−</m:mo><m:msub><m:mi>h</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>1</m:mn><m:mo>−</m:mo><m:mfrac><m:mrow><m:msub><m:mi>p</m:mi><m:mn>1</m:mn></m:msub></m:mrow><m:mrow><m:msub><m:mi>p</m:mi><m:mn>2</m:mn></m:msub></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:msub><m:mi>h</m:mi><m:mn>2</m:mn></m:msub><m:mo>.</m:mo></m:mrow></m:math></equation>
+<para id="fs-id1170958989525">The result makes sense if we set <m:math><m:mrow><m:msub><m:mi>p</m:mi><m:mn>2</m:mn></m:msub><m:mo>=</m:mo><m:msub><m:mi>p</m:mi><m:mn>1</m:mn></m:msub><m:mo>,</m:mo></m:mrow></m:math> which gives <m:math><m:mrow><m:msub><m:mi>h</m:mi><m:mn>2</m:mn></m:msub><m:mo>=</m:mo><m:msub><m:mi>h</m:mi><m:mn>1</m:mn></m:msub><m:mo>.</m:mo></m:mrow></m:math> If the two sides have the same density, they have the same height.</para>
+</example>
 <note id="fs-id1170958004310" class="check-understanding">
 <exercise id="fs-id1170958860785">
 <problem id="fs-id1170958643644">
-<para id="fs-id1170958906535"> Mercury is a hazardous substance. Why do you suppose mercury is typically used in barometers instead of a safer fluid such as water?</para>
+<para id="fs-id1170958906535"><emphasis effect="bold">Check Your Understanding</emphasis> Mercury is a hazardous substance. Why do you suppose mercury is typically used in barometers instead of a safer fluid such as water?</para>
 </problem>
 <solution id="fs-id1170958618402">
 <para id="fs-id1170958767690">The density of mercury is 13.6 times greater than the density of water. It takes approximately 76 cm (29.9 in.) of mercury to measure the pressure of the atmosphere, whereas it would take approximately 10 m (34 ft.) of water.</para>
@@ -168,7 +171,7 @@ Since the two points are in Liquid 1 and are at the same height, the pressure at
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1170958987897">
 <term>absolute pressure</term>

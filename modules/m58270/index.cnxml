@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58270</md:content-id>
   <md:title>Units and Standards</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of this section, you will be able to:
 <list>
 <item>Describe how SI base units are defined.</item>
 <item>Describe how derived units are created from base units.</item>
@@ -75,7 +75,7 @@
 <para id="fs-id1168329125088">You are probably already familiar with some derived quantities that can be formed from the base quantities in <link target-id="fs-id1168326798535"/>. For example, the geometric concept of area is always calculated as the product of two lengths. Thus, area is a derived quantity that can be expressed in terms of SI base units using square meters <m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>m</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mtext>m</m:mtext><m:mo>=</m:mo><m:msup><m:mtext>m</m:mtext><m:mn>2</m:mn></m:msup><m:mo stretchy="false">)</m:mo><m:mo>.</m:mo></m:mrow></m:math> Similarly, volume is a derived quantity that can be expressed in cubic meters <m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:msup><m:mtext>m</m:mtext><m:mn>3</m:mn></m:msup><m:mo stretchy="false">)</m:mo><m:mo>.</m:mo></m:mrow></m:math> Speed is length per time; so in terms of SI base units, we could measure it in meters per second (m/s). Volume mass density (or just density) is mass per volume, which is expressed in terms of SI base units such as kilograms per cubic meter (kg/m<sup>3</sup>). Angles can also be thought of as derived quantities because they can be defined as the ratio of the arc length subtended by two radii of a circle to the radius of the circle. This is how the radian is defined. Depending on your background and interests, you may be able to come up with other derived quantities, such as the mass flow rate (kg/s) or volume flow rate (m<sup>3</sup>/s) of a fluid, electric charge <m:math><m:mrow><m:mo>(</m:mo><m:mtext>A</m:mtext><m:mo>·</m:mo><m:mtext>s</m:mtext><m:mo>)</m:mo><m:mo>,</m:mo></m:mrow></m:math> mass flux density <m:math><m:mrow><m:mtext>[kg/</m:mtext><m:mo stretchy="false">(</m:mo><m:msup><m:mtext>m</m:mtext><m:mn>2</m:mn></m:msup><m:mo>·</m:mo><m:mtext>s)],</m:mtext></m:mrow></m:math> and so on. We will see many more examples throughout this text. For now, the point is that every physical quantity can be derived from the seven base quantities in <link target-id="fs-id1168326798535"/>, and the units of every physical quantity can be derived from the seven SI base units.</para>
 <para id="fs-id1168329116133">For the most part, we use SI units in this text. Non-SI units are used in a few applications in which they are in very common use, such as the measurement of temperature in degrees Celsius <m:math><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>°</m:mtext><m:mtext>C</m:mtext><m:mo stretchy="false">)</m:mo><m:mo>,</m:mo></m:mrow></m:math> the measurement of fluid volume in liters (L), and the measurement of energies of elementary particles in electron-volts (eV). Whenever non-SI units are discussed, they are tied to SI units through conversions. For example, 1 L is <m:math><m:mrow><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−3</m:mn></m:mrow></m:msup><m:msup><m:mrow><m:mspace width="0.2em"/><m:mtext>m</m:mtext></m:mrow><m:mn>3</m:mn></m:msup><m:mo>.</m:mo></m:mrow></m:math></para>
 <note id="fs-id1168326823673" class="media-2">
-<para id="fs-id1168329060434">Check out a comprehensive source of information on <link url="https://openstax.org/l/21SIUnits">SI units</link> at the National Institute of Standards and Technology (NIST) Reference on Constants, Units, and Uncertainty.</para>
+<para id="fs-id1168329060434">Check out a comprehensive source of information on <link url="https://openstaxcollege.org/l/21SIUnits">SI units</link> at the National Institute of Standards and Technology (NIST) Reference on Constants, Units, and Uncertainty.</para>
 </note>
 </section>
 <section id="fs-id1168326835562">
@@ -95,7 +95,7 @@
 <title>The meter</title>
 <para id="fs-id1168329477884">The SI unit for length is the <term>meter</term> (abbreviated m); its definition has also changed over time to become more precise. The meter was first defined in 1791 as 1/10,000,000 of the distance from the equator to the North Pole. This measurement was improved in 1889 by redefining the meter to be the distance between two engraved lines on a platinum–iridium bar now kept near Paris. By 1960, it had become possible to define the meter even more accurately in terms of the wavelength of light, so it was again redefined as 1,650,763.73 wavelengths of orange light emitted by krypton atoms. In 1983, the meter was given its current definition (in part for greater accuracy) as the distance light travels in a vacuum in 1/299,792,458 of a second (<link target-id="CNX_UPhysics_01_02_Meter"/>). This change came after knowing the speed of light to be exactly 299,792,458 m/s. The length of the meter will change if the speed of light is someday measured with greater accuracy.</para>
 <figure id="CNX_UPhysics_01_02_Meter">
-<media id="fs-id1168326801378" alt="A drawing of a meter stick and a flashlight shining a beam of light. An arrow indicates that the beam spans the length of the meter stick. The drawing is labeled “light travels a distance of 1 meter in 1 over 299,792,458 of a second”.">
+<media id="fs-id1168326801378" alt="A drawing of a meter stick and a flashlight shining a beam of light. An arrow indicates that the beam spans the length of the meter stick. The drawing is labeled “ light travels a distance of 1 meter in 1 over 299,792,458 seconds.">
 <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_01_02_Meter.jpg"/>
 </media>
 <caption>The meter is defined to be the distance light travels in 1/299,792,458 of a second in a vacuum. Distance traveled is speed multiplied by time.</caption>
@@ -103,12 +103,14 @@
 </section>
 <section id="fs-id1168326801578">
 <title>The kilogram</title>
-<para id="fs-id1168329079848">The SI unit for mass is the <term>kilogram</term> (abbreviated kg); From 1795–2018 it was defined to be the mass of a platinum–iridium cylinder kept with the old meter standard at the International Bureau of Weights and Measures near Paris. However, this cylinder has lost roughly 50 micrograms since it was created. Because this is the standard, this has shifted how we defined a kilogram. Therefore, a new definition was adopted in May 2019 based on the Planck constant and other constants which will never change in value. We will study Planck’s constant in quantum mechanics, which is an area of physics that describes how the smallest pieces of the universe work. The kilogram is measured on a Kibble balance (see <link target-id="CNX_UPhysics_01_02_Mass"/>). When a weight is placed on a Kibble balance, an electrical current is produced that is proportional to Planck’s constant. Since Planck’s constant is defined, the exact current measurements in the balance define the kilogram.</para><figure id="CNX_UPhysics_01_02_Mass"><media id="fs-id1168326753671" alt="A photograph of the U S national institute of Standards and technology’s watt balance.">
+<para id="fs-id1168329079848">The SI unit for mass is the <term>kilogram</term> (abbreviated kg); it is defined to be the mass of a platinum–iridium cylinder kept with the old meter standard at the International Bureau of Weights and Measures near Paris. Exact replicas of the standard kilogram are also kept at the U.S. National Institute of Standards and Technology (NIST), located in Gaithersburg, Maryland, outside of Washington, DC, and at other locations around the world. Scientists at NIST are currently investigating two complementary methods of redefining the kilogram (see <link target-id="CNX_UPhysics_01_02_Mass"/>). The determination of all other masses can be traced ultimately to a comparison with the standard mass.</para>
+<note id="fs-id1168326860330" class="media-2">
+<para id="fs-id1168329183467">There is currently an effort to redefine the SI unit of mass in terms of more fundamental processes by 2018. You can explore the history of mass standards and the contenders in the quest to devise a new one at the <link url="https://www.nist.gov/pml/productsservices/redefining-kilogram">website</link> of the Physical Measurement Laboratory.</para></note>
+<figure id="CNX_UPhysics_01_02_Mass"><media id="fs-id1168326753671" alt="Figure a is a photograph of the U S national institute of Standards and technology’s watt balance. Figure b is a photograph of a highly polished silicon sphere.">
 <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_01_02_Mass.jpg"/>
 </media>
 
-<caption>Redefining the SI unit of mass. The U.S. National Institute of Standards and Technology’s Kibble balance is a machine that balances the weight of a test mass with the resulting electrical current needed for a force to balance it.
-</caption></figure></section>
+<caption>Redefining the SI unit of mass. Complementary methods are being investigated for use in an upcoming redefinition of the SI unit of mass. (a) The U.S. National Institute of Standards and Technology’s watt balance is a machine that balances the weight of a test mass against the current and voltage (the “watt”) produced by a strong system of magnets. (b) The International Avogadro Project is working to redefine the kilogram based on the dimensions, mass, and other known properties of a silicon sphere. (credit a and credit b: modification of work by National Institute of Standards and Technology)</caption></figure></section>
 </section>
 <section id="fs-id1168328977418">
 <title>Metric Prefixes</title>
@@ -241,7 +243,7 @@ It is easy to make silly arithmetic errors when switching from one prefix to ano
 <note id="fs-id1168329450595" class="check-understanding">
 <exercise id="fs-id1168329067205">
 <problem id="fs-id1168326861349">
-<para id="fs-id1168326795197"> Restate <m:math><m:mrow><m:mn>4.79</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>5</m:mn></m:msup><m:mtext>kg</m:mtext></m:mrow></m:math> using a metric prefix such that the resulting number is bigger than one but less than 1000.</para>
+<para id="fs-id1168326795197"><emphasis effect="bold">Check Your Understanding</emphasis> Restate <m:math><m:mrow><m:mn>4.79</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>5</m:mn></m:msup><m:mtext>kg</m:mtext></m:mrow></m:math> using a metric prefix such that the resulting number is bigger than one but less than 1000.</para>
 </problem>
 <solution id="fs-id1168326860727">
 <para id="fs-id1168329037259"><m:math><m:mrow><m:mn>4.79</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math> Mg or 479 Mg</para>
@@ -329,7 +331,7 @@ It is easy to make silly arithmetic errors when switching from one prefix to ano
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1168329139829">
 <term>base quantity</term>

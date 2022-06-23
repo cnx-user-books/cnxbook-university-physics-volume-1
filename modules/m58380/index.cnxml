@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58380</md:content-id>
   <md:title>Beats</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para> 
+  <md:abstract>By the end of this section, you will be able to: 
 <list>
 <item>Determine the beat frequency produced by two sound waves that differ in frequency</item>
 <item>Describe how beats are produced by musical instruments</item>
@@ -43,7 +43,7 @@ The beat frequency is the absolute value of the difference between the two frequ
 <note id="fs-id1165039054977" class="check-understanding">
 <exercise id="fs-id1165039383927">
 <problem id="fs-id1165038998400">
-<para id="fs-id1165039096254"> What would happen if more than two frequencies interacted? Consider three frequencies.</para>
+<para id="fs-id1165039096254"><emphasis effect="bold">Check Your Understanding</emphasis> What would happen if more than two frequencies interacted? Consider three frequencies.</para>
 </problem>
 <solution id="fs-id1165039285695">
 <para id="fs-id1165039091086">An easy way to understand this event is to use a graph, as shown below. It appears that beats are produced, but with a more complex pattern of interference.</para>
@@ -163,7 +163,7 @@ The frequency is 1076.83 Hz and the wavelength is 0.14 m.</para>
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1165039346339">
 <term>beat frequency</term>

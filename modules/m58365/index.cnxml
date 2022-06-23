@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58365</md:content-id>
   <md:title>Damped Oscillations</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of this section, you will be able to:
 <list>
 <item>Describe the motion of damped harmonic motion</item>
 <item>Write the equations of motion for damped harmonic oscillations</item>
@@ -70,7 +70,7 @@
 <note id="fs-id1167134781058" class="check-understanding">
 <exercise id="fs-id1167134562163">
 <problem id="fs-id1167134882302">
-<para id="fs-id1167131119648"> Why are completely undamped harmonic oscillators so rare?</para>
+<para id="fs-id1167131119648"><emphasis effect="bold">Check Your Understanding</emphasis> Why are completely undamped harmonic oscillators so rare?</para>
 </problem>
 <solution id="fs-id1167134541830">
 <para id="fs-id1167129968201">Friction often comes into play whenever an object is moving. Friction causes damping in a harmonic oscillator.</para>
@@ -120,11 +120,11 @@
 <para id="fs-id1167131483625">The amplitude of a lightly damped oscillator decreases by <m:math><m:mrow><m:mn>3.0</m:mn><m:mi>%</m:mi></m:mrow></m:math> during each cycle. What percentage of the mechanical energy of the oscillator is lost in each cycle?</para>
 </problem>
 <solution id="fs-id1167134928633">
-<para id="fs-id1167134834992">6%</para>
+<para id="fs-id1167134834992">9%</para>
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1167131256031">
 <term>critically damped</term>

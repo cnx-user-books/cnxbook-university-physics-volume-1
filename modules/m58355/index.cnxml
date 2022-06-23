@@ -4,7 +4,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58355</md:content-id>
   <md:title>Pascal's Principle and Hydraulics</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para><list>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
 <item>State Pascal’s principle</item>
 <item>Describe applications of Pascal’s principle</item>
 <item>Derive relationships between forces in a hydraulic system</item>
@@ -26,11 +27,12 @@
 </media>
 <caption>Pressure in a fluid changes when the fluid is compressed. (a) The pressure at the top layer of the fluid is different from pressure at the bottom layer. (b) The increase in pressure by adding weight to the piston is the same everywhere, for example, <m:math><m:mrow><m:msub><m:mi>p</m:mi><m:mrow><m:mtext>top new</m:mtext></m:mrow></m:msub><m:mo>−</m:mo><m:msub><m:mi>p</m:mi><m:mrow><m:mtext>top</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:msub><m:mi>p</m:mi><m:mrow><m:mtext>bottom new</m:mtext></m:mrow></m:msub><m:mo>−</m:mo><m:msub><m:mi>p</m:mi><m:mrow><m:mtext>bottom</m:mtext></m:mrow></m:msub></m:mrow></m:math>.</caption>
 </figure>
-<para id="fs-id1170959791702">According to Pascal’s principle, the pressure at all points in the water changes by the same amount, <emphasis effect="italics">Mg</emphasis>/<emphasis effect="italics">A</emphasis>. Thus, the pressure at the bottom also increases by <emphasis effect="italics">Mg</emphasis>/<emphasis effect="italics">A</emphasis>. The pressure at the bottom of the container is equal to the sum of the atmospheric pressure, the pressure due to the fluid, and the pressure supplied by the mass. The change in pressure at the bottom of the container due to the mass is</para><equation id="fs-id1170957582509" class="unnumbered"><label/><m:math><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>p</m:mi><m:mrow><m:mtext>bottom</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>M</m:mi><m:mi>g</m:mi></m:mrow><m:mi>A</m:mi></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></equation>
+<para id="fs-id1170959791702">According to Pascal’s principle, the pressure at all points in the water changes by the same amount, <emphasis effect="italics">Mg</emphasis>/<emphasis effect="italics">A</emphasis>. Thus, the pressure at the bottom also increases by <emphasis effect="italics">Mg</emphasis>/<emphasis effect="italics">A</emphasis>. The pressure at the bottom of the container is equal to the sum of the atmospheric pressure, the pressure due the fluid, and the pressure supplied by the mass. The change in pressure at the bottom of the container due to the mass is</para>
+<equation id="fs-id1170957582509" class="unnumbered"><label/><m:math><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi>p</m:mi><m:mrow><m:mtext>bottom</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mfrac><m:mrow><m:mi>M</m:mi><m:mi>g</m:mi></m:mrow><m:mi>A</m:mi></m:mfrac><m:mo>.</m:mo></m:mrow></m:math></equation>
 <para id="fs-id1170957502125">Since the pressure changes are the same everywhere in the fluid, we no longer need subscripts to designate the pressure change for top or bottom:</para>
 <equation id="fs-id1170960191948" class="unnumbered"><label/><m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>p</m:mi><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:msub><m:mi>p</m:mi><m:mrow><m:mtext>top</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:msub><m:mi>p</m:mi><m:mrow><m:mtext>bottom</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mtext>Δ</m:mtext><m:msub><m:mi>p</m:mi><m:mrow><m:mtext>everywhere</m:mtext></m:mrow></m:msub><m:mo>.</m:mo></m:mrow></m:math></equation>
 <note id="fs-id1170959793262" class="media-2">
-<para id="fs-id1170959657883">Pascal’s Barrel is a great demonstration of Pascal’s principle. Watch a <link url="https://openstax.org/l/21pascalbarrel">simulation</link> of Pascal’s 1646 experiment, in which he demonstrated the effects of changing pressure in a fluid.</para>
+<para id="fs-id1170959657883">Pascal’s Barrel is a great demonstration of Pascal’s principle. Watch a <link url="https://openstaxcollege.org/l/21pascalbarrel">simulation</link> of Pascal’s 1646 experiment, in which he demonstrated the effects of changing pressure in a fluid.</para>
 </note>
 </section>
 <section id="fs-id1170960045269">
@@ -80,7 +82,7 @@ This value is the force exerted by each of the four wheel cylinders. Note that w
 <note id="fs-id1170959938408" class="check-understanding">
 <exercise id="fs-id1170959801934">
 <problem id="fs-id1170959975966">
-<para id="fs-id1170959801106"> Would a hydraulic press still operate properly if a gas is used instead of a liquid?</para>
+<para id="fs-id1170959801106"><emphasis effect="bold">Check Your Understanding</emphasis> Would a hydraulic press still operate properly if a gas is used instead of a liquid?</para>
 </problem>
 <solution id="fs-id1170959756282">
 <para id="fs-id1170959970582">Yes, it would still work, but since a gas is compressible, it would not operate as efficiently. When the force is applied, the gas would first compress and warm. Hence, the air in the brake lines must be bled out in order for the brakes to work properly.</para>
@@ -141,7 +143,7 @@ This value is the force exerted by each of the four wheel cylinders. Note that w
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1170959671759">
 <term>hydraulic jack</term>

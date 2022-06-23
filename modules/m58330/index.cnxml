@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58330</md:content-id>
   <md:title>Calculating Moments of Inertia</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para> 
+  <md:abstract>By the end of this section, you will be able to: 
 <list>
 <item>Calculate the moment of inertia for uniformly shaped, rigid bodies</item>
 <item>Apply the parallel axis theorem to find the moment of inertia about any axis parallel to one already known</item>
@@ -89,7 +89,7 @@
 <note id="fs-id1167133472470" class="check-understanding">
 <exercise id="fs-id1167133375616">
 <problem id="fs-id1167133550293">
-<para id="fs-id1167133792700"> What is the moment of inertia of a cylinder of radius <emphasis effect="italics">R</emphasis> and mass <emphasis effect="italics">m</emphasis> about an axis through a point on the surface, as shown below?</para>
+<para id="fs-id1167133792700"><emphasis effect="bold">Check Your Understanding</emphasis> What is the moment of inertia of a cylinder of radius <emphasis effect="italics">R</emphasis> and mass <emphasis effect="italics">m</emphasis> about an axis through a point on the surface, as shown below?</para>
 <media id="fs-id1167133523823" alt="Figure shows a cylinder of radius R that rotates about an axis through a point on the surface.">
 <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_10_05_Cyl_img.jpg"/>
 </media>
@@ -123,11 +123,13 @@
 <equation id="fs-id1167133811543"><label/><m:math><m:mrow><m:msub><m:mi>I</m:mi><m:mrow><m:mtext>total</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mstyle displaystyle="true"><m:munder><m:mo>∑</m:mo><m:mi>i</m:mi></m:munder><m:mrow><m:msub><m:mi>I</m:mi><m:mi>i</m:mi></m:msub></m:mrow></m:mstyle><m:mo>.</m:mo></m:mrow></m:math></equation>
 </note>
 <para id="fs-id1167133553885">It is important to note that the moments of inertia of the objects in <link target-id="fs-id1167133811543"/> are <emphasis effect="italics">about a common axis</emphasis>. In the case of this object, that would be a rod of length <emphasis effect="italics">L</emphasis> rotating about its end, and a thin disk of radius <emphasis effect="italics">R</emphasis> rotating about an axis shifted off of the center by a distance <m:math><m:mrow><m:mi>L</m:mi><m:mo>+</m:mo><m:mi>R</m:mi></m:mrow></m:math>, where <emphasis effect="italics">R</emphasis> is the radius of the disk. Let’s define the mass of the rod to be <m:math><m:mrow><m:msub><m:mi>m</m:mi><m:mtext>r</m:mtext></m:msub></m:mrow></m:math> and the mass of the disk to be <m:math><m:mrow><m:msub><m:mi>m</m:mi><m:mtext>d</m:mtext></m:msub><m:mo>.</m:mo></m:mrow></m:math></para>
-<figure id="CNX_UPhysics_10_05_RodDisk"><media id="fs-id1167133366218" alt="Figure shows a disk with radius R connected to a rod with length L.">
-<image mime-type="image/jpeg" src="../../media/CNX_UPhysics_10_05_balldisk_replaced.jpg"/>
+<figure id="CNX_UPhysics_10_05_RodDisk">
+<media id="fs-id1167133366218" alt="Figure shows a disk with radius R connected to a rod with length L.">
+<image mime-type="image/jpeg" src="../../media/CNX_UPhysics_10_05_RodDisk.jpg"/>
 </media>
-
-<caption>Compound object consisting of a disk at the end of a rod. The axis of rotation is located at <emphasis effect="italics">A</emphasis>.</caption></figure><para id="fs-id1167133797122">The moment of inertia of the rod is simply <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:msub><m:mi>m</m:mi><m:mtext>r</m:mtext></m:msub><m:msup><m:mi>L</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math>, but we have to use the parallel-axis theorem to find the moment of inertia of the disk about the axis shown. The moment of inertia of the disk about its center is <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:msub><m:mi>m</m:mi><m:mtext>d</m:mtext></m:msub><m:msup><m:mi>R</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math> and we apply the parallel-axis theorem <m:math><m:mrow><m:msub><m:mi>I</m:mi><m:mrow><m:mtext>parallel-axis</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:msub><m:mi>I</m:mi><m:mrow><m:mtext>center of mass</m:mtext></m:mrow></m:msub><m:mo>+</m:mo><m:mi>m</m:mi><m:msup><m:mi>d</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math> to find</para>
+<caption>Compound object consisting of a disk at the end of a rod. The axis of rotation is located at <emphasis effect="italics">A</emphasis>.</caption>
+</figure>
+<para id="fs-id1167133797122">The moment of inertia of the rod is simply <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:msub><m:mi>m</m:mi><m:mtext>r</m:mtext></m:msub><m:msup><m:mi>L</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math>, but we have to use the parallel-axis theorem to find the moment of inertia of the disk about the axis shown. The moment of inertia of the disk about its center is <m:math><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:msub><m:mi>m</m:mi><m:mtext>d</m:mtext></m:msub><m:msup><m:mi>R</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math> and we apply the parallel-axis theorem <m:math><m:mrow><m:msub><m:mi>I</m:mi><m:mrow><m:mtext>parallel-axis</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:msub><m:mi>I</m:mi><m:mrow><m:mtext>center of mass</m:mtext></m:mrow></m:msub><m:mo>+</m:mo><m:mi>m</m:mi><m:msup><m:mi>d</m:mi><m:mn>2</m:mn></m:msup></m:mrow></m:math> to find</para>
 <equation id="fs-id1167133774220" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mi>I</m:mi><m:mrow><m:mtext>parallel-axis</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:msub><m:mi>m</m:mi><m:mtext>d</m:mtext></m:msub><m:msup><m:mi>R</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:msub><m:mi>m</m:mi><m:mtext>d</m:mtext></m:msub><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>L</m:mi><m:mo>+</m:mo><m:mi>R</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>.</m:mo></m:mrow></m:math></equation>
 <para id="fs-id1167133447451">Adding the moment of inertia of the rod plus the moment of inertia of the disk with a shifted axis of rotation, we find the moment of inertia for the compound object to be</para>
 <equation id="fs-id1167133803182" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mi>I</m:mi><m:mrow><m:mtext>total</m:mtext></m:mrow></m:msub><m:mo>=</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>3</m:mn></m:mfrac><m:msub><m:mi>m</m:mi><m:mtext>r</m:mtext></m:msub><m:msup><m:mi>L</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:msub><m:mi>m</m:mi><m:mtext>d</m:mtext></m:msub><m:msup><m:mi>R</m:mi><m:mn>2</m:mn></m:msup><m:mo>+</m:mo><m:msub><m:mi>m</m:mi><m:mtext>d</m:mtext></m:msub><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>L</m:mi><m:mo>+</m:mo><m:mi>R</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup><m:mo>.</m:mo></m:mrow></m:math></equation>
@@ -307,7 +309,7 @@ Note that the angular velocity of the pendulum does not depend on its mass.</par
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1167133686238">
 <term>linear mass density</term>
