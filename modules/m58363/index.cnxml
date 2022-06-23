@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58363</md:content-id>
   <md:title>Comparing Simple Harmonic Motion and Circular Motion</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of this section, you will be able to:
 <list>
 <item>Describe how the sine and cosine functions relate to the concepts of circular motion</item>
 <item>Describe the connection between simple harmonic motion and circular motion</item>
@@ -49,7 +49,7 @@
 <note id="fs-id1167133533745" class="check-understanding">
 <exercise id="fs-id1167133476195">
 <problem id="fs-id1167133840712">
-<para id="fs-id1167132394342"> Identify an object that undergoes uniform circular motion. Describe how you could trace the SHM of this object.</para>
+<para id="fs-id1167132394342"><emphasis effect="bold">Check Your Understanding</emphasis> Identify an object that undergoes uniform circular motion. Describe how you could trace the SHM of this object.</para>
 </problem>
 <solution id="fs-id1167129096609">
 <para id="fs-id1167132707178">A ketchup bottle sits on a lazy Susan in the center of the dinner table. You set it rotating in uniform circular motion. A set of lights shine on the bottle, producing a shadow on the wall.</para>
@@ -100,7 +100,8 @@
 <media id="fs-id1167133537455" alt="A diagram of a motor, depicted as a disk rotating on its axis, causing a saw blade to move horizontally. At the bottom of the motor disk is a linkage that connects to the horizontal blade. The linkage can pivot at both ends. The blade is constrained to move horizontally by a horizontal gap in a guiding block.">
 <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_15_03_RecipSaw.jpg"/>
 </media>
-<para id="fs-id1167132325688">If the motor rotates at 60 Hz and has a radius of 3.0 cm, estimate the maximum speed of the saw blade as it moves left and right. This design is known as a scotch yoke.</para></problem>
+<para id="fs-id1167132325688">If the motor rotates at 60 Hz and has a radius of 3.0 cm, estimate the maximum speed of the saw blade as it moves up and down. This design is known as a scotch yoke.</para>
+</problem>
 </exercise>
 <exercise id="fs-id1167133839992">
 <problem id="fs-id1167132339670">
@@ -111,5 +112,5 @@
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 </document>

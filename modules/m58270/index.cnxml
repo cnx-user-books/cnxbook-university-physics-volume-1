@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58270</md:content-id>
   <md:title>Units and Standards</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of this section, you will be able to:
 <list>
 <item>Describe how SI base units are defined.</item>
 <item>Describe how derived units are created from base units.</item>
@@ -95,7 +95,7 @@
 <title>The meter</title>
 <para id="fs-id1168329477884">The SI unit for length is the <term>meter</term> (abbreviated m); its definition has also changed over time to become more precise. The meter was first defined in 1791 as 1/10,000,000 of the distance from the equator to the North Pole. This measurement was improved in 1889 by redefining the meter to be the distance between two engraved lines on a platinum–iridium bar now kept near Paris. By 1960, it had become possible to define the meter even more accurately in terms of the wavelength of light, so it was again redefined as 1,650,763.73 wavelengths of orange light emitted by krypton atoms. In 1983, the meter was given its current definition (in part for greater accuracy) as the distance light travels in a vacuum in 1/299,792,458 of a second (<link target-id="CNX_UPhysics_01_02_Meter"/>). This change came after knowing the speed of light to be exactly 299,792,458 m/s. The length of the meter will change if the speed of light is someday measured with greater accuracy.</para>
 <figure id="CNX_UPhysics_01_02_Meter">
-<media id="fs-id1168326801378" alt="A drawing of a meter stick and a flashlight shining a beam of light. An arrow indicates that the beam spans the length of the meter stick. The drawing is labeled “light travels a distance of 1 meter in 1 over 299,792,458 of a second”.">
+<media id="fs-id1168326801378" alt="A drawing of a meter stick and a flashlight shining a beam of light. An arrow indicates that the beam spans the length of the meter stick. The drawing is labeled “ light travels a distance of 1 meter in 1 over 299,792,458 seconds.">
 <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_01_02_Meter.jpg"/>
 </media>
 <caption>The meter is defined to be the distance light travels in 1/299,792,458 of a second in a vacuum. Distance traveled is speed multiplied by time.</caption>
@@ -103,7 +103,7 @@
 </section>
 <section id="fs-id1168326801578">
 <title>The kilogram</title>
-<para id="fs-id1168329079848">The SI unit for mass is the <term>kilogram</term> (abbreviated kg); From 1795–2018 it was defined to be the mass of a platinum–iridium cylinder kept with the old meter standard at the International Bureau of Weights and Measures near Paris. However, this cylinder has lost roughly 50 micrograms since it was created. Because this is the standard, this has shifted how we defined a kilogram. Therefore, a new definition was adopted in May 2019 based on the Planck constant and other constants which will never change in value. We will study Planck’s constant in quantum mechanics, which is an area of physics that describes how the smallest pieces of the universe work. The kilogram is measured on a Kibble balance (see <link target-id="CNX_UPhysics_01_02_Mass"/>). When a weight is placed on a Kibble balance, an electrical current is produced that is proportional to Planck’s constant. Since Planck’s constant is defined, the exact current measurements in the balance define the kilogram.</para><figure id="CNX_UPhysics_01_02_Mass"><media id="fs-id1168326753671" alt="A photograph of the U S national institute of Standards and technology’s watt balance.">
+<para id="fs-id1168329079848">The SI unit for mass is the <term>kilogram</term> (abbreviated kg); From 1795–2018 it was defined to be the mass of a platinum–iridium cylinder kept with the old meter standard at the International Bureau of Weights and Measures near Paris. However this cylinder has lost roughly 50 micrograms since it was created. Because this is the standard, this has shifted how we defined a kilogram. Therefore, a new definition was adopted in May 2019 based on the Planck constant and other constants which will never change in value. We will study Planck’s constant in quantum mechanics, which is an area of physics that describes how the smallest pieces of the universe work. The kilogram is measured on a Kibble balance (see <link target-id="CNX_UPhysics_01_02_Mass"/>). When a weight is placed on a Kibble balance, an electrical current is produced that is proportional to Planck’s constant. Since Planck’s constant is defined, the exact current measurements in the balance define the kilogram.</para><figure id="CNX_UPhysics_01_02_Mass"><media id="fs-id1168326753671" alt="A photograph of the U S national institute of Standards and technology’s watt balance.">
 <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_01_02_Mass.jpg"/>
 </media>
 
@@ -241,7 +241,7 @@ It is easy to make silly arithmetic errors when switching from one prefix to ano
 <note id="fs-id1168329450595" class="check-understanding">
 <exercise id="fs-id1168329067205">
 <problem id="fs-id1168326861349">
-<para id="fs-id1168326795197"> Restate <m:math><m:mrow><m:mn>4.79</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>5</m:mn></m:msup><m:mtext>kg</m:mtext></m:mrow></m:math> using a metric prefix such that the resulting number is bigger than one but less than 1000.</para>
+<para id="fs-id1168326795197"><emphasis effect="bold">Check Your Understanding</emphasis> Restate <m:math><m:mrow><m:mn>4.79</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>5</m:mn></m:msup><m:mtext>kg</m:mtext></m:mrow></m:math> using a metric prefix such that the resulting number is bigger than one but less than 1000.</para>
 </problem>
 <solution id="fs-id1168326860727">
 <para id="fs-id1168329037259"><m:math><m:mrow><m:mn>4.79</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math> Mg or 479 Mg</para>
@@ -329,7 +329,7 @@ It is easy to make silly arithmetic errors when switching from one prefix to ano
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1168329139829">
 <term>base quantity</term>

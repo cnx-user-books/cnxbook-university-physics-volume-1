@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58330</md:content-id>
   <md:title>Calculating Moments of Inertia</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para> 
+  <md:abstract>By the end of this section, you will be able to: 
 <list>
 <item>Calculate the moment of inertia for uniformly shaped, rigid bodies</item>
 <item>Apply the parallel axis theorem to find the moment of inertia about any axis parallel to one already known</item>
@@ -89,7 +89,7 @@
 <note id="fs-id1167133472470" class="check-understanding">
 <exercise id="fs-id1167133375616">
 <problem id="fs-id1167133550293">
-<para id="fs-id1167133792700"> What is the moment of inertia of a cylinder of radius <emphasis effect="italics">R</emphasis> and mass <emphasis effect="italics">m</emphasis> about an axis through a point on the surface, as shown below?</para>
+<para id="fs-id1167133792700"><emphasis effect="bold">Check Your Understanding</emphasis> What is the moment of inertia of a cylinder of radius <emphasis effect="italics">R</emphasis> and mass <emphasis effect="italics">m</emphasis> about an axis through a point on the surface, as shown below?</para>
 <media id="fs-id1167133523823" alt="Figure shows a cylinder of radius R that rotates about an axis through a point on the surface.">
 <image mime-type="image/jpeg" src="../../media/CNX_UPhysics_10_05_Cyl_img.jpg"/>
 </media>
@@ -307,7 +307,7 @@ Note that the angular velocity of the pendulum does not depend on its mass.</par
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1167133686238">
 <term>linear mass density</term>

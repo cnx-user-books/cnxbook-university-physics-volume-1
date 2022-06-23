@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58353</md:content-id>
   <md:title>Fluids, Density, and Pressure</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of this section, you will be able to:
 <list>
 <item>State the different phases of matter</item>
 <item>Describe the characteristics of the phases of matter at the molecular or atomic level</item>
@@ -22,7 +22,7 @@
 <para id="fs-id1170958901977">Matter most commonly exists as a solid, liquid, or gas; these states are known as the three common <term class="no-emphasis">phases of matter</term>. We will look at each of these phases in detail in this section.</para>
 <section id="fs-id1170958691195">
 <title>Characteristics of Solids</title>
-<para id="fs-id1170959052995">Solids are rigid and have specific shapes and definite volumes. The atoms or molecules in a solid are in close proximity to each other, and there is a significant force between these molecules. Solids will take a form determined by the nature of these forces between the molecules. Although true solids are not incompressible, it nevertheless requires a large force to change the shape of a solid. In some cases, the force between molecules can cause the molecules to organize into a lattice as shown in <link target-id="CNX_UPhysics_Figure_14_01_PhasMatter"/>. The structure of this three-dimensional lattice is represented as molecules connected by rigid bonds (modeled as stiff springs), which allow limited freedom for movement. Even a large force produces only small displacements in the atoms or molecules of the lattice, and the solid maintains its shape. Solids also resist shearing forces. (Shearing forces are forces applied tangentially to a surface, as described in <link document="m58339">Static Equilibrium and Elasticity</link>.)</para>
+<para id="fs-id1170959052995">Solids are rigid and have specific shapes and definite volumes. The atoms or molecules in a solid are in close proximity to each other, and there is a significant force between these molecules. Solids will take a form determined by the nature of these forces between the molecules. Although true solids are not incompressible, it nevertheless requires a large force to change the shape of a solid. In some cases, the force between molecules can cause the molecules to organize into a lattice as shown in <link target-id="CNX_UPhysics_Figure_14_01_PhasMatter"/>. The structure of this three-dimensional lattice is represented as molecules connected by rigid bonds (modeled as stiff springs), which allow limited freedom for movement. Even a large force produces only small displacements in the atoms or molecules of the lattice, and the solid maintains its shape. Solids also resist shearing forces. (Shearing forces are forces applied tangentially to a surface, as described in <link class="target-chapter" document="m58339">Static Equilibrium and Elasticity</link>.)</para>
 </section>
 <section id="fs-id1170958022881">
 <title>Characteristics of Fluids</title>
@@ -293,7 +293,7 @@
 </section>
 <section id="fs-id1170958011589">
 <title>Pressure</title>
-<para id="fs-id1170959031552">You have no doubt heard the word ‘pressure’ used in relation to blood (high or low blood pressure) and in relation to weather (high- and low-pressure weather systems). These are only two of many examples of pressure in fluids. (Recall that we introduced the idea of pressure in <link document="m58339">Static Equilibrium and Elasticity</link>, in the context of bulk stress and strain.)</para>
+<para id="fs-id1170959031552">You have no doubt heard the word ‘pressure’ used in relation to blood (high or low blood pressure) and in relation to weather (high- and low-pressure weather systems). These are only two of many examples of pressure in fluids. (Recall that we introduced the idea of pressure in <link class="target-chapter" document="m58339">Static Equilibrium and Elasticity</link>, in the context of bulk stress and strain.)</para>
 <note id="fs-id1170958073520">
 <title>Pressure</title>
 <para id="fs-id1170958073526"><emphasis effect="bold">Pressure</emphasis> (<emphasis effect="italics">p</emphasis>) is defined as the normal force <emphasis effect="italics">F</emphasis> per unit area <emphasis effect="italics">A</emphasis> over which the force is applied, or</para>
@@ -343,21 +343,23 @@ Consider the pressure and force acting on the dam retaining a reservoir of water
 </media>
 <para id="fs-id1170958072917">The average pressure <emphasis effect="italics">p</emphasis> due to the weight of the water is the pressure at the average depth <emphasis effect="italics">h</emphasis> of 40.0 m, since pressure increases linearly with depth. The force exerted on the dam by the water is the average pressure times the area of contact, <m:math><m:mrow><m:mi>F</m:mi><m:mo>=</m:mo><m:mi>p</m:mi><m:mi>A</m:mi><m:mo>.</m:mo></m:mrow></m:math></para>
 <para id="fs-id1170958006080"><title>solution</title></para>
-<list id="fs-id1170958006084" list-type="enumerated" number-style="lower-alpha"><item>The average pressure due to the weight of a fluid is
-<equation id="fs-id1170959036594"><m:math><m:mrow><m:mi>p</m:mi><m:mo>=</m:mo><m:mi>h</m:mi><m:mi>ρ</m:mi><m:mi>g</m:mi><m:mo>.</m:mo></m:mrow></m:math></equation>
-Entering the density of water from <link target-id="fs-id1170958993859"/> and taking <emphasis effect="italics">h</emphasis> to be the average depth of 40.0 m, we obtain
+<list id="fs-id1170958006084" list-type="enumerated" number-style="lower-alpha">
+<item>The average pressure due to the weight of a fluid is<newline/>
+<equation id="fs-id1170959036594"><m:math><m:mrow><m:mi>p</m:mi><m:mo>=</m:mo><m:mi>h</m:mi><m:mi>ρ</m:mi><m:mi>g</m:mi><m:mo>.</m:mo></m:mrow></m:math></equation><newline/>
+Entering the density of water from <link target-id="fs-id1170958649431"/> and taking <emphasis effect="italics">h</emphasis> to be the average depth of 40.0 m, we obtain<newline/>
 <equation id="fs-id1170959047868" class="unnumbered"><label/><m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:mi>p</m:mi></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:mn>40.0</m:mn><m:mspace width="0.2em"/><m:mtext>m</m:mtext><m:mo stretchy="false">)</m:mo><m:mrow><m:mo>(</m:mo><m:mrow><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>3</m:mn></m:msup><m:mspace width="0.2em"/><m:mfrac><m:mrow><m:mtext>kg</m:mtext></m:mrow><m:mrow><m:msup><m:mtext>m</m:mtext><m:mn>3</m:mn></m:msup></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mrow><m:mo>(</m:mo><m:mrow><m:mn>9.80</m:mn><m:mfrac><m:mtext>m</m:mtext><m:mrow><m:msup><m:mtext>s</m:mtext><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd columnalign="left"><m:mo>=</m:mo><m:mn>3.92</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>5</m:mn></m:msup><m:mspace width="0.2em"/><m:mfrac><m:mtext>N</m:mtext><m:mrow><m:msup><m:mtext>m</m:mtext><m:mn>2</m:mn></m:msup></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>392</m:mn><m:mspace width="0.2em"/><m:mtext>kPa</m:mtext><m:mtext>.</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation></item>
-<item>We have already found the value for <emphasis effect="italics">p</emphasis>. The area of the dam is
-<equation id="fs-id1170959036389" class="unnumbered"><label/><m:math><m:mrow><m:mi>A</m:mi><m:mo>=</m:mo><m:mn>80.0</m:mn><m:mspace width="0.2em"/><m:mtext>m</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>500</m:mn><m:mspace width="0.2em"/><m:mtext>m</m:mtext><m:mo>=</m:mo><m:mn>4.00</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>4</m:mn></m:msup><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>m</m:mtext></m:mrow><m:mn>2</m:mn></m:msup><m:mo>,</m:mo></m:mrow></m:math></equation>
-so that 
+<item>We have already found the value for <emphasis effect="italics">p</emphasis>. The area of the dam is<newline/>
+<equation id="fs-id1170959036389" class="unnumbered"><label/><m:math><m:mrow><m:mi>A</m:mi><m:mo>=</m:mo><m:mn>80.0</m:mn><m:mspace width="0.2em"/><m:mtext>m</m:mtext><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:mn>500</m:mn><m:mspace width="0.2em"/><m:mtext>m</m:mtext><m:mo>=</m:mo><m:mn>4.00</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>4</m:mn></m:msup><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>m</m:mtext></m:mrow><m:mn>2</m:mn></m:msup><m:mo>,</m:mo></m:mrow></m:math></equation><newline/>
+so that<newline/>
 <equation id="fs-id1170959047670" class="unnumbered"><label/><m:math><m:mtable><m:mtr/><m:mtr><m:mtd columnalign="right"><m:mi>F</m:mi></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo><m:mo stretchy="false">(</m:mo><m:mn>3.92</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mn>5</m:mn></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>N/m</m:mtext><m:mn>2</m:mn></m:msup><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>4.00</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mn>4</m:mn></m:msup><m:mspace width="0.2em"/><m:msup><m:mtext>m</m:mtext><m:mn>2</m:mn></m:msup><m:mo stretchy="false">)</m:mo></m:mtd></m:mtr><m:mtr><m:mtd/><m:mtd columnalign="left"><m:mo>=</m:mo><m:mn>1.57</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mn>10</m:mn><m:mrow><m:mn>10</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:mtext>N</m:mtext><m:mtext>.</m:mtext></m:mtd></m:mtr></m:mtable></m:math></equation></item>
-</list><para id="fs-id1170958009527"><title>Significance</title>
+</list>
+<para id="fs-id1170958009527"><title>Significance</title>
 Although this force seems large, it is small compared with the <m:math><m:mrow><m:mn>1.96</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>13</m:mn></m:mrow></m:msup><m:mtext>N</m:mtext></m:mrow></m:math> weight of the water in the reservoir. In fact, it is only 0.0800% of the weight.</para>
 </example>
 <note id="fs-id1170958012924" class="check-understanding">
 <exercise id="fs-id1170958012928">
 <problem id="fs-id1170958012930">
-<para id="fs-id1170958013207"> If the reservoir in <link target-id="fs-id1170958017886"/> covered twice the area, but was kept to the same depth, would the dam need to be redesigned?</para>
+<para id="fs-id1170958013207"><emphasis effect="bold">Check Your Understanding</emphasis> If the reservoir in <link target-id="fs-id1170958017886"/> covered twice the area, but was kept to the same depth, would the dam need to be redesigned?</para>
 </problem>
 <solution id="fs-id1170958020276">
 <para id="fs-id1170958020278">The pressure found in part (a) of the example is completely independent of the width and length of the lake; it depends only on its average depth at the dam. Thus, the force depends only on the water’s average depth and the dimensions of the dam, not on the horizontal extent of the reservoir. In the diagram, note that the thickness of the dam increases with depth to balance the increasing force due to the increasing pressure.</para></solution>
@@ -377,10 +379,10 @@ Although this force seems large, it is small compared with the <m:math><m:mrow><
 <caption>Forces on a mass element inside a fluid. The weight of the element itself is shown in the free-body diagram.</caption>
 </figure>
 <para id="fs-id1170959036605">Since the element of fluid between <emphasis effect="italics">y</emphasis> and <m:math><m:mrow><m:mi>y</m:mi><m:mo>+</m:mo><m:mtext>Δ</m:mtext><m:mi>y</m:mi></m:mrow></m:math> is not accelerating, the forces are balanced. Using a Cartesian <emphasis effect="italics">y</emphasis>-axis oriented up, we find the following equation for the <emphasis effect="italics">y</emphasis>-component:</para>
-<equation id="fs-id1170959047159"><m:math><m:mrow><m:mi>p</m:mi><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>y</m:mi><m:mo>+</m:mo><m:mtext>Δ</m:mtext><m:mi>y</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:mi>A</m:mi><m:mo>−</m:mo><m:mi>p</m:mi><m:mrow><m:mo>(</m:mo><m:mi>y</m:mi><m:mo>)</m:mo></m:mrow><m:mi>A</m:mi><m:mo>−</m:mo><m:mi>g</m:mi><m:mtext>Δ</m:mtext><m:mi>m</m:mi><m:mo>=</m:mo><m:mn>0</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>Δ</m:mtext><m:mi>y</m:mi><m:mo>&lt;</m:mo><m:mn>0</m:mn></m:mrow><m:mo>)</m:mo><m:mo>.</m:mo></m:mrow></m:mrow></m:math>
+<equation id="fs-id1170959047159"><m:math><m:mrow><m:mi>p</m:mi><m:mrow><m:mo>(</m:mo><m:mrow><m:mi>y</m:mi><m:mo>+</m:mo><m:mtext>Δ</m:mtext><m:mi>y</m:mi></m:mrow><m:mo>)</m:mo></m:mrow><m:mi>A</m:mi><m:mo>−</m:mo><m:mi>p</m:mi><m:mrow><m:mo>(</m:mo><m:mi>y</m:mi><m:mo>)</m:mo></m:mrow><m:mi>A</m:mi><m:mo>−</m:mo><m:mi>g</m:mi><m:mtext>Δ</m:mtext><m:mi>m</m:mi><m:mo>=</m:mo><m:mn>0</m:mn><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>Δ</m:mtext><m:mi>y</m:mi><m:mo>&gt;</m:mo><m:mn>0</m:mn></m:mrow><m:mo>)</m:mo><m:mo>.</m:mo></m:mrow></m:mrow></m:math>
 </equation>
 <para id="fs-id1170958994198">Note that if the element had a non-zero <emphasis effect="italics">y</emphasis>-component of acceleration, the right-hand side would not be zero but would instead be the mass times the <emphasis effect="italics">y</emphasis>-acceleration. The mass of the element can be written in terms of the density of the fluid and the volume of the elements:</para>
-<equation id="fs-id1170959078048" class="unnumbered"><label/><m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>m</m:mi><m:mo>=</m:mo><m:mrow><m:mo>|</m:mo><m:mrow><m:mi>ρ</m:mi><m:mi>A</m:mi><m:mtext>Δ</m:mtext><m:mi>y</m:mi></m:mrow><m:mo>|</m:mo></m:mrow><m:mo>=</m:mo><m:mtext>−</m:mtext><m:mi>ρ</m:mi><m:mi>A</m:mi><m:mtext>Δ</m:mtext><m:mi>y</m:mi><m:mtext> </m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>Δ</m:mtext><m:mi>y</m:mi><m:mo>&lt;</m:mo><m:mn>0</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>.</m:mo></m:mrow></m:math></equation>
+<equation id="fs-id1170959078048" class="unnumbered"><label/><m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>m</m:mi><m:mo>=</m:mo><m:mrow><m:mo>|</m:mo><m:mrow><m:mi>ρ</m:mi><m:mi>A</m:mi><m:mtext>Δ</m:mtext><m:mi>y</m:mi></m:mrow><m:mo>|</m:mo></m:mrow><m:mo>=</m:mo><m:mtext>−</m:mtext><m:mi>ρ</m:mi><m:mi>A</m:mi><m:mtext>Δ</m:mtext><m:mi>y</m:mi><m:mtext> </m:mtext><m:mrow><m:mo>(</m:mo><m:mrow><m:mtext>Δ</m:mtext><m:mi>y</m:mi><m:mo>&gt;</m:mo><m:mn>0</m:mn></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>.</m:mo></m:mrow></m:math></equation>
 <para id="fs-id1170959033558">Putting this expression for <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>m</m:mi></m:mrow></m:math> into <link target-id="fs-id1170959047159"/> and then dividing both sides by <m:math><m:mrow><m:mi>A</m:mi><m:mtext>Δ</m:mtext><m:mi>y</m:mi></m:mrow></m:math>, we find</para>
 <equation id="fs-id1170958074452"><m:math><m:mrow><m:mfrac><m:mrow><m:mi>p</m:mi><m:mo stretchy="false">(</m:mo><m:mi>y</m:mi><m:mo>+</m:mo><m:mtext>Δ</m:mtext><m:mi>y</m:mi><m:mo stretchy="false">)</m:mo><m:mo>−</m:mo><m:mi>p</m:mi><m:mo stretchy="false">(</m:mo><m:mi>y</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:mi>y</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mtext>−</m:mtext><m:mi>ρ</m:mi><m:mi>g</m:mi><m:mo>.</m:mo></m:mrow></m:math></equation>
 <para id="fs-id1170959029918">Taking the limit of the infinitesimally thin element <m:math><m:mrow><m:mtext>Δ</m:mtext><m:mi>y</m:mi><m:mo stretchy="false">→</m:mo><m:mn>0</m:mn></m:mrow></m:math>, we obtain the following differential equation, which gives the variation of pressure in a fluid:</para>
@@ -649,7 +651,7 @@ b. The pressure increases as the depth increases, so the dam must be built thick
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1170958068082">
 <term>density</term>

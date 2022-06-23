@@ -4,7 +4,8 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58377</md:content-id>
   <md:title>Sound Intensity</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para><list>
+  <md:abstract>By the end of this section, you will be able to: 
+<list>
 <item>Define the term intensity</item>
 <item>Explain the concept of sound intensity level</item>
 <item>Describe how the human ear translates sound</item>
@@ -20,7 +21,7 @@
 </media>
 <caption>Noise on crowded roadways, like this one in Delhi, makes it hard to hear others unless they shout. (credit: “Lingaraj G J”/Flickr)</caption>
 </figure>
-<para id="fs-id1165038013084">In <link document="m58367">Waves</link>, we defined intensity as the power per unit area carried by a wave. Power is the rate at which energy is transferred by the wave. In equation form, intensity <emphasis effect="italics">I</emphasis> is</para>
+<para id="fs-id1165038013084">In <link class="target-chapter" document="m58367">Waves</link>, we defined intensity as the power per unit area carried by a wave. Power is the rate at which energy is transferred by the wave. In equation form, intensity <emphasis effect="italics">I</emphasis> is</para>
 <equation id="fs-id1165038026908"><m:math><m:mrow><m:mi>I</m:mi><m:mo>=</m:mo><m:mfrac><m:mi>P</m:mi><m:mi>A</m:mi></m:mfrac><m:mo>,</m:mo></m:mrow></m:math></equation>
 <para id="fs-id1165036791778">where <emphasis effect="italics">P</emphasis> is the power through an area <emphasis effect="italics">A</emphasis>. The SI unit for <emphasis effect="italics">I</emphasis> is <m:math><m:mrow><m:msup><m:mrow><m:mtext>W/m</m:mtext></m:mrow><m:mn>2</m:mn></m:msup><m:mo>.</m:mo></m:mrow></m:math> If we assume that the sound wave is spherical, and that no energy is lost to thermal processes, the energy of the sound wave is spread over a larger area as distance increases, so the intensity decreases. The area of a sphere is <m:math><m:mrow><m:mi>A</m:mi><m:mo>=</m:mo><m:mn>4</m:mn><m:mi>π</m:mi><m:msup><m:mi>r</m:mi><m:mn>2</m:mn></m:msup><m:mo>.</m:mo></m:mrow></m:math> As the wave spreads out from <m:math><m:mrow><m:msub><m:mi>r</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:math> to <m:math><m:mrow><m:msub><m:mi>r</m:mi><m:mn>2</m:mn></m:msub><m:mo>,</m:mo></m:mrow></m:math> the energy also spreads out over a larger area:</para>
 <equation id="fs-id1165037063618" class="unnumbered"><label/><m:math><m:mtable><m:mtr><m:mtd columnalign="right"><m:msub><m:mi>P</m:mi><m:mn>1</m:mn></m:msub></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:msub><m:mi>P</m:mi><m:mn>2</m:mn></m:msub></m:mtd></m:mtr><m:mtr><m:mtd columnalign="right"><m:msub><m:mi>I</m:mi><m:mn>1</m:mn></m:msub><m:mn>4</m:mn><m:mi>π</m:mi><m:msubsup><m:mi>r</m:mi><m:mn>1</m:mn><m:mn>2</m:mn></m:msubsup></m:mtd><m:mtd columnalign="left"><m:mo>=</m:mo></m:mtd><m:mtd columnalign="left"><m:msub><m:mi>I</m:mi><m:mn>2</m:mn></m:msub><m:mn>4</m:mn><m:mi>π</m:mi><m:msubsup><m:mi>r</m:mi><m:mn>2</m:mn><m:mn>2</m:mn></m:msubsup><m:mo>;</m:mo></m:mtd></m:mtr></m:mtable></m:math></equation>
@@ -216,9 +217,9 @@ We are given <m:math><m:mrow><m:mi>Δ</m:mi><m:mi>p</m:mi></m:mrow></m:math>, so
 Sound travels at 331 m/s in air at <m:math><m:mrow><m:mn>0</m:mn><m:mtext>°C</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math><newline/>
 Air has a density of
 <m:math><m:mrow><m:mn>1.29</m:mn><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>kg/m</m:mtext></m:mrow><m:mn>3</m:mn></m:msup></m:mrow></m:math> at atmospheric pressure and <m:math><m:mrow><m:mn>0</m:mn><m:mtext>°C</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math></item>
-<item>Enter these values and the pressure amplitude into <m:math><m:mrow><m:mi>I</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>Δ</m:mtext><m:mi>p</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mn>2</m:mn><m:mi>ρ</m:mi><m:mi>v</m:mi></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math>
+<item>Enter these values and the pressure amplitude into <m:math><m:mrow><m:mi>I</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>Δ</m:mtext><m:mi>p</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mn>2</m:mn><m:mi>ρ</m:mi><m:mi>v</m:mi></m:mrow></m:mfrac><m:mo>.</m:mo></m:mrow></m:math><newline/>
 <equation id="fs-id1165036789228" class="unnumbered"><label/><m:math><m:mrow><m:mi>I</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>Δ</m:mtext><m:mi>p</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mn>2</m:mn><m:mi>ρ</m:mi><m:mi>v</m:mi></m:mrow></m:mfrac><m:mo>=</m:mo><m:mfrac><m:mrow><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>0.656</m:mn><m:mspace width="0.2em"/><m:mtext>Pa</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">(</m:mo><m:mn>1.29</m:mn><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>kg/m</m:mtext></m:mrow><m:mn>3</m:mn></m:msup><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>331</m:mn><m:mspace width="0.2em"/><m:mtext>m/s</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>5.04</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−4</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>W/m</m:mtext></m:mrow><m:mn>2</m:mn></m:msup><m:mo>.</m:mo></m:mrow></m:math></equation></item>
-<item>Enter the value for <emphasis effect="italics">I</emphasis> and the known value for <m:math><m:mrow><m:msub><m:mi>I</m:mi><m:mn>0</m:mn></m:msub></m:mrow></m:math> into <m:math><m:mrow><m:mi>β</m:mi><m:mo stretchy="false">(</m:mo><m:mtext>dB</m:mtext><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>10</m:mn><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>log</m:mtext></m:mrow><m:mrow><m:mn>10</m:mn></m:mrow></m:msub><m:mo stretchy="false">(</m:mo><m:mi>I</m:mi><m:mtext>/</m:mtext><m:msub><m:mi>I</m:mi><m:mn>0</m:mn></m:msub><m:mo stretchy="false">)</m:mo><m:mo>.</m:mo></m:mrow></m:math> Calculate to find the sound intensity level in decibels:
+<item>Enter the value for <emphasis effect="italics">I</emphasis> and the known value for <m:math><m:mrow><m:msub><m:mi>I</m:mi><m:mn>0</m:mn></m:msub></m:mrow></m:math> into <m:math><m:mrow><m:mi>β</m:mi><m:mo stretchy="false">(</m:mo><m:mtext>dB</m:mtext><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>10</m:mn><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>log</m:mtext></m:mrow><m:mrow><m:mn>10</m:mn></m:mrow></m:msub><m:mo stretchy="false">(</m:mo><m:mi>I</m:mi><m:mtext>/</m:mtext><m:msub><m:mi>I</m:mi><m:mn>0</m:mn></m:msub><m:mo stretchy="false">)</m:mo><m:mo>.</m:mo></m:mrow></m:math> Calculate to find the sound intensity level in decibels:<newline/>
 <equation id="fs-id1165037151418" class="unnumbered"><label/><m:math><m:mrow><m:mn>10</m:mn><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>log</m:mtext></m:mrow><m:mrow><m:mn>10</m:mn></m:mrow></m:msub><m:mo stretchy="false">(</m:mo><m:mn>5.04</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>8</m:mn></m:msup><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>10</m:mn><m:mo stretchy="false">(</m:mo><m:mn>8.70</m:mn><m:mo stretchy="false">)</m:mo><m:mtext>dB</m:mtext><m:mo>=</m:mo><m:mn>87</m:mn><m:mspace width="0.2em"/><m:mtext>dB</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math></equation></item>
 </list>
 <para id="fs-id1165036846980"><title>Significance</title>
@@ -232,15 +233,15 @@ We are given that the ratio of two intensities is 2 to 1, and are then asked to 
 <para id="fs-id1165037058629"><title>Solution</title></para>
 <list id="fs-id1165037901027" list-type="enumerated" number-style="arabic">
 <item>Identify knowns:<newline/>
-The ratio of the two intensities is 2 to 1, or
-<equation id="fs-id1165037123441" class="unnumbered"><label/><m:math><m:mrow><m:mfrac><m:mrow><m:msub><m:mi>I</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mrow><m:msub><m:mi>I</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>2.00</m:mn><m:mo>.</m:mo></m:mrow></m:math></equation>
-We wish to show that the difference in sound levels is about 3 dB. That is, we want to show:
-<equation id="fs-id1165038372133" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mi>β</m:mi><m:mn>2</m:mn></m:msub><m:mo>−</m:mo><m:msub><m:mi>β</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:mn>3</m:mn><m:mspace width="0.2em"/><m:mtext>dB.</m:mtext></m:mrow></m:math></equation>
+The ratio of the two intensities is 2 to 1, or<newline/>
+<equation id="fs-id1165037123441" class="unnumbered"><label/><m:math><m:mrow><m:mfrac><m:mrow><m:msub><m:mi>I</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mrow><m:msub><m:mi>I</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfrac><m:mo>=</m:mo><m:mn>2.00</m:mn><m:mo>.</m:mo></m:mrow></m:math></equation><newline/>
+We wish to show that the difference in sound levels is about 3 dB. That is, we want to show:<newline/>
+<equation id="fs-id1165038372133" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mi>β</m:mi><m:mn>2</m:mn></m:msub><m:mo>−</m:mo><m:msub><m:mi>β</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:mn>3</m:mn><m:mspace width="0.2em"/><m:mtext>dB.</m:mtext></m:mrow></m:math></equation><newline/>
 Note that<newline/>
 <equation id="fs-id1165038034497" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mrow><m:mtext>log</m:mtext></m:mrow><m:mrow><m:mn>10</m:mn></m:mrow></m:msub><m:mi>b</m:mi><m:mo>−</m:mo><m:msub><m:mrow><m:mtext>log</m:mtext></m:mrow><m:mrow><m:mn>10</m:mn></m:mrow></m:msub><m:mi>a</m:mi><m:mo>=</m:mo><m:msub><m:mrow><m:mtext>log</m:mtext></m:mrow><m:mrow><m:mn>10</m:mn></m:mrow></m:msub><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mi>b</m:mi><m:mi>a</m:mi></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>.</m:mo></m:mrow></m:math></equation></item>
-<item>Use the definition of <m:math><m:mi>β</m:mi></m:math> to obtain
-<equation id="fs-id1165038191268" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mi>β</m:mi><m:mn>2</m:mn></m:msub><m:mo>−</m:mo><m:msub><m:mi>β</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:mn>10</m:mn><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>log</m:mtext></m:mrow><m:mrow><m:mn>10</m:mn></m:mrow></m:msub><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:msub><m:mi>I</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mrow><m:msub><m:mi>I</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>10</m:mn><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>log</m:mtext></m:mrow><m:mrow><m:mn>10</m:mn></m:mrow></m:msub><m:mn>2.00</m:mn><m:mo>=</m:mo><m:mn>10</m:mn><m:mo stretchy="false">(</m:mo><m:mn>0.301</m:mn><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mtext>dB</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math></equation>
-Thus,
+<item>Use the definition of <m:math><m:mi>β</m:mi></m:math> to obtain<newline/>
+<equation id="fs-id1165038191268" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mi>β</m:mi><m:mn>2</m:mn></m:msub><m:mo>−</m:mo><m:msub><m:mi>β</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:mn>10</m:mn><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>log</m:mtext></m:mrow><m:mrow><m:mn>10</m:mn></m:mrow></m:msub><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mrow><m:msub><m:mi>I</m:mi><m:mn>2</m:mn></m:msub></m:mrow><m:mrow><m:msub><m:mi>I</m:mi><m:mn>1</m:mn></m:msub></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>=</m:mo><m:mn>10</m:mn><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>log</m:mtext></m:mrow><m:mrow><m:mn>10</m:mn></m:mrow></m:msub><m:mn>2.00</m:mn><m:mo>=</m:mo><m:mn>10</m:mn><m:mo stretchy="false">(</m:mo><m:mn>0.301</m:mn><m:mo stretchy="false">)</m:mo><m:mspace width="0.2em"/><m:mtext>dB</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math></equation><newline/>
+Thus,<newline/>
 <equation id="fs-id1165038385755" class="unnumbered"><label/><m:math><m:mrow><m:msub><m:mi>β</m:mi><m:mn>2</m:mn></m:msub><m:mo>−</m:mo><m:msub><m:mi>β</m:mi><m:mn>1</m:mn></m:msub><m:mo>=</m:mo><m:mn>3.01</m:mn><m:mspace width="0.2em"/><m:mtext>dB</m:mtext><m:mtext>.</m:mtext></m:mrow></m:math></equation>
 </item>
 </list>
@@ -250,7 +251,7 @@ This means that the two sound intensity levels differ by 3.01 dB, or about 3 dB,
 <note id="fs-id1165038376526" class="check-understanding">
 <exercise id="fs-id1165037049263">
 <problem id="fs-id1165038339278">
-<para id="fs-id1165037266331"> Identify common sounds at the levels of 10 dB, 50 dB, and 100 dB.</para>
+<para id="fs-id1165037266331"><emphasis effect="bold">Check Your Understanding</emphasis> Identify common sounds at the levels of 10 dB, 50 dB, and 100 dB.</para>
 </problem>
 <solution id="fs-id1165036795430">
 <para id="fs-id1165038150332">10 dB: rustle of leaves; 50 dB: average office; 100 dB: noisy factory</para>
@@ -293,7 +294,7 @@ These answers, like all information extracted from <link target-id="CNX_UPhysics
 <note id="fs-id1165037873517" class="check-understanding">
 <exercise id="fs-id1165038396471">
 <problem id="fs-id1165036974278">
-<para id="fs-id1165037214663"> Describe how amplitude is related to the loudness of a sound.</para>
+<para id="fs-id1165037214663"><emphasis effect="bold">Check Your Understanding</emphasis> Describe how amplitude is related to the loudness of a sound.</para>
 </problem>
 <solution id="fs-id1165036799064">
 <para id="fs-id1165037968028">Amplitude is directly proportional to the experience of loudness. As amplitude increases, loudness increases.</para>
@@ -305,11 +306,11 @@ These answers, like all information extracted from <link target-id="CNX_UPhysics
 <section id="fs-id1165036901152" class="key-concepts">
 <title>Summary</title>
 <list id="fs-id1165037894005" list-type="bulleted" bullet-style="bullet">
-<item>Intensity <m:math><m:mrow><m:mi>I</m:mi><m:mo>=</m:mo><m:mi>P</m:mi><m:mtext>/</m:mtext><m:mi>A</m:mi></m:mrow></m:math> is the same for a sound wave as was defined for all waves, where <emphasis effect="italics">P</emphasis> is the power crossing area <emphasis effect="italics">A</emphasis>. The SI unit for <emphasis effect="italics">I</emphasis> is watts per meter squared. The intensity of a sound wave is also related to the pressure amplitude <m:math><m:mrow><m:mi>Δ</m:mi><m:mi>p</m:mi><m:mtext>:</m:mtext></m:mrow></m:math>
-<equation id="fs-id1165036851501" class="unnumbered"><label/><m:math><m:mrow><m:mi>I</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>Δ</m:mtext><m:mi>p</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mn>2</m:mn><m:mspace width="0.2em"/><m:mi>ρ</m:mi><m:mi>v</m:mi></m:mrow></m:mfrac><m:mo>,</m:mo></m:mrow></m:math></equation>
+<item>Intensity <m:math><m:mrow><m:mi>I</m:mi><m:mo>=</m:mo><m:mi>P</m:mi><m:mtext>/</m:mtext><m:mi>A</m:mi></m:mrow></m:math> is the same for a sound wave as was defined for all waves, where <emphasis effect="italics">P</emphasis> is the power crossing area <emphasis effect="italics">A</emphasis>. The SI unit for <emphasis effect="italics">I</emphasis> is watts per meter squared. The intensity of a sound wave is also related to the pressure amplitude <m:math><m:mrow><m:mi>Δ</m:mi><m:mi>p</m:mi><m:mtext>:</m:mtext></m:mrow></m:math><newline/>
+<equation id="fs-id1165036851501" class="unnumbered"><label/><m:math><m:mrow><m:mi>I</m:mi><m:mo>=</m:mo><m:mfrac><m:mrow><m:msup><m:mrow><m:mo stretchy="false">(</m:mo><m:mtext>Δ</m:mtext><m:mi>p</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mn>2</m:mn></m:msup></m:mrow><m:mrow><m:mn>2</m:mn><m:mspace width="0.2em"/><m:mi>ρ</m:mi><m:mi>v</m:mi></m:mrow></m:mfrac><m:mo>,</m:mo></m:mrow></m:math></equation><newline/>
 where <m:math><m:mi>ρ</m:mi></m:math> is the density of the medium in which the sound wave travels and <m:math><m:mrow><m:msub><m:mi>v</m:mi><m:mi>w</m:mi></m:msub></m:mrow></m:math> is the speed of sound in the medium.</item>
-<item>Sound intensity level in units of decibels (dB) is 
-<equation id="fs-id1165038337568" class="unnumbered"><label/><m:math><m:mrow><m:mi>β</m:mi><m:mo stretchy="false">(</m:mo><m:mtext>dB</m:mtext><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>10</m:mn><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>log</m:mtext></m:mrow><m:mrow><m:mn>10</m:mn></m:mrow></m:msub><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mi>I</m:mi><m:mrow><m:msub><m:mi>I</m:mi><m:mn>0</m:mn></m:msub></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>,</m:mo></m:mrow></m:math></equation>
+<item>Sound intensity level in units of decibels (dB) is<newline/>
+<equation id="fs-id1165038337568" class="unnumbered"><label/><m:math><m:mrow><m:mi>β</m:mi><m:mo stretchy="false">(</m:mo><m:mtext>dB</m:mtext><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>10</m:mn><m:mspace width="0.2em"/><m:msub><m:mrow><m:mtext>log</m:mtext></m:mrow><m:mrow><m:mn>10</m:mn></m:mrow></m:msub><m:mrow><m:mo>(</m:mo><m:mrow><m:mfrac><m:mi>I</m:mi><m:mrow><m:msub><m:mi>I</m:mi><m:mn>0</m:mn></m:msub></m:mrow></m:mfrac></m:mrow><m:mo>)</m:mo></m:mrow><m:mo>,</m:mo></m:mrow></m:math></equation><newline/>
 where <m:math><m:mrow><m:msub><m:mi>I</m:mi><m:mn>0</m:mn></m:msub><m:mo>=</m:mo><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mn>−12</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>W/m</m:mtext></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math> is the threshold intensity of hearing.</item>
 <item>The perception of frequency is pitch. The perception of intensity is loudness and loudness has units of phons.</item>
 </list>
@@ -339,7 +340,8 @@ where <m:math><m:mrow><m:msub><m:mi>I</m:mi><m:mn>0</m:mn></m:msub><m:mo>=</m:mo
 </exercise>
 <exercise id="fs-id1165036978920">
 <problem id="fs-id1165037165708">
-<para id="fs-id1165037270413">The warning tag on a lawn mower states that it produces noise at a level of 91.0 dB. What is the intensity of this sound in watts per meter squared?</para></problem>
+<para id="fs-id1165037270413">The warning tag on a lawn mower states that it produces noise at a level of 91.0 dB. What is this in watts per meter squared?</para>
+</problem>
 <solution id="fs-id1165037199271">
 <para id="fs-id1165037145694"><m:math><m:mrow><m:mn>1.26</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mrow><m:mtext>−</m:mtext><m:mn>3</m:mn></m:mrow></m:msup><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>W/m</m:mtext></m:mrow><m:mn>2</m:mn></m:msup></m:mrow></m:math></para>
 </solution>
@@ -464,7 +466,7 @@ where <m:math><m:mrow><m:msub><m:mi>I</m:mi><m:mn>0</m:mn></m:msub><m:mo>=</m:mo
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1165037183035">
 <term>loudness</term>

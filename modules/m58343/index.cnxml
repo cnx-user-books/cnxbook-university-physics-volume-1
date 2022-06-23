@@ -3,7 +3,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58343</md:content-id>
   <md:title>Elasticity and Plasticity</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of this section, you will be able to:
 <list>
 <item>Explain the limit where a deformation of material is elastic</item>
 <item>Describe the range where materials show plastic behavior</item>
@@ -189,11 +189,12 @@
 </media>
 </problem>
 <solution id="fs-id1163713149347">
-<para id="fs-id1163713193955">a. at corner 66.7 N at <m:math><m:mrow><m:mn>30</m:mn><m:mtext>°</m:mtext></m:mrow></m:math> with the horizontal; at floor 177 N at <m:math><m:mrow><m:mn>109</m:mn><m:mtext>°</m:mtext></m:mrow></m:math> with the horizontal; b. <m:math><m:mrow><m:msub><m:mi>μ</m:mi><m:mtext>s</m:mtext></m:msub><m:mo>=</m:mo><m:mn>0.346</m:mn></m:mrow></m:math></para></solution>
+<para id="fs-id1163713193955">a. at corner 66.7 N at <m:math><m:mrow><m:mn>30</m:mn><m:mtext>°</m:mtext></m:mrow></m:math> with the horizontal; at floor 192.4 N at <m:math><m:mrow><m:mn>60</m:mn><m:mtext>°</m:mtext></m:mrow></m:math> with the horizontal; b. <m:math><m:mrow><m:msub><m:mi>μ</m:mi><m:mtext>s</m:mtext></m:msub><m:mo>=</m:mo><m:mn>0.577</m:mn></m:mrow></m:math></para>
+</solution>
 </exercise>
 <exercise id="fs-id1163713006027">
 <problem id="fs-id1163713535566">
-<para id="fs-id1163713042516">A 40-kg boy jumps from a height of 3.0 m, lands on one foot and comes to rest in 0.10 s after he hits the ground. Assume that he comes to rest with a constant acceleration opposite to the motion. If the total cross-sectional area of the bones in his legs just above his ankles is <m:math><m:mrow><m:mn>3.0</m:mn><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>cm</m:mtext></m:mrow><m:mn>2</m:mn></m:msup><m:mo>,</m:mo></m:mrow></m:math> what is the compression stress in these bones? Leg bones can be fractured when they are subjected to stress greater than <m:math><m:mrow><m:mn>1.7</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>8</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>Pa</m:mtext><m:mo>.</m:mo></m:mrow></m:math> Is the boy in danger of breaking his leg?</para>
+<para id="fs-id1163713042516">A 40-kg boy jumps from a height of 3.0 m, lands on one foot and comes to rest in 0.10 s after he hits the ground. Assume that he comes to rest with a constant deceleration. If the total cross-sectional area of the bones in his legs just above his ankles is <m:math><m:mrow><m:mn>3.0</m:mn><m:mspace width="0.2em"/><m:msup><m:mrow><m:mtext>cm</m:mtext></m:mrow><m:mn>2</m:mn></m:msup><m:mo>,</m:mo></m:mrow></m:math> what is the compression stress in these bones? Leg bones can be fractured when they are subjected to stress greater than <m:math><m:mrow><m:mn>1.7</m:mn><m:mspace width="0.2em"/><m:mo>×</m:mo><m:mspace width="0.2em"/><m:msup><m:mrow><m:mn>10</m:mn></m:mrow><m:mn>8</m:mn></m:msup><m:mspace width="0.2em"/><m:mtext>Pa</m:mtext><m:mo>.</m:mo></m:mrow></m:math> Is the boy in danger of breaking his leg?</para>
 </problem>
 </exercise>
 <exercise id="fs-id1163713156113">
@@ -281,7 +282,7 @@
 </solution>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1163713458619">
 <term>breaking stress (ultimate stress)</term>

@@ -4,7 +4,7 @@
 <metadata xmlns:md="http://cnx.rice.edu/mdml">
   <md:content-id>m58356</md:content-id>
   <md:title>Archimedes’ Principle and Buoyancy</md:title>
-  <md:abstract><para>By the end of this section, you will be able to:</para>
+  <md:abstract>By the end of this section, you will be able to:
 <list>
 <item>Define buoyant force</item>
 <item>State Archimedes’ principle</item>
@@ -207,7 +207,7 @@ The woman’s density is less than the fluid density. We expect this because she
 </problem>
 </exercise>
 </section>
- </content>
+</content>
 <glossary>
 <definition id="fs-id1170958644891">
 <term>Archimedes’ principle</term>
