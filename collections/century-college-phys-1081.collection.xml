@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="OpenStax University Physics">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col30851</md:content-id>
     <md:title>Century College PHYS 1081</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>a456762d-e16e-4351-84c3-f2778e0e081b</md:uuid>
-<md:slug>century-college-phys-1081</md:slug>
-</metadata>
+    <md:slug>century-college-phys-1081</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Mechanics</md:title>
